@@ -1,0 +1,497 @@
+{
+  "unitId": "day01",
+  "title": "Thoát Cảnh Thất Nghiệp - Tuyển Dụng",
+  "topic": "Tuyển dụng",
+  "coreVocab": [
+    {
+      "word": "résumé",
+      "pronunciation": { "uk": "ˈrezəmeɪ", "us": "ˈrezəmeɪ" },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [{ "vi": "sơ yếu lý lịch" }],
+      "examples": [{ "en": "Fax your résumé and cover letter to the above number.", "vi": "Hãy gửi sơ yếu lý lịch và đơn xin việc của bạn qua fax đến số bên trên." }],
+      "derivatives": [],
+      "notes": "Thường đi cùng với 'cover letter' (đơn xin việc).",
+      "tags": ["recruitment", "documents"]
+    },
+    {
+      "word": "opening",
+      "pronunciation": { "uk": "ˈəʊpənɪŋ", "us": "ˈoʊpənɪŋ" },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [{ "vi": "vị trí trống, sự mở cửa, lễ khai trương" }],
+      "examples": [
+        { "en": "There are several job openings at the restaurant right now.", "vi": "Ngay bây giờ đang có một vài vị trí công việc còn trống ở nhà hàng." },
+        { "en": "JX Finances officially announced the opening of its first international branch.", "vi": "JX Finances đã chính thức thông báo việc khai trương chi nhánh quốc tế đầu tiên của mình." }
+      ],
+      "derivatives": [],
+      "notes": "Là danh từ đếm được khi mang nghĩa 'vị trí trống' (an opening/openings). Đồng nghĩa với 'vacancy'.",
+      "tags": ["recruitment", "job"]
+    },
+    {
+      "word": "applicant",
+      "pronunciation": { "uk": "ˈæplɪkənt", "us": "ˈæplɪkənt" },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [{ "vi": "ứng viên, người xin việc" }],
+      "examples": [{ "en": "Applicants are required to submit a résumé.", "vi": "Các ứng viên cần phải nộp sơ yếu lý lịch." }],
+      "derivatives": [
+        { "word": "apply", "type": "v", "meaning": "ứng tuyển" },
+        { "word": "application", "type": "n", "meaning": "đơn ứng tuyển" }
+      ],
+      "notes": "Cụm từ thường gặp: complete/submit/receive an application. Phân biệt với 'application' (đơn) và 'appliance' (thiết bị).",
+      "tags": ["recruitment", "people"]
+    },
+    {
+      "word": "requirement",
+      "pronunciation": { "uk": "rɪˈkwaɪəmənt", "us": "rɪˈkwaɪərmənt" },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [{ "vi": "điều kiện cần thiết, yêu cầu" }],
+      "examples": [{ "en": "A driver's license is a requirement of this job.", "vi": "Giấy phép lái xe là một điều kiện cần cho công việc này." }],
+      "derivatives": [{ "word": "require", "type": "v", "meaning": "yêu cầu" }],
+      "notes": "Cụm từ thường gặp: a requirement of/for something.",
+      "tags": ["recruitment", "job"]
+    },
+    {
+      "word": "meet",
+      "pronunciation": { "uk": "miːt", "us": "miːt" },
+      "type": "v",
+      "frequency": 3,
+      "meanings": [{ "vi": "thỏa mãn, đáp ứng (yêu cầu, điều kiện)" }],
+      "examples": [{ "en": "Applicants must meet all the requirements for the job.", "vi": "Các ứng viên phải đáp ứng tất cả yêu cầu của công việc." }],
+      "derivatives": [],
+      "notes": "Cụm từ thường gặp: meet one's needs, meet requirements, meet customer demand, meet expectations.",
+      "tags": ["recruitment", "action"]
+    },
+    {
+      "word": "qualified",
+      "pronunciation": { "uk": "ˈkwɒlɪfaɪd", "us": "ˈkwɑːlɪfaɪd" },
+      "type": "adj",
+      "frequency": 3,
+      "meanings": [{ "vi": "đủ khả năng, trình độ, điều kiện" }],
+      "examples": [{ "en": "People with master's degrees are qualified for the research position.", "vi": "Những người có bằng thạc sĩ thì đủ điều kiện cho vị trí nghiên cứu này." }],
+      "derivatives": [
+        { "word": "qualify", "type": "v", "meaning": "đủ điều kiện" },
+        { "word": "qualification", "type": "n", "meaning": "phẩm chất, năng lực" }
+      ],
+      "notes": "Cụm từ thường gặp: be qualified for, qualifications for.",
+      "tags": ["recruitment", "skills"]
+    },
+    {
+      "word": "candidate",
+      "pronunciation": { "uk": "ˈkændɪdət", "us": "ˈkændɪdət" },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [{ "vi": "thí sinh, ứng viên" }],
+      "examples": [{ "en": "Five candidates will be selected for final interviews.", "vi": "Năm ứng viên sẽ được chọn vào vòng phỏng vấn cuối cùng." }],
+      "derivatives": [],
+      "notes": "Đồng nghĩa với 'applicant'.",
+      "tags": ["recruitment", "people"]
+    },
+    {
+      "word": "confidence",
+      "pronunciation": { "uk": "ˈkɒnfɪdəns", "us": "ˈkɑːnfɪdəns" },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [{ "vi": "sự tự tin, sự tin tưởng, lòng tin" }],
+      "examples": [{ "en": "We have confidence that she can handle the position.", "vi": "Chúng tôi có lòng tin rằng cô ấy có thể đảm đương được vị trí này." }],
+      "derivatives": [{ "word": "confident", "type": "adj", "meaning": "tự tin" }],
+      "notes": "Cụm từ thường gặp: show/express confidence in. Phân biệt: 'confidence in' (tin chắc, tự tin về điều gì) và 'in confidence' (bí mật).",
+      "tags": ["recruitment", "character"]
+    },
+    {
+      "word": "highly",
+      "pronunciation": { "uk": "ˈhaɪli", "us": "ˈhaɪli" },
+      "type": "adv",
+      "frequency": 3,
+      "meanings": [{ "vi": "rất, hết sức" }],
+      "examples": [{ "en": "Mr. Monroe's experience makes him highly qualified for the job.", "vi": "Kinh nghiệm của Monroe khiến ông ấy rất phù hợp với công việc này." }],
+      "derivatives": [],
+      "notes": "Thường đi với: highly competent/recommended/qualified/competitive/profitable.",
+      "tags": ["adverb", "modifier"]
+    },
+    {
+      "word": "professional",
+      "pronunciation": { "uk": "prəˈfeʃənl", "us": "prəˈfeʃənl" },
+      "type": "adj, n",
+      "frequency": 3,
+      "meanings": [
+        { "vi": "(adj) có tính chuyên môn, chuyên nghiệp" },
+        { "vi": "(n) chuyên gia" }
+      ],
+      "examples": [
+        { "en": "Jeff is known as a professional photographer.", "vi": "Jeff được biết đến như một nhiếp ảnh gia chuyên nghiệp." },
+        { "en": "Merseyside Hospital is looking for a certified health professional.", "vi": "Bệnh viện Merseyside đang tìm kiếm một chuyên gia y tế có bằng cấp." }
+      ],
+      "derivatives": [
+        { "word": "profession", "type": "n", "meaning": "nghề nghiệp" },
+        { "word": "professionally", "type": "adv", "meaning": "một cách chuyên nghiệp" }
+      ],
+      "notes": "",
+      "tags": ["recruitment", "skills", "people"]
+    },
+    {
+      "word": "interview",
+      "pronunciation": { "uk": "ˈɪntəvjuː", "us": "ˈɪntərvjuː" },
+      "type": "n, v",
+      "frequency": 3,
+      "meanings": [
+        { "vi": "(n) cuộc phỏng vấn" },
+        { "vi": "(v) phỏng vấn" }
+      ],
+      "examples": [
+        { "en": "The interviews are being held in meeting room three.", "vi": "Các cuộc phỏng vấn đang được thực hiện tại phòng họp số 3." },
+        { "en": "The manager interviewed almost 100 applicants.", "vi": "Vị quản lý này đã phỏng vấn gần 100 ứng viên." }
+      ],
+      "derivatives": [],
+      "notes": "",
+      "tags": ["recruitment", "process"]
+    },
+    {
+      "word": "hire",
+      "pronunciation": { "uk": "ˈhaɪə(r)", "us": "ˈhaɪər" },
+      "type": "v",
+      "frequency": 3,
+      "meanings": [{ "vi": "thuê mướn, tuyển dụng" }],
+      "examples": [{ "en": "The company expects to hire several new employees next month.", "vi": "Công ty kỳ vọng sẽ tuyển được vài nhân viên mới vào tháng tới." }],
+      "derivatives": [],
+      "notes": "",
+      "tags": ["recruitment", "action"]
+    },
+    {
+      "word": "training",
+      "pronunciation": { "uk": "ˈtreɪnɪŋ", "us": "ˈtreɪnɪŋ" },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [{ "vi": "sự đào tạo, huấn luyện" }],
+      "examples": [{ "en": "This company offers on-the-job training for new staff.", "vi": "Công ty này cung cấp chương trình đào tạo tại chỗ cho nhân viên mới." }],
+      "derivatives": [],
+      "notes": "",
+      "tags": ["recruitment", "development"]
+    },
+    {
+      "word": "reference",
+      "pronunciation": { "uk": "ˈrefrəns", "us": "ˈrefrəns" },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [{ "vi": "sự giới thiệu, sự tham khảo" }],
+      "examples": [{ "en": "Philip asked his previous employer to write a reference letter for him.", "vi": "Philip nhờ quản lý cũ của mình viết một lá thư giới thiệu cho anh ấy." }],
+      "derivatives": [{ "word": "refer", "type": "v", "meaning": "tham khảo" }],
+      "notes": "Thường gặp trong 'reference letter' (thư giới thiệu).",
+      "tags": ["recruitment", "documents"]
+    },
+    {
+      "word": "position",
+      "pronunciation": { "uk": "pəˈzɪʃn", "us": "pəˈzɪʃn" },
+      "type": "n, v",
+      "frequency": 3,
+      "meanings": [
+        { "vi": "(n) chức vụ, vị trí" },
+        { "vi": "(v) định vị, đặt vào vị trí" }
+      ],
+      "examples": [{ "en": "The advertised position provides health care and other benefits.", "vi": "Vị trí được quảng cáo đó chu cấp dịch vụ chăm sóc sức khỏe và các phúc lợi khác." }],
+      "derivatives": [],
+      "notes": "Cụm từ thường gặp: accept a position, apply for a position.",
+      "tags": ["recruitment", "job"]
+    },
+    {
+      "word": "achievement",
+      "pronunciation": { "uk": "əˈtʃiːvmənt", "us": "əˈtʃiːvmənt" },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [{ "vi": "thành tựu, thành tích, sự đạt được" }],
+      "examples": [{ "en": "List all of your achievements from previous jobs on your résumé.", "vi": "Hãy liệt kê tất cả những thành tích của bạn trong công việc trước vào bản sơ yếu lý lịch." }],
+      "derivatives": [],
+      "notes": "Phân biệt với 'achiever' (người đạt được thành tích).",
+      "tags": ["recruitment", "skills"]
+    },
+    {
+      "word": "impressed",
+      "pronunciation": { "uk": "ɪmˈprest", "us": "ɪmˈprest" },
+      "type": "adj",
+      "frequency": 3,
+      "meanings": [{ "vi": "có ấn tượng, cảm phục" }],
+      "examples": [{ "en": "The CEO was impressed by his assistant's organizing skills.", "vi": "Vị giám đốc điều hành đã bị ấn tượng bởi kỹ năng tổ chức của viên thư ký đó." }],
+      "derivatives": [],
+      "notes": "Dùng để miêu tả cảm xúc của con người. Phân biệt với 'impressive' (gây ấn tượng, nói về đối tượng).",
+      "tags": ["character", "adjective"]
+    },
+    {
+      "word": "excellent",
+      "pronunciation": { "uk": "ˈeksələnt", "us": "ˈeksələnt" },
+      "type": "adj",
+      "frequency": 3,
+      "meanings": [{ "vi": "xuất sắc, vượt trội, ưu tú" }],
+      "examples": [{ "en": "Because of her excellent managerial skills, Erin was hired for the job.", "vi": "Nhờ kỹ năng quản lý xuất sắc của mình, Erin đã được tuyển dụng làm công việc này." }],
+      "derivatives": [],
+      "notes": "",
+      "tags": ["skills", "adjective"]
+    },
+    {
+      "word": "eligible",
+      "pronunciation": { "uk": "ˈelɪdʒəbl", "us": "ˈelɪdʒəbl" },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [{ "vi": "có đủ tư cách, thích hợp" }],
+      "examples": [{ "en": "The part-time workers are also eligible for paid holidays.", "vi": "Các nhân viên bán thời gian cũng đủ điều kiện để được nghỉ phép có trả lương." }],
+      "derivatives": [{ "word": "eligibility", "type": "n", "meaning": "sự đủ tư cách" }],
+      "notes": "Cụm từ thường gặp: be eligible for + N, be eligible to do something. Phân biệt với 'allowed' (được cho phép).",
+      "tags": ["recruitment", "condition"]
+    },
+    {
+      "word": "identify",
+      "pronunciation": { "uk": "aɪˈdentɪfaɪ", "us": "aɪˈdentɪfaɪ" },
+      "type": "v",
+      "frequency": 2,
+      "meanings": [{ "vi": "nhận diện, nhận ra" }],
+      "examples": [{ "en": "Staff members wear uniforms so that they are easy for customers to identify.", "vi": "Các nhân viên mặc đồng phục để khách hàng dễ dàng nhận ra họ." }],
+      "derivatives": [{ "word": "identification", "type": "n", "meaning": "sự nhận diện" }],
+      "notes": "",
+      "tags": ["action", "general"]
+    },
+    {
+      "word": "associate",
+      "pronunciation": { "uk": "əˈsəʊʃieɪt", "us": "əˈsoʊʃieɪt" },
+      "type": "v",
+      "frequency": 2,
+      "meanings": [{ "vi": "liên kết, kết giao" }],
+      "examples": [{ "en": "Two of the applicants were associated with a competitor.", "vi": "Hai trong số các ứng viên có liên kết với một đối thủ." }],
+      "derivatives": [{ "word": "association", "type": "n", "meaning": "sự hợp tác" }],
+      "notes": "Cụm từ thường gặp: be associated with, in association with.",
+      "tags": ["recruitment", "action"]
+    },
+    {
+      "word": "condition",
+      "pronunciation": { "uk": "kənˈdɪʃn", "us": "kənˈdɪʃn" },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [{ "vi": "điều kiện" }],
+      "examples": [{ "en": "The conditions of employment are listed in the job.", "vi": "Những điều kiện của công việc được liệt kê trong thông báo tuyển dụng." }],
+      "derivatives": [],
+      "notes": "",
+      "tags": ["recruitment", "job"]
+    },
+    {
+      "word": "employment",
+      "pronunciation": { "uk": "ɪmˈplɔɪmənt", "us": "ɪmˈplɔɪmənt" },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [{ "vi": "việc làm" }],
+      "examples": [{ "en": "The company announced employment opportunities in personnel department.", "vi": "Công ty đã thông báo những cơ hội việc làm ở phòng nhân sự." }],
+      "derivatives": [
+        { "word": "employ", "type": "v", "meaning": "tuyển dụng" },
+        { "word": "employee", "type": "n", "meaning": "nhân viên" },
+        { "word": "employer", "type": "n", "meaning": "người tuyển dụng" }
+      ],
+      "notes": "",
+      "tags": ["recruitment", "job"]
+    },
+    {
+      "word": "lack",
+      "pronunciation": { "uk": "læk", "us": "læk" },
+      "type": "v, n",
+      "frequency": 2,
+      "meanings": [
+        { "vi": "(v) thiếu, không có" },
+        { "vi": "(n) sự thiếu hụt" }
+      ],
+      "examples": [{ "en": "Carl lacked the ability to get along well with his coworkers.", "vi": "Carl không có khả năng hòa nhập với các đồng nghiệp của mình." }],
+      "derivatives": [],
+      "notes": "",
+      "tags": ["general", "condition"]
+    },
+    {
+      "word": "managerial",
+      "pronunciation": { "uk": "ˌmænəˈdʒɪəriəl", "us": "ˌmænəˈdʒɪriəl" },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [{ "vi": "thuộc về quản lý" }],
+      "examples": [{ "en": "Mike is seeking a managerial position in the accounting field.", "vi": "Mike đang tìm kiếm một vị trí quản lý trong ngành kế toán." }],
+      "derivatives": [{ "word": "manage", "type": "v", "meaning": "quản lý" }],
+      "notes": "Cụm từ thường gặp: managerial staff/experience.",
+      "tags": ["recruitment", "skills"]
+    },
+    {
+      "word": "diligent",
+      "pronunciation": { "uk": "ˈdɪlɪdʒənt", "us": "ˈdɪlɪdʒənt" },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [{ "vi": "siêng năng, cần cù" }],
+      "examples": [{ "en": "Carmen is one of the most diligent workers in the company.", "vi": "Carmen là một trong những nhân viên siêng năng nhất ở công ty này." }],
+      "derivatives": [{ "word": "diligence", "type": "n", "meaning": "sự siêng năng" }],
+      "notes": "",
+      "tags": ["character", "adjective"]
+    },
+    {
+      "word": "familiar",
+      "pronunciation": { "uk": "fəˈmɪliə(r)", "us": "fəˈmɪliər" },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [{ "vi": "quen thuộc, thuần thục" }],
+      "examples": [{ "en": "Staff must review the handbook to become familiar with it.", "vi": "Nhân viên phải xem lại sổ tay hướng dẫn để nắm rõ nó." }],
+      "derivatives": [{ "word": "familiarize", "type": "v", "meaning": "làm quen" }],
+      "notes": "Cụm từ thường gặp: be familiar with.",
+      "tags": ["general", "adjective"]
+    },
+    {
+      "word": "proficiency",
+      "pronunciation": { "uk": "prəˈfɪʃnsi", "us": "prəˈfɪʃnsi" },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [{ "vi": "sự thông thạo, sự thành thạo" }],
+      "examples": [{ "en": "Overseas workers need proof of proficiency in a second language.", "vi": "Người lao động ở nước ngoài cần phải chứng minh sự thông thạo một ngôn ngữ thứ hai." }],
+      "derivatives": [{ "word": "proficient", "type": "adj", "meaning": "thành thạo" }],
+      "notes": "",
+      "tags": ["skills", "recruitment"]
+    },
+    {
+      "word": "prospective",
+      "pronunciation": { "uk": "prəˈspektɪv", "us": "prəˈspektɪv" },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [{ "vi": "có triển vọng, có tiềm năng" }],
+      "examples": [{ "en": "Prospective employees were asked to come in for a second interview.", "vi": "Các nhân viên tiềm năng được yêu cầu đến phỏng vấn vòng hai." }],
+      "derivatives": [{ "word": "prospect", "type": "n", "meaning": "triển vọng" }],
+      "notes": "",
+      "tags": ["recruitment", "adjective"]
+    },
+    {
+      "word": "appeal",
+      "pronunciation": { "uk": "əˈpiːl", "us": "əˈpiːl" },
+      "type": "v",
+      "frequency": 2,
+      "meanings": [{ "vi": "kêu gọi, lôi cuốn, hấp dẫn" }],
+      "examples": [{ "en": "The 10 percent pay increase appealed to the staff.", "vi": "Mức tăng lương 10% đã hấp dẫn các nhân viên." }],
+      "derivatives": [],
+      "notes": "Là nội động từ, thường đi với giới từ 'to': appeal to somebody/something. Đồng nghĩa với 'attract'.",
+      "tags": ["general", "action"]
+    },
+    {
+      "word": "specialize",
+      "pronunciation": { "uk": "ˈspeʃəlaɪz", "us": "ˈspeʃəlaɪz" },
+      "type": "v",
+      "frequency": 1,
+      "meanings": [{ "vi": "chuyên làm về, học chuyên về" }],
+      "examples": [{ "en": "Most of the programmers specialized in software design in college.", "vi": "Hầu hết các lập trình viên đều học chuyên về thiết kế phần mềm ở trường đại học." }],
+      "derivatives": [],
+      "notes": "Thường đi với giới từ 'in': specialize in something.",
+      "tags": ["skills", "action"]
+    },
+    {
+      "word": "apprehensive",
+      "pronunciation": { "uk": "ˌæprɪˈhensɪv", "us": "ˌæprɪˈhensɪv" },
+      "type": "adj",
+      "frequency": 1,
+      "meanings": [{ "vi": "lo lắng, e sợ" }],
+      "examples": [{ "en": "Many people feel apprehensive before an important job interview.", "vi": "Nhiều người cảm thấy lo lắng trước một cuộc phỏng vấn tuyển dụng quan trọng." }],
+      "derivatives": [],
+      "notes": "Đồng nghĩa với 'concerned'.",
+      "tags": ["character", "adjective"]
+    },
+    {
+      "word": "consultant",
+      "pronunciation": { "uk": "kənˈsʌltənt", "us": "kənˈsʌltənt" },
+      "type": "n",
+      "frequency": 1,
+      "meanings": [{ "vi": "người tư vấn, cố vấn" }],
+      "examples": [{ "en": "Emma currently works in London as an interior design consultant.", "vi": "Emma hiện đang làm việc ở London trong vai trò một người tư vấn thiết kế nội thất." }],
+      "derivatives": [{ "word": "consult", "type": "v", "meaning": "tư vấn" }],
+      "notes": "Phân biệt: 'consultant' (người) và 'consultation' (sự việc). Cách dùng động từ: consult + chuyên gia/tài liệu; consult with + người ngang hàng.",
+      "tags": ["people", "job"]
+    },
+    {
+      "word": "entitle",
+      "pronunciation": { "uk": "ɪnˈtaɪtl", "us": "ɪnˈtaɪtl" },
+      "type": "v",
+      "frequency": 1,
+      "meanings": [{ "vi": "cho quyền (làm gì)" }],
+      "examples": [{ "en": "Executives are entitled to additional benefits.", "vi": "Các ủy viên ban quản trị được hưởng những quyền lợi bổ sung." }],
+      "derivatives": [],
+      "notes": "Cấu trúc thường gặp: be entitled to + N, be entitled to do something.",
+      "tags": ["general", "action"]
+    },
+    {
+      "word": "degree",
+      "pronunciation": { "uk": "dɪˈɡriː", "us": "dɪˈɡriː" },
+      "type": "n",
+      "frequency": 1,
+      "meanings": [{ "vi": "trình độ, bằng cấp" }],
+      "examples": [{ "en": "A bachelor's degree in engineering is a requirement for this position.", "vi": "Bằng cử nhân về kỹ thuật là một điều kiện cần thiết cho vị trí này." }],
+      "derivatives": [],
+      "notes": "",
+      "tags": ["recruitment", "education"]
+    },
+    {
+      "word": "payroll",
+      "pronunciation": { "uk": "ˈpeɪrəʊl", "us": "ˈpeɪroʊl" },
+      "type": "n",
+      "frequency": 1,
+      "meanings": [{ "vi": "bảng lương, tổng quỹ lương" }],
+      "examples": [{ "en": "Fifteen new employees were added to the payroll last month.", "vi": "Mười lăm nhân viên mới đã được bổ sung vào bảng lương tháng trước." }],
+      "derivatives": [],
+      "notes": "Cụm từ thường gặp: on the payroll (được tuyển dụng).",
+      "tags": ["recruitment", "finance"]
+    },
+    {
+      "word": "recruit",
+      "pronunciation": { "uk": "rɪˈkruːt", "us": "rɪˈkruːt" },
+      "type": "v, n",
+      "frequency": 1,
+      "meanings": [
+        { "vi": "(v) tuyển dụng" },
+        { "vi": "(n) nhân viên mới" }
+      ],
+      "examples": [{ "en": "The firm recruits promising graduates on a yearly basis.", "vi": "Hằng năm, công ty tuyển dụng những sinh viên mới tốt nghiệp đầy triển vọng." }],
+      "derivatives": [
+        { "word": "recruitment", "type": "n", "meaning": "sự tuyển dụng" },
+        { "word": "recruiter", "type": "n", "meaning": "người tuyển dụng" }
+      ],
+      "notes": "",
+      "tags": ["recruitment", "action", "people"]
+    },
+    {
+      "word": "certification",
+      "pronunciation": { "uk": "ˌsɜːtɪfɪˈkeɪʃn", "us": "ˌsɜːrtɪfɪˈkeɪʃn" },
+      "type": "n",
+      "frequency": 1,
+      "meanings": [{ "vi": "sự chứng nhận, giấy chứng nhận" }],
+      "examples": [{ "en": "Obtaining accounting certification takes approximately a year.", "vi": "Mất xấp xỉ một năm để có được giấy chứng nhận kế toán." }],
+      "derivatives": [
+        { "word": "certify", "type": "v", "meaning": "chứng nhận" },
+        { "word": "certificate", "type": "n", "meaning": "giấy chứng nhận" }
+      ],
+      "notes": "Phân biệt: 'certification' (nói về bằng cấp chuyên môn) và 'certificate' (nói về các giấy chứng nhận thông thường như giấy khai sinh).",
+      "tags": ["recruitment", "documents", "education"]
+    },
+    {
+      "word": "occupation",
+      "pronunciation": { "uk": "ˌɒkjuˈpeɪʃn", "us": "ˌɑːkjuˈpeɪʃn" },
+      "type": "n",
+      "frequency": 1,
+      "meanings": [{ "vi": "nghề nghiệp" }],
+      "examples": [{ "en": "Journalism is an interesting and challenging occupation.", "vi": "Làm báo là một nghề thú vị và đầy thử thách." }],
+      "derivatives": [{ "word": "occupy", "type": "v", "meaning": "giữ, chiếm" }],
+      "notes": "Đồng nghĩa với 'job', 'vocation'. Phân biệt với 'occupant' (người sở hữu, người sử dụng).",
+      "tags": ["job", "general"]
+    },
+    {
+      "word": "wage",
+      "pronunciation": { "uk": "weɪdʒ", "us": "weɪdʒ" },
+      "type": "n",
+      "frequency": 1,
+      "meanings": [{ "vi": "tiền lương, tiền công" }],
+      "examples": [{ "en": "Workers with formal education may earn higher wages than those without.", "vi": "Người lao động được đào tạo chính quy có thể nhận được mức lương cao hơn những người không có trình độ." }],
+      "derivatives": [],
+      "notes": "Phân biệt: 'wage' (lương theo giờ/tháng), 'salary' (lương theo năm), 'compensation' (tiền công hoặc tiền bồi thường).",
+      "tags": ["job", "finance"]
+    }
+  ],
+  "additionalVocab": {
+    "basic": [],
+    "level800": [],
+    "level900": []
+  },
+  "exercises": []
+}
+

@@ -1,0 +1,15 @@
+{
+  "unit": "Tenses Unit 01",
+  "rules": [
+    {
+      "id": 1,
+      "title": "Present Simple",
+      "structure": "S + V(s/es) + O",
+      "usage": "Diễn tả thói quen, sự thật hiển nhiên",
+      "examples": [
+        "I go to school every day.",
+        "The sun rises in the east."
+      ]
+    }
+  ]
+}

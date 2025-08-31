@@ -1,0 +1,102 @@
+Dựa vào một tệp PDF chứa bài học từ vựng (ví dụ: Hacker TOEIC Vocabulary), hãy tạo một tệp tin JSON duy nhất với cấu trúc và các ràng buộc chi tiết như sau:
+
+I. Cấu trúc tổng thể của file JSON
+
+File JSON phải có một đối tượng gốc (root object) chứa các khóa (keys) sau:
+
+- unitId (string): Mã định danh của bài học, ví dụ: "day01".
+- title (string): Tiêu đề chính của bài học, ví dụ: "Thoát Cảnh Thất Nghiệp - Tuyển Dụng".
+- topic (string): Chủ đề của bài học, ví dụ: "Tuyển dụng".
+- coreVocab (array): Mảng chứa các đối tượng từ vựng cốt lõi.
+- additionalVocab (object): Đối tượng chứa các từ vựng bổ sung, phân loại theo cấp độ (có thể để trống nếu không có dữ liệu).
+- exercises (array): Mảng chứa các đối tượng bài tập (có thể để trống nếu không có dữ liệu).
+
+II. Cấu trúc chi tiết của một đối tượng từ vựng trong coreVocab
+
+Mỗi đối tượng trong mảng coreVocab đại diện cho một từ vựng và phải có các khóa sau:
+
+- word (string): Từ vựng chính (ví dụ: "résumé").
+- pronunciation (object): Chứa 2 khóa:
+  + uk (string): Phiên âm Anh-Anh.
+  + us (string): Phiên âm Anh-Mỹ.
+- type (string): Loại từ (viết tắt: "n", "v", "adj", "adv", "phr"). Nếu một từ có nhiều loại, hãy liệt kê chúng cách nhau bằng dấu phẩy và khoảng trắng (ví dụ: "v, n").
+- frequency (number): Tần suất xuất hiện, dựa trên số lượng dấu sao (*) trong PDF:
+  *** -> 3
+  ** -> 2
+  * -> 1
+- meanings (array of objects): Mảng chứa các nghĩa tiếng Việt. Mỗi đối tượng có một khóa:
+  + vi (string): Nghĩa tiếng Việt. Điều này cho phép một từ có nhiều nghĩa khác nhau.
+- examples (array of objects): Mảng chứa các câu ví dụ. Mỗi đối tượng có 2 khóa:
+  + en (string): Câu ví dụ bằng tiếng Anh.
+  + vi (string): Bản dịch tiếng Việt của câu ví dụ.
+- derivatives (array of objects): Mảng chứa các từ phái sinh hoặc liên quan được liệt kê trong mục "der.". Mỗi đối tượng có 3 khóa:
+  + word (string): Từ phái sinh.
+  + type (string): Loại từ của từ phái sinh.
+  + meaning (string): Nghĩa của từ phái sinh.
+- notes (string): Đây là trường rất quan trọng. Tổng hợp tất cả thông tin bổ sung từ các mục đặc biệt trong PDF vào đây, bao gồm:
+  + Cụm từ thường gặp (ví dụ: "meet one's needs, meet requirements").
+  + Cách dùng giới từ (ví dụ: "be familiar with", "requirement of/for").
+  + Từ đồng nghĩa (syn.) / trái nghĩa (ant.).
+  + Các từ dễ nhầm lẫn (ví dụ: phân biệt 'impressed' và 'impressive', 'wage' và 'salary').
+  + Bất kỳ ghi chú nào trong các hộp "Bài thi TOEIC dạng thức mới".
+  Nối tất cả các ghi chú này thành một chuỗi văn bản duy nhất, dễ đọc, cách nhau bằng dấu chấm hoặc xuống dòng.
+- tags (array of strings): Mảng chứa các thẻ (tags) liên quan. Có thể bao gồm chủ đề chung ("recruitment") và các thẻ phân loại khác ("people", "documents", "action", "skills", "job").
+
+III. Yêu cầu chung
+
+- Phải trích xuất chính xác toàn bộ thông tin từ file PDF cho mỗi từ vựng.
+- Đảm bảo file JSON cuối cùng là hợp lệ (valid JSON).
+
+
+IV. Mẫu mong đợi
+```JSON
+{
+  "unitId": "day01",
+  "title": "Thoát Cảnh Thất Nghiệp - Tuyển Dụng",
+  "topic": "Tuyển dụng",
+  "coreVocab": [
+    {
+      "word": "opening",
+      "pronunciation": { "uk": "ˈəʊpənɪŋ", "us": "ˈoʊpənɪŋ" },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [{ "vi": "vị trí trống, sự mở cửa, lễ khai trương" }],
+      "examples": [
+        { "en": "There are several job openings at the restaurant right now.", "vi": "Ngay bây giờ đang có một vài vị trí công việc còn trống ở nhà hàng." },
+        { "en": "JX Finances officially announced the opening of its first international branch.", "vi": "JX Finances đã chính thức thông báo việc khai trương chi nhánh quốc tế đầu tiên của mình." }
+      ],
+      "derivatives": [],
+      "notes": "Là danh từ đếm được khi mang nghĩa 'vị trí trống' (an opening/openings). Đồng nghĩa với 'vacancy'.",
+      "tags": ["recruitment", "job"]
+    },
+    {
+      "word": "candidate",
+      "pronunciation": { "uk": "ˈkændɪdət", "us": "ˈkændɪdət" },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [{ "vi": "thí sinh, ứng viên" }],
+      "examples": [{ "en": "Five candidates will be selected for final interviews.", "vi": "Năm ứng viên sẽ được chọn vào vòng phỏng vấn cuối cùng." }],
+      "derivatives": [],
+      "notes": "Đồng nghĩa với 'applicant'.",
+      "tags": ["recruitment", "people"]
+    },
+    {
+      "word": "confidence",
+      "pronunciation": { "uk": "ˈkɒnfɪdəns", "us": "ˈkɑːnfɪdəns" },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [{ "vi": "sự tự tin, sự tin tưởng, lòng tin" }],
+      "examples": [{ "en": "We have confidence that she can handle the position.", "vi": "Chúng tôi có lòng tin rằng cô ấy có thể đảm đương được vị trí này." }],
+      "derivatives": [{ "word": "confident", "type": "adj", "meaning": "tự tin" }],
+      "notes": "Cụm từ thường gặp: show/express confidence in. Phân biệt: 'confidence in' (tin chắc, tự tin về điều gì) và 'in confidence' (bí mật).",
+      "tags": ["recruitment", "character"]
+    }
+  ],
+  "additionalVocab": {
+    "basic": [],
+    "level800": [],
+    "level900": []
+  },
+  "exercises": []
+}
+```

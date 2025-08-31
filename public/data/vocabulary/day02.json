@@ -1,0 +1,78 @@
+{
+  "unitId": "day02",
+  "title": "Thoát Cảnh Thất Nghiệp - Tuyển Dụng",
+  "topic": "Tuyển dụng",
+  "coreVocab": [
+    {
+      "id": "day01-vocab-01",
+      "word": "résumé",
+      "pronunciation": { "uk": "ˈrezəmeɪ", "us": "ˈrezəmeɪ" },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [{ "vi": "sơ yếu lý lịch" }],
+      "examples": [{ "en": "Fax your résumé and cover letter to the above number.", "vi": "Hãy gửi sơ yếu lý lịch và đơn xin việc của bạn qua fax đến số bên trên." }],
+      "derivatives": [],
+      "notes": "Thường đi cùng với 'cover letter' (đơn xin việc).",
+      "tags": ["recruitment", "documents"]
+    },
+    {
+      "id": "day01-vocab-02",
+      "word": "applicant",
+      "pronunciation": { "uk": "ˈæplɪkənt", "us": "ˈæplɪkənt" },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [{ "vi": "ứng viên, người xin việc" }],
+      "examples": [{ "en": "Applicants are required to submit a résumé.", "vi": "Các ứng viên cần phải nộp sơ yếu lý lịch." }],
+      "derivatives": [
+        { "word": "apply", "type": "v", "meaning": "ứng tuyển" },
+        { "word": "application", "type": "n", "meaning": "đơn ứng tuyển" }
+      ],
+      "notes": "Phân biệt với 'application' (đơn) và 'appliance' (thiết bị).",
+      "tags": ["recruitment", "people"]
+    },
+    {
+      "id": "day01-vocab-03",
+      "word": "requirement",
+      "pronunciation": { "uk": "rɪˈkwaɪəmənt", "us": "rɪˈkwaɪərmənt" },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [{ "vi": "điều kiện cần thiết, yêu cầu" }],
+      "examples": [{ "en": "A driver's license is a requirement of this job.", "vi": "Giấy phép lái xe là một điều kiện cần cho công việc này." }],
+      "derivatives": [{ "word": "require", "type": "v", "meaning": "yêu cầu" }],
+      "notes": "Thường đi với giới từ 'of' hoặc 'for'.",
+      "tags": ["recruitment", "job"]
+    }
+  ],
+  "additionalVocab": {
+    "basic": [
+      { "word": "application form", "meaning": "mẫu đơn xin việc" },
+      { "word": "career", "meaning": "sự nghiệp, nghề nghiệp" }
+    ],
+    "level800": [
+      { "word": "achieve one's goal", "meaning": "đạt mục tiêu của ai đó" },
+      { "word": "apprentice", "meaning": "người học việc" }
+    ],
+    "level900": [
+      { "word": "credential", "meaning": "thông tin xác thực" },
+      { "word": "firsthand", "meaning": "trực tiếp, mắt thấy tai nghe" }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "day01-ex-01",
+      "type": "multiple_choice",
+      "question": "Mark's ______ language skills helped him to get the job.",
+      "options": ["excellent", "managerial", "diligent", "prospective"],
+      "answer": "excellent",
+      "relatedVocab": []
+    },
+    {
+      "id": "day01-ex-02",
+      "type": "multiple_choice",
+      "question": "The ______ with a business major wants to work as a manager.",
+      "options": ["candidate", "achievement", "payroll", "degree"],
+      "answer": "candidate",
+      "relatedVocab": []
+    }
+  ]
+}
