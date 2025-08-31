@@ -1,0 +1,1008 @@
+{
+  "unitId": "day01",
+  "title": "Trắc nghiệm: Thoát Cảnh Thất Nghiệp - Tuyển Dụng",
+  "questions": [
+    {
+      "id": "d01_q01",
+      "type": "meaning_to_vocab",
+      "questionText": "Tài liệu nào thường được yêu cầu ứng viên nộp cùng với đơn xin việc để tóm tắt kinh nghiệm và trình độ học vấn?",
+      "options": ["reference", "résumé", "certificate", "application"],
+      "correctAnswer": "résumé",
+      "wordReference": "résumé",
+      "explanation": "'Résumé' là một bản tóm tắt kinh nghiệm làm việc, học vấn và kỹ năng của một người, thường được nộp khi xin việc."
+    },
+    {
+      "id": "d01_q02",
+      "type": "fill_in_the_blank",
+      "questionText": "Chọn từ thích hợp để điền vào chỗ trống: 'Fax your ___ and cover letter to the above number.'",
+      "options": ["résumé", "achievement", "confidence", "degree"],
+      "correctAnswer": "résumé",
+      "wordReference": "résumé",
+      "explanation": "Trong ngữ cảnh xin việc, 'résumé' (sơ yếu lý lịch) và 'cover letter' (đơn xin việc) là hai tài liệu thường đi cùng nhau."
+    },
+    {
+      "id": "d01_q03",
+      "type": "synonym",
+      "questionText": "Từ nào đồng nghĩa với 'vacancy' khi nói về một vị trí công việc còn trống?",
+      "options": ["position", "occupation", "opening", "employment"],
+      "correctAnswer": "opening",
+      "wordReference": "opening",
+      "explanation": "Khi mang nghĩa 'vị trí trống', 'opening' là một danh từ đếm được và đồng nghĩa với 'vacancy'."
+    },
+    {
+      "id": "d01_q04",
+      "type": "fill_in_the_blank",
+      "questionText": "JX Finances officially announced the ___ of its first international branch. Từ nào phù hợp nhất?",
+      "options": ["opening", "hiring", "training", "requirement"],
+      "correctAnswer": "opening",
+      "wordReference": "opening",
+      "explanation": "'Opening' ở đây có nghĩa là 'lễ khai trương' hoặc 'sự mở cửa' một chi nhánh mới."
+    },
+    {
+      "id": "d01_q05",
+      "type": "grammar_usage",
+      "questionText": "There are several job ___ at the restaurant right now.",
+      "options": ["openings", "opens", "opened", "openly"],
+      "correctAnswer": "openings",
+      "wordReference": "opening",
+      "explanation": "Khi nói về 'vị trí trống', 'opening' là danh từ đếm được, nên cần dùng dạng số nhiều 'openings' khi đi với 'several'."
+    },
+    {
+      "id": "d01_q06",
+      "type": "meaning_to_vocab",
+      "questionText": "Người nộp đơn xin việc được gọi là gì?",
+      "options": ["employer", "recruiter", "consultant", "applicant"],
+      "correctAnswer": "applicant",
+      "wordReference": "applicant",
+      "explanation": "'Applicant' là danh từ chỉ người nộp đơn ứng tuyển vào một vị trí công việc."
+    },
+    {
+      "id": "d01_q07",
+      "type": "distinction",
+      "questionText": "Phân biệt giữa 'applicant' và 'application'. Đâu là khẳng định đúng?",
+      "options": [
+        "'Applicant' là người, 'application' là lá đơn.",
+        "'Applicant' là lá đơn, 'application' là người.",
+        "Cả hai đều có nghĩa là 'người xin việc'.",
+        "Cả hai đều có nghĩa là 'đơn xin việc'."
+      ],
+      "correctAnswer": "'Applicant' là người, 'application' là lá đơn.",
+      "wordReference": "applicant",
+      "explanation": "Cần phân biệt rõ: 'applicant' (danh từ chỉ người) và 'application' (danh từ chỉ vật - lá đơn)."
+    },
+    {
+      "id": "d01_q08",
+      "type": "fill_in_the_blank",
+      "questionText": "The manager interviewed almost 100 ___. Điền từ phù hợp.",
+      "options": ["applicants", "applications", "appliances", "applied"],
+      "correctAnswer": "applicants",
+      "wordReference": "applicant",
+      "explanation": "Người quản lý phỏng vấn các 'ứng viên' (applicants), không phải các 'lá đơn' (applications)."
+    },
+    {
+      "id": "d01_q09",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào có nghĩa là 'một điều kiện cần thiết' hoặc 'yêu cầu' cho một công việc?",
+      "options": ["benefit", "wage", "requirement", "position"],
+      "correctAnswer": "requirement",
+      "wordReference": "requirement",
+      "explanation": "'Requirement' là những tiêu chí, điều kiện bắt buộc mà ứng viên phải đáp ứng."
+    },
+    {
+      "id": "d01_q10",
+      "type": "grammar_usage",
+      "questionText": "Giới từ nào thường đi kèm với 'requirement' để diễn tả 'yêu cầu CHO cái gì đó'?",
+      "options": ["in / at", "with / by", "of / for", "on / to"],
+      "correctAnswer": "of / for",
+      "wordReference": "requirement",
+      "explanation": "Cấu trúc thường gặp là 'a requirement of/for something' (một yêu cầu/điều kiện cần cho cái gì đó)."
+    },
+    {
+      "id": "d01_q11",
+      "type": "fill_in_the_blank",
+      "questionText": "A driver's license is a ___ of this job. Điền từ còn thiếu.",
+      "options": ["qualification", "requirement", "skill", "achievement"],
+      "correctAnswer": "requirement",
+      "wordReference": "requirement",
+      "explanation": "Bằng lái xe là một 'yêu cầu' (requirement) bắt buộc cho công việc này."
+    },
+    {
+      "id": "d01_q12",
+      "type": "vocab_to_meaning",
+      "questionText": "Trong ngữ cảnh tuyển dụng, động từ 'meet' thường mang nghĩa là gì khi đi với 'requirements'?",
+      "options": ["gặp gỡ", "đáp ứng", "thảo luận", "tạo ra"],
+      "correctAnswer": "đáp ứng",
+      "wordReference": "meet",
+      "explanation": "'To meet requirements' có nghĩa là 'đáp ứng các yêu cầu'. Đây là cách dùng rất phổ biến trong TOEIC."
+    },
+    {
+      "id": "d01_q13",
+      "type": "synonym",
+      "questionText": "Từ nào sau đây đồng nghĩa với 'meet' trong cụm 'meet customer demand'?",
+      "options": ["satisfy", "see", "contact", "arrange"],
+      "correctAnswer": "satisfy",
+      "wordReference": "meet",
+      "explanation": "Trong ngữ cảnh này, 'meet' đồng nghĩa với 'satisfy' hoặc 'fulfill', có nghĩa là làm thỏa mãn, đáp ứng."
+    },
+    {
+      "id": "d01_q14",
+      "type": "fill_in_the_blank",
+      "questionText": "Applicants must ___ all the requirements for the job.",
+      "options": ["meet", "see", "talk", "find"],
+      "correctAnswer": "meet",
+      "wordReference": "meet",
+      "explanation": "Cấu trúc 'meet all the requirements' có nghĩa là 'đáp ứng tất cả các yêu cầu'."
+    },
+    {
+      "id": "d01_q15",
+      "type": "derivation",
+      "questionText": "Đâu là động từ gốc của danh từ 'applicant'?",
+      "options": ["Applicate", "Apply", "Appliance", "Applicable"],
+      "correctAnswer": "Apply",
+      "wordReference": "applicant",
+      "explanation": "'Applicant' (người nộp đơn) và 'application' (đơn) đều xuất phát từ động từ 'apply' (nộp đơn, ứng tuyển)."
+    },
+    {
+      "id": "d01_q16",
+      "type": "general_knowledge",
+      "questionText": "Từ 'résumé' có nguồn gốc từ ngôn ngữ nào?",
+      "options": ["Tiếng Anh", "Tiếng Latin", "Tiếng Pháp", "Tiếng Đức"],
+      "correctAnswer": "Tiếng Pháp",
+      "wordReference": "résumé",
+      "explanation": "'Résumé' là một từ mượn từ tiếng Pháp, có nghĩa là 'tóm tắt'."
+    },
+    {
+      "id": "d01_q17",
+      "type": "derivation",
+      "questionText": "Động từ của danh từ 'requirement' là gì?",
+      "options": ["Requisite", "Require", "Request", "Acquire"],
+      "correctAnswer": "Require",
+      "wordReference": "requirement",
+      "explanation": "Động từ 'require' có nghĩa là 'yêu cầu, đòi hỏi', và danh từ tương ứng của nó là 'requirement'."
+    },
+    {
+      "id": "d01_q18",
+      "type": "collocation",
+      "questionText": "Cụm từ nào sau đây KHÔNG phải là một cụm từ phổ biến với 'meet'?",
+      "options": ["meet expectations", "meet one's needs", "meet an appointment", "meet requirements"],
+      "correctAnswer": "meet an appointment",
+      "wordReference": "meet",
+      "explanation": "Chúng ta thường dùng 'keep an appointment' (giữ lời hẹn) hoặc 'make an appointment' (tạo cuộc hẹn), chứ không dùng 'meet an appointment'."
+    },
+    {
+      "id": "d01_q19",
+      "type": "vocab_to_meaning",
+      "questionText": "Nếu một ứng viên 'qualified for the job', điều đó có nghĩa là gì?",
+      "options": [
+        "Họ đã được nhận vào làm.",
+        "Họ có đủ kỹ năng và kinh nghiệm cần thiết.",
+        "Họ rất tự tin trong buổi phỏng vấn.",
+        "Họ yêu cầu mức lương cao."
+      ],
+      "correctAnswer": "Họ có đủ kỹ năng và kinh nghiệm cần thiết.",
+      "wordReference": "qualified",
+      "explanation": "'Qualified' có nghĩa là đủ điều kiện, đủ tiêu chuẩn, phẩm chất hoặc năng lực cho một vị trí cụ thể."
+    },
+    {
+      "id": "d01_q20",
+      "type": "grammar_usage",
+      "questionText": "Giới từ nào thường đi sau tính từ 'qualified'?",
+      "options": ["in", "at", "for", "with"],
+      "correctAnswer": "for",
+      "wordReference": "qualified",
+      "explanation": "Cấu trúc phổ biến là 'be qualified for + (vị trí/công việc)'."
+    },
+    {
+      "id": "d01_q21",
+      "type": "fill_in_the_blank",
+      "questionText": "People with master's degrees are ___ for the research position.",
+      "options": ["qualification", "qualify", "qualified", "qualifying"],
+      "correctAnswer": "qualified",
+      "wordReference": "qualified",
+      "explanation": "Sau động từ 'to be' (are), chúng ta cần một tính từ. 'Qualified' là tính từ có nghĩa là 'đủ điều kiện'."
+    },
+    {
+      "id": "d01_q22",
+      "type": "synonym",
+      "questionText": "Từ nào đồng nghĩa với 'applicant'?",
+      "options": ["employee", "interviewer", "candidate", "employer"],
+      "correctAnswer": "candidate",
+      "wordReference": "candidate",
+      "explanation": "Cả 'candidate' và 'applicant' đều có nghĩa là ứng viên, người ứng tuyển cho một vị trí."
+    },
+    {
+      "id": "d01_q23",
+      "type": "fill_in_the_blank",
+      "questionText": "Five ___ will be selected for final interviews.",
+      "options": ["candidacy", "candidates", "conditions", "candies"],
+      "correctAnswer": "candidates",
+      "wordReference": "candidate",
+      "explanation": "Sau 'Five' (năm), chúng ta cần một danh từ số nhiều. 'Candidates' (các ứng viên) là lựa chọn phù hợp."
+    },
+    {
+      "id": "d01_q24",
+      "type": "vocab_to_meaning",
+      "questionText": "Cụm từ 'in confidence' có nghĩa là gì?",
+      "options": ["rất tự tin", "thiếu tự tin", "một cách bí mật", "công khai"],
+      "correctAnswer": "một cách bí mật",
+      "wordReference": "confidence",
+      "explanation": "Cần phân biệt: 'confidence in' (sự tin tưởng vào) và 'in confidence' (một cách bí mật, riêng tư)."
+    },
+    {
+      "id": "d01_q25",
+      "type": "fill_in_the_blank",
+      "questionText": "We have ___ that she can handle the position. Điền từ còn thiếu.",
+      "options": ["confident", "confidential", "confidence", "confidently"],
+      "correctAnswer": "confidence",
+      "wordReference": "confidence",
+      "explanation": "Sau động từ 'have', chúng ta cần một danh từ. 'Confidence' (lòng tin, sự tự tin) là danh từ."
+    },
+    {
+      "id": "d01_q26",
+      "type": "collocation",
+      "questionText": "Động từ nào thường được dùng để diễn tả 'thể hiện sự tự tin'?",
+      "options": ["do/make", "get/take", "put/set", "show/express"],
+      "correctAnswer": "show/express",
+      "wordReference": "confidence",
+      "explanation": "Các cụm từ thường gặp là 'show confidence' hoặc 'express confidence' (thể hiện sự tự tin)."
+    },
+    {
+      "id": "d01_q27",
+      "type": "vocab_to_meaning",
+      "questionText": "Trạng từ 'highly' thường được dùng để làm gì?",
+      "options": [
+        "Chỉ mức độ về chiều cao.",
+        "Nhấn mạnh cho một tính từ hoặc phân từ quá khứ.",
+        "Chỉ tần suất của hành động.",
+        "Chỉ vị trí ở trên cao."
+      ],
+      "correctAnswer": "Nhấn mạnh cho một tính từ hoặc phân từ quá khứ.",
+      "wordReference": "highly",
+      "explanation": "'Highly' là một trạng từ nhấn mạnh, tương tự như 'very' hoặc 'extremely', và thường đi với các từ như qualified, recommended, competitive."
+    },
+    {
+      "id": "d01_q28",
+      "type": "fill_in_the_blank",
+      "questionText": "Mr. Monroe's experience makes him ___ qualified for the job.",
+      "options": ["high", "highly", "height", "higher"],
+      "correctAnswer": "highly",
+      "wordReference": "highly",
+      "explanation": "Chúng ta cần một trạng từ ('highly') để bổ nghĩa cho tính từ ('qualified')."
+    },
+    {
+      "id": "d01_q29",
+      "type": "distinction",
+      "questionText": "Từ nào sau đây vừa là danh từ chỉ 'chuyên gia', vừa là tính từ chỉ sự 'chuyên nghiệp'?",
+      "options": ["specialist", "managerial", "consultant", "professional"],
+      "correctAnswer": "professional",
+      "wordReference": "professional",
+      "explanation": "'Professional' có thể là tính từ (a professional photographer) hoặc danh từ (a health professional)."
+    },
+    {
+      "id": "d01_q30",
+      "type": "derivation",
+      "questionText": "Danh từ chỉ 'nghề nghiệp' liên quan đến 'professional' là gì?",
+      "options": ["profession", "professor", "professionalism", "professionally"],
+      "correctAnswer": "profession",
+      "wordReference": "professional",
+      "explanation": "'Profession' là danh từ có nghĩa là 'nghề nghiệp', đặc biệt là những nghề đòi hỏi trình độ học vấn cao."
+    },
+    {
+      "id": "d01_q31",
+      "type": "fill_in_the_blank",
+      "questionText": "Jeff is known as a ___ photographer. Điền từ phù hợp.",
+      "options": ["profession", "professional", "professionally", "profess"],
+      "correctAnswer": "professional",
+      "wordReference": "professional",
+      "explanation": "Chúng ta cần một tính từ ('professional') để bổ nghĩa cho danh từ ('photographer')."
+    },
+    {
+      "id": "d01_q32",
+      "type": "derivation",
+      "questionText": "Danh từ nào chỉ 'phẩm chất, năng lực'?",
+      "options": ["qualifier", "quality", "qualification", "quantity"],
+      "correctAnswer": "qualification",
+      "wordReference": "qualified",
+      "explanation": "'Qualification' là danh từ chỉ phẩm chất, năng lực hoặc bằng cấp cần thiết cho một công việc."
+    },
+    {
+      "id": "d01_q33",
+      "type": "collocation",
+      "questionText": "Trong các từ sau, 'highly' KHÔNG thường đi với từ nào?",
+      "options": ["recommended", "tall", "qualified", "profitable"],
+      "correctAnswer": "tall",
+      "wordReference": "highly",
+      "explanation": "Chúng ta thường nói 'very tall' chứ không dùng 'highly tall'. 'Highly' dùng để nhấn mạnh các phẩm chất, đặc tính hơn là các thuộc tính vật lý như chiều cao."
+    },
+    {
+      "id": "d01_q34",
+      "type": "meaning_to_vocab",
+      "questionText": "Một cuộc gặp gỡ trang trọng để nhà tuyển dụng đặt câu hỏi cho ứng viên nhằm đánh giá sự phù hợp được gọi là gì?",
+      "options": ["training", "meeting", "interview", "reference"],
+      "correctAnswer": "interview",
+      "wordReference": "interview",
+      "explanation": "'Interview' (cuộc phỏng vấn) là một bước quan trọng trong quá trình tuyển dụng để đánh giá trực tiếp ứng viên."
+    },
+    {
+      "id": "d01_q35",
+      "type": "fill_in_the_blank",
+      "questionText": "The manager ___ almost 100 applicants.",
+      "options": ["interviewed", "interviews", "interviewing", "interviewer"],
+      "correctAnswer": "interviewed",
+      "wordReference": "interview",
+      "explanation": "Câu ở thì quá khứ đơn, vì vậy chúng ta cần dạng quá khứ của động từ 'interview' là 'interviewed'."
+    },
+    {
+      "id": "d01_q36",
+      "type": "distinction",
+      "questionText": "Trong một buổi phỏng vấn, người đặt câu hỏi là 'interviewer', vậy người trả lời là gì?",
+      "options": ["interviewee", "employer", "applicant", "candidate"],
+      "correctAnswer": "interviewee",
+      "wordReference": "interview",
+      "explanation": "Interviewer (người phỏng vấn) và interviewee (người được phỏng vấn) là hai vai trò khác nhau trong một cuộc phỏng vấn."
+    },
+    {
+      "id": "d01_q37",
+      "type": "meaning_to_vocab",
+      "questionText": "Động từ nào có nghĩa là 'tuyển một người vào làm việc'?",
+      "options": ["apply", "hire", "qualify", "meet"],
+      "correctAnswer": "hire",
+      "wordReference": "hire",
+      "explanation": "'To hire' có nghĩa là thuê hoặc tuyển dụng ai đó, đồng nghĩa với 'employ' hoặc 'recruit'."
+    },
+    {
+      "id": "d01_q38",
+      "type": "fill_in_the_blank",
+      "questionText": "The company expects to ___ several new employees next month.",
+      "options": ["hiring", "hires", "hired", "hire"],
+      "correctAnswer": "hire",
+      "wordReference": "hire",
+      "explanation": "Sau 'to', chúng ta cần một động từ nguyên thể. 'hire' là dạng nguyên thể."
+    },
+    {
+      "id": "d01_q39",
+      "type": "antonym",
+      "questionText": "Từ nào trái nghĩa với 'hire'?",
+      "options": ["promote", "train", "fire", "manage"],
+      "correctAnswer": "fire",
+      "wordReference": "hire",
+      "explanation": "Trái nghĩa với 'hire' (tuyển dụng) là 'fire' (sa thải)."
+    },
+    {
+      "id": "d01_q40",
+      "type": "meaning_to_vocab",
+      "questionText": "Quá trình dạy cho nhân viên mới những kỹ năng cần thiết cho công việc được gọi là gì?",
+      "options": ["reference", "training", "achievement", "employment"],
+      "correctAnswer": "training",
+      "wordReference": "training",
+      "explanation": "'Training' (sự đào tạo) là quá trình trang bị kiến thức và kỹ năng cho công việc."
+    },
+    {
+      "id": "d01_q41",
+      "type": "collocation",
+      "questionText": "Hình thức đào tạo được cung cấp ngay tại nơi làm việc được gọi là gì?",
+      "options": [
+        "off-the-job training",
+        "online training",
+        "on-the-job training",
+        "self-training"
+      ],
+      "correctAnswer": "on-the-job training",
+      "wordReference": "training",
+      "explanation": "'On-the-job training' là một cụm từ phổ biến chỉ việc đào tạo thực tế tại nơi làm việc."
+    },
+    {
+      "id": "d01_q42",
+      "type": "meaning_to_vocab",
+      "questionText": "Một lá thư từ người chủ cũ để giới thiệu bạn cho một công việc mới được gọi là gì?",
+      "options": [
+        "cover letter",
+        "résumé",
+        "application form",
+        "reference letter"
+      ],
+      "correctAnswer": "reference letter",
+      "wordReference": "reference",
+      "explanation": "'Reference letter' (thư giới thiệu) là một tài liệu quan trọng để xác thực năng lực và kinh nghiệm của ứng viên."
+    },
+    {
+      "id": "d01_q43",
+      "type": "fill_in_the_blank",
+      "questionText": "The database contains ___ material on all aspects of labor law.",
+      "options": ["referral", "referencing", "reference", "referred"],
+      "correctAnswer": "reference",
+      "wordReference": "reference",
+      "explanation": "Trong cụm danh từ 'reference material', 'reference' đóng vai trò như một tính từ, có nghĩa là (tài liệu) để tham khảo."
+    },
+    {
+      "id": "d01_q44",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào sau đây chỉ một công việc hoặc một chức vụ cụ thể trong công ty?",
+      "options": ["occupation", "career", "profession", "position"],
+      "correctAnswer": "position",
+      "wordReference": "position",
+      "explanation": "'Position' thường được dùng để chỉ một vai trò, chức vụ cụ thể được tuyển dụng (ví dụ: marketing position)."
+    },
+    {
+      "id": "d01_q45",
+      "type": "collocation",
+      "questionText": "Khi bạn nộp đơn cho một vị trí, bạn thường dùng cụm từ nào?",
+      "options": [
+        "accept a position",
+        "apply for a position",
+        "start a position",
+        "create a position"
+      ],
+      "correctAnswer": "apply for a position",
+      "wordReference": "position",
+      "explanation": "'Apply for a position' là cụm từ chính xác có nghĩa là 'ứng tuyển cho một vị trí'."
+    },
+    {
+      "id": "d01_q46",
+      "type": "derivation",
+      "questionText": "Động từ của danh từ 'training' là gì?",
+      "options": ["trainee", "train", "trainer", "trainable"],
+      "correctAnswer": "train",
+      "wordReference": "training",
+      "explanation": "Danh từ 'training' (sự đào tạo) bắt nguồn từ động từ 'train' (đào tạo)."
+    },
+    {
+      "id": "d01_q47",
+      "type": "meaning_to_vocab",
+      "questionText": "Một thành công đáng kể mà bạn đạt được sau nhiều nỗ lực được gọi là gì?",
+      "options": ["task", "duty", "achievement", "effort"],
+      "correctAnswer": "achievement",
+      "wordReference": "achievement",
+      "explanation": "'Achievement' (thành tựu, thành tích) là một kết quả tốt đẹp mà bạn đã nỗ lực để đạt được."
+    },
+    {
+      "id": "d01_q48",
+      "type": "fill_in_the_blank",
+      "questionText": "List all of your ___ from previous jobs on your résumé.",
+      "options": ["achieve", "achievable", "achievements", "achiever"],
+      "correctAnswer": "achievements",
+      "wordReference": "achievement",
+      "explanation": "Sau 'all of your', chúng ta cần một danh từ số nhiều. 'Achievements' là dạng số nhiều của 'achievement'."
+    },
+    {
+      "id": "d01_q49",
+      "type": "distinction",
+      "questionText": "Người đạt được thành tích gọi là 'achiever', vậy bản thân thành tích đó gọi là gì?",
+      "options": ["achieving", "achievement", "achievable", "achieved"],
+      "correctAnswer": "achievement",
+      "wordReference": "achievement",
+      "explanation": "Cần phân biệt danh từ chỉ người 'achiever' và danh từ chỉ vật 'achievement'."
+    },
+    {
+      "id": "d01_q50",
+      "type": "vocab_to_meaning",
+      "questionText": "Khi bạn cảm thấy 'impressed' bởi một ai đó, cảm xúc của bạn là gì?",
+      "options": ["Thất vọng", "Ngưỡng mộ và khâm phục", "Bối rối", "Buồn chán"],
+      "correctAnswer": "Ngưỡng mộ và khâm phục",
+      "wordReference": "impressed",
+      "explanation": "'Impressed' mô tả cảm giác ngưỡng mộ, thán phục trước kỹ năng hoặc phẩm chất của ai đó/cái gì đó."
+    },
+    {
+      "id": "d01_q51",
+      "type": "distinction",
+      "questionText": "Đâu là sự khác biệt chính giữa 'impressed' và 'impressive'?",
+      "options": [
+        "Không có sự khác biệt.",
+        "'Impressed' mô tả cảm xúc của người, 'impressive' mô tả đối tượng gây ra cảm xúc đó.",
+        "'Impressive' mô tả cảm xúc của người, 'impressed' mô tả đối tượng gây ra cảm xúc đó.",
+        "'Impressed' là động từ, 'impressive' là tính từ."
+      ],
+      "correctAnswer": "'Impressed' mô tả cảm xúc của người, 'impressive' mô tả đối tượng gây ra cảm xúc đó.",
+      "wordReference": "impressed",
+      "explanation": "Ví dụ: 'I was impressed by the impressive performance.' (Tôi đã bị ấn tượng bởi màn trình diễn ấn tượng)."
+    },
+    {
+      "id": "d01_q52",
+      "type": "fill_in_the_blank",
+      "questionText": "The CEO was ___ by his assistant's organizing skills.",
+      "options": ["impress", "impressing", "impressive", "impressed"],
+      "correctAnswer": "impressed",
+      "wordReference": "impressed",
+      "explanation": "Câu này mô tả cảm xúc của CEO (bị động), nên chúng ta dùng dạng quá khứ phân từ 'impressed'."
+    },
+    {
+      "id": "d01_q53",
+      "type": "synonym",
+      "questionText": "Từ nào đồng nghĩa với 'outstanding' hoặc 'very good'?",
+      "options": ["eligible", "diligent", "excellent", "familiar"],
+      "correctAnswer": "excellent",
+      "wordReference": "excellent",
+      "explanation": "'Excellent' (xuất sắc) là một tính từ mạnh để khen ngợi chất lượng vượt trội."
+    },
+    {
+      "id": "d01_q54",
+      "type": "fill_in_the_blank",
+      "questionText": "Because of her ___ managerial skills, Erin was hired for the job.",
+      "options": ["excellence", "excel", "excellently", "excellent"],
+      "correctAnswer": "excellent",
+      "wordReference": "excellent",
+      "explanation": "Chúng ta cần một tính từ ('excellent') để bổ nghĩa cho cụm danh từ ('managerial skills')."
+    },
+    {
+      "id": "d01_q55",
+      "type": "meaning_to_vocab",
+      "questionText": "Nếu bạn có đủ điều kiện hoặc được phép làm gì đó, bạn được xem là ___.",
+      "options": ["qualified", "eligible", "professional", "confident"],
+      "correctAnswer": "eligible",
+      "wordReference": "eligible",
+      "explanation": "'Eligible' thường được dùng để chỉ việc đáp ứng các điều kiện để nhận một quyền lợi hoặc tham gia vào việc gì đó."
+    },
+    {
+      "id": "d01_q56",
+      "type": "grammar_usage",
+      "questionText": "Giới từ nào thường đi sau 'eligible'?",
+      "options": ["at", "with", "on", "for"],
+      "correctAnswer": "for",
+      "wordReference": "eligible",
+      "explanation": "Cấu trúc phổ biến là 'be eligible for something' (đủ điều kiện cho cái gì đó)."
+    },
+    {
+      "id": "d01_q57",
+      "type": "antonym",
+      "questionText": "Từ nào trái nghĩa với 'eligible'?",
+      "options": ["uneligible", "diseligible", "ineligible", "miseligible"],
+      "correctAnswer": "ineligible",
+      "wordReference": "eligible",
+      "explanation": "Tiền tố 'in-' được dùng để tạo thành từ trái nghĩa của 'eligible'."
+    },
+    {
+      "id": "d01_q58",
+      "type": "meaning_to_vocab",
+      "questionText": "Động từ nào có nghĩa là 'nhận ra ai đó hoặc cái gì đó'?",
+      "options": ["associate", "identify", "appeal", "consult"],
+      "correctAnswer": "identify",
+      "wordReference": "identify",
+      "explanation": "'To identify' có nghĩa là nhận diện, xác định chính xác ai đó hoặc cái gì đó."
+    },
+    {
+      "id": "d01_q59",
+      "type": "derivation",
+      "questionText": "Danh từ nào liên quan đến hành động 'nhận diện' và cũng có thể chỉ giấy tờ tùy thân?",
+      "options": ["identity", "identification", "identifier", "identifying"],
+      "correctAnswer": "identification",
+      "wordReference": "identify",
+      "explanation": "'Identification' vừa có nghĩa là 'sự nhận diện', vừa được dùng để chỉ giấy tờ chứng minh (ví dụ: ID card)."
+    },
+    {
+      "id": "d01_q60",
+      "type": "fill_in_the_blank",
+      "questionText": "Staff members wear uniforms so that they are easy for customers to ___.",
+      "options": ["identify", "identity", "identification", "identified"],
+      "correctAnswer": "identify",
+      "wordReference": "identify",
+      "explanation": "Sau 'to', chúng ta cần một động từ nguyên thể. 'identify' là dạng nguyên thể."
+    },
+    {
+      "id": "d01_q61",
+      "type": "grammar_usage",
+      "questionText": "Giới từ nào thường đi với động từ 'associate' để chỉ sự 'liên kết với'?",
+      "options": ["to", "for", "with", "in"],
+      "correctAnswer": "with",
+      "wordReference": "associate",
+      "explanation": "Cấu trúc phổ biến là 'be associated with' (được liên kết với) và 'in association with' (hợp tác với)."
+    },
+    {
+      "id": "d01_q62",
+      "type": "fill_in_the_blank",
+      "questionText": "Two of the applicants were ___ with a competitor.",
+      "options": ["associated", "association", "associating", "associate"],
+      "correctAnswer": "associated",
+      "wordReference": "associate",
+      "explanation": "Câu này ở dạng bị động ('were associated'), có nghĩa là 'có liên kết với'."
+    },
+    {
+      "id": "d01_q63",
+      "type": "meaning_to_vocab",
+      "questionText": "Các điều khoản và quy định của một hợp đồng lao động được gọi chung là gì?",
+      "options": ["achievements", "positions", "references", "conditions"],
+      "correctAnswer": "conditions",
+      "wordReference": "condition",
+      "explanation": "'The conditions of employment' là một cụm từ chỉ các điều kiện, điều khoản của một công việc."
+    },
+    {
+      "id": "d01_q64",
+      "type": "fill_in_the_blank",
+      "questionText": "The ___ of employment are listed in the job description.",
+      "options": ["conditional", "conditions", "conditioner", "conditioned"],
+      "correctAnswer": "conditions",
+      "wordReference": "condition",
+      "explanation": "Chủ ngữ của câu là danh từ số nhiều ('are listed'), do đó 'conditions' là đáp án đúng."
+    },
+    {
+      "id": "d01_q65",
+      "type": "antonym",
+      "questionText": "Từ nào trái nghĩa với 'employment' (việc làm)?",
+      "options": ["career", "profession", "unemployment", "occupation"],
+      "correctAnswer": "unemployment",
+      "wordReference": "employment",
+      "explanation": "Trái nghĩa với 'employment' (tình trạng có việc làm) là 'unemployment' (tình trạng thất nghiệp)."
+    },
+    {
+      "id": "d01_q66",
+      "type": "derivation",
+      "questionText": "Đâu là danh từ chỉ người tuyển dụng và người được tuyển dụng?",
+      "options": [
+        "employer / employee",
+        "employment / employer",
+        "employee / employ",
+        "employ / employer"
+      ],
+      "correctAnswer": "employer / employee",
+      "wordReference": "employment",
+      "explanation": "'Employer' là người chủ, nhà tuyển dụng. 'Employee' là nhân viên, người lao động."
+    },
+    {
+      "id": "d01_q67",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào có thể vừa là động từ (thiếu), vừa là danh từ (sự thiếu hụt)?",
+      "options": ["need", "require", "lack", "short"],
+      "correctAnswer": "lack",
+      "wordReference": "lack",
+      "explanation": "'Lack' có thể được dùng như một động từ (He lacks confidence) hoặc một danh từ (a lack of confidence)."
+    },
+    {
+      "id": "d01_q68",
+      "type": "fill_in_the_blank",
+      "questionText": "Due to a ___ of funds, the project has been temporarily halted.",
+      "options": ["lacked", "lacking", "lack", "lacks"],
+      "correctAnswer": "lack",
+      "wordReference": "lack",
+      "explanation": "Sau mạo từ 'a', chúng ta cần một danh từ. 'a lack of' có nghĩa là 'sự thiếu hụt'."
+    },
+    {
+      "id": "d01_q69",
+      "type": "meaning_to_vocab",
+      "questionText": "Tính từ nào dùng để mô tả những gì thuộc về quản lý hoặc người quản lý?",
+      "options": ["diligent", "managerial", "professional", "eligible"],
+      "correctAnswer": "managerial",
+      "wordReference": "managerial",
+      "explanation": "'Managerial' là tính từ có nghĩa là '(thuộc về) quản lý'."
+    },
+    {
+      "id": "d01_q70",
+      "type": "collocation",
+      "questionText": "Từ 'managerial' thường được kết hợp với danh từ nào sau đây?",
+      "options": ["salary", "office", "experience", "application"],
+      "correctAnswer": "experience",
+      "wordReference": "managerial",
+      "explanation": "Các cụm từ phổ biến là 'managerial staff' (nhân viên quản lý) và 'managerial experience' (kinh nghiệm quản lý)."
+    },
+    {
+      "id": "d01_q71",
+      "type": "synonym",
+      "questionText": "Tính từ nào đồng nghĩa với 'managerial'?",
+      "options": ["supervisory", "financial", "technical", "operational"],
+      "correctAnswer": "supervisory",
+      "wordReference": "managerial",
+      "explanation": "'Supervisory' (giám sát) có ý nghĩa gần gũi với 'managerial' (quản lý)."
+    },
+    {
+      "id": "d01_q72",
+      "type": "meaning_to_vocab",
+      "questionText": "Một người làm việc chăm chỉ, cẩn thận và siêng năng được mô tả bằng tính từ nào?",
+      "options": ["confident", "excellent", "familiar", "diligent"],
+      "correctAnswer": "diligent",
+      "wordReference": "diligent",
+      "explanation": "'Diligent' có nghĩa là siêng năng, cần cù, miệt mài."
+    },
+    {
+      "id": "d01_q73",
+      "type": "derivation",
+      "questionText": "Trạng từ tương ứng của tính từ 'diligent' là gì?",
+      "options": ["diligently", "diligence", "diligentness", "diligento"],
+      "correctAnswer": "diligently",
+      "wordReference": "diligent",
+      "explanation": "Trạng từ của 'diligent' là 'diligently' (một cách chăm chỉ)."
+    },
+    {
+      "id": "d01_q74",
+      "type": "fill_in_the_blank",
+      "questionText": "Carmen is one of the most ___ workers in the company.",
+      "options": ["diligence", "diligent", "diligently", "managerial"],
+      "correctAnswer": "diligent",
+      "wordReference": "diligent",
+      "explanation": "Trong cấu trúc so sánh nhất 'the most ___ workers', chúng ta cần một tính từ. 'Diligent' là tính từ."
+    },
+    {
+      "id": "d01_q75",
+      "type": "grammar_usage",
+      "questionText": "Để diễn tả sự 'quen thuộc với' điều gì đó, giới từ nào thường đi sau 'familiar'?",
+      "options": ["to", "about", "for", "with"],
+      "correctAnswer": "with",
+      "wordReference": "familiar",
+      "explanation": "Cấu trúc cố định và rất phổ biến là 'be familiar with something'."
+    },
+    {
+      "id": "d01_q76",
+      "type": "antonym",
+      "questionText": "Từ nào trái nghĩa với 'familiar'?",
+      "options": ["infamiliar", "unfamiliar", "disfamiliar", "nonfamiliar"],
+      "correctAnswer": "unfamiliar",
+      "wordReference": "familiar",
+      "explanation": "Tiền tố 'un-' được sử dụng để tạo thành từ trái nghĩa của 'familiar'."
+    },
+    {
+      "id": "d01_q77",
+      "type": "meaning_to_vocab",
+      "questionText": "Sự thành thạo hoặc khả năng làm tốt một việc gì đó được gọi là gì?",
+      "options": ["confidence", "condition", "proficiency", "achievement"],
+      "correctAnswer": "proficiency",
+      "wordReference": "proficiency",
+      "explanation": "'Proficiency' là danh từ chỉ sự thông thạo, thành thạo, đặc biệt là về một kỹ năng hoặc ngôn ngữ."
+    },
+    {
+      "id": "d01_q78",
+      "type": "fill_in_the_blank",
+      "questionText": "Overseas workers need proof of ___ in a second language.",
+      "options": ["proficient", "proficiently", "proficiency", "profile"],
+      "correctAnswer": "proficiency",
+      "wordReference": "proficiency",
+      "explanation": "Sau giới từ 'of', chúng ta cần một danh từ. 'Proficiency' là danh từ."
+    },
+    {
+      "id": "d01_q79",
+      "type": "meaning_to_vocab",
+      "questionText": "Một ứng viên có khả năng thành công trong tương lai được gọi là ứng viên ___.",
+      "options": ["prospective", "professional", "eligible", "qualified"],
+      "correctAnswer": "prospective",
+      "wordReference": "prospective",
+      "explanation": "'Prospective' là tính từ có nghĩa là 'có triển vọng, tiềm năng, có thể xảy ra trong tương lai'."
+    },
+    {
+      "id": "d01_q80",
+      "type": "fill_in_the_blank",
+      "questionText": "___ employees were asked to come in for a second interview.",
+      "options": ["Prospect", "Prospects", "Prospective", "Prospectively"],
+      "correctAnswer": "Prospective",
+      "wordReference": "prospective",
+      "explanation": "Chúng ta cần một tính từ ('Prospective') để bổ nghĩa cho danh từ ('employees')."
+    },
+    {
+      "id": "d01_q81",
+      "type": "grammar_usage",
+      "questionText": "Khi 'appeal' được dùng với nghĩa 'hấp dẫn ai đó', nó thường đi với giới từ nào?",
+      "options": ["with", "for", "to", "on"],
+      "correctAnswer": "to",
+      "wordReference": "appeal",
+      "explanation": "'Appeal' là một nội động từ, vì vậy cấu trúc đúng là 'appeal to someone/something'."
+    },
+    {
+      "id": "d01_q82",
+      "type": "synonym",
+      "questionText": "Từ nào đồng nghĩa với 'appeal to' khi mang nghĩa 'thu hút'?",
+      "options": ["attract", "contact", "speak", "offer"],
+      "correctAnswer": "attract",
+      "wordReference": "appeal",
+      "explanation": "Khi mang nghĩa 'lôi cuốn, hấp dẫn', 'appeal to' có thể được thay thế bằng 'attract'."
+    },
+    {
+      "id": "d01_q83",
+      "type": "grammar_usage",
+      "questionText": "Khi một người 'chuyên về' một lĩnh vực nào đó, giới từ nào đi sau động từ 'specialize'?",
+      "options": ["on", "at", "in", "for"],
+      "correctAnswer": "in",
+      "wordReference": "specialize",
+      "explanation": "Cấu trúc cố định là 'specialize in something', có nghĩa là chuyên sâu về một lĩnh vực cụ thể."
+    },
+    {
+      "id": "d01_q84",
+      "type": "fill_in_the_blank",
+      "questionText": "Most of the programmers ___ in software design in college.",
+      "options": ["special", "specialized", "specialist", "specialization"],
+      "correctAnswer": "specialized",
+      "wordReference": "specialize",
+      "explanation": "Câu này ở thì quá khứ đơn, vì vậy chúng ta cần dạng quá khứ của động từ 'specialize'."
+    },
+    {
+      "id": "d01_q85",
+      "type": "derivation",
+      "questionText": "Danh từ nào chỉ 'chuyên gia' trong một lĩnh vực?",
+      "options": ["specialization", "specialty", "specialist", "specialize"],
+      "correctAnswer": "specialist",
+      "wordReference": "specialize",
+      "explanation": "'Specialist' là danh từ chỉ người có kiến thức chuyên sâu về một lĩnh vực."
+    },
+    {
+      "id": "d01_q86",
+      "type": "synonym",
+      "questionText": "Tính từ nào đồng nghĩa với 'apprehensive'?",
+      "options": ["confident", "excited", "concerned", "indifferent"],
+      "correctAnswer": "concerned",
+      "wordReference": "apprehensive",
+      "explanation": "'Apprehensive' có nghĩa là lo lắng, e sợ về một điều gì đó sắp xảy ra, gần nghĩa với 'concerned' hoặc 'anxious'."
+    },
+    {
+      "id": "d01_q87",
+      "type": "fill_in_the_blank",
+      "questionText": "Many people feel ___ before an important job interview.",
+      "options": ["apprehension", "apprehend", "apprehensively", "apprehensive"],
+      "correctAnswer": "apprehensive",
+      "wordReference": "apprehensive",
+      "explanation": "Sau động từ 'feel', chúng ta cần một tính từ để mô tả cảm xúc. 'Apprehensive' là một tính từ."
+    },
+    {
+      "id": "d01_q88",
+      "type": "distinction",
+      "questionText": "Sự khác biệt giữa 'consultant' và 'consultation' là gì?",
+      "options": [
+        "Chúng đồng nghĩa.",
+        "'Consultant' là người, 'consultation' là hành động/cuộc họp.",
+        "'Consultant' là hành động, 'consultation' là người.",
+        "'Consultant' là danh từ, 'consultation' là động từ."
+      ],
+      "correctAnswer": "'Consultant' là người, 'consultation' là hành động/cuộc họp.",
+      "wordReference": "consultant",
+      "explanation": "'Consultant' là người tư vấn (danh từ chỉ người), trong khi 'consultation' là sự tham vấn, cuộc họp tư vấn (danh từ trừu tượng)."
+    },
+    {
+      "id": "d01_q89",
+      "type": "grammar_usage",
+      "questionText": "Khi bạn 'hỏi ý kiến một chuyên gia', bạn sẽ dùng cấu trúc nào?",
+      "options": [
+        "consult with a doctor",
+        "consult a doctor",
+        "consult to a doctor",
+        "consult about a doctor"
+      ],
+      "correctAnswer": "consult a doctor",
+      "wordReference": "consultant",
+      "explanation": "Khi hỏi ý kiến chuyên gia (bác sĩ, luật sư), động từ 'consult' không cần giới từ đi kèm. 'Consult with' được dùng khi thảo luận với người ngang hàng."
+    },
+    {
+      "id": "d01_q90",
+      "type": "meaning_to_vocab",
+      "questionText": "Khi một người 'được hưởng' một quyền lợi nào đó, ta dùng động từ nào?",
+      "options": ["give", "take", "entitle", "provide"],
+      "correctAnswer": "entitle",
+      "wordReference": "entitle",
+      "explanation": "Cấu trúc 'be entitled to something' có nghĩa là được cho quyền, được hưởng một quyền lợi gì đó."
+    },
+    {
+      "id": "d01_q91",
+      "type": "fill_in_the_blank",
+      "questionText": "Executives are ___ to additional benefits.",
+      "options": ["entitled", "entitling", "entitlement", "entitle"],
+      "correctAnswer": "entitled",
+      "wordReference": "entitle",
+      "explanation": "Cấu trúc bị động 'be entitled to' là dạng phổ biến nhất của động từ này."
+    },
+    {
+      "id": "d01_q92",
+      "type": "meaning_to_vocab",
+      "questionText": "Bằng cấp bạn nhận được sau khi hoàn thành chương trình đại học được gọi là gì?",
+      "options": ["certificate", "diploma", "license", "degree"],
+      "correctAnswer": "degree",
+      "wordReference": "degree",
+      "explanation": "'Degree' (bằng cấp) là học vị được cấp bởi trường đại học, ví dụ: Bachelor's degree (bằng cử nhân), Master's degree (bằng thạc sĩ)."
+    },
+    {
+      "id": "d01_q93",
+      "type": "fill_in_the_blank",
+      "questionText": "A bachelor's ___ in engineering is a requirement for this position.",
+      "options": ["degree", "certificate", "paper", "level"],
+      "correctAnswer": "degree",
+      "wordReference": "degree",
+      "explanation": "Cụm từ 'bachelor's degree' có nghĩa là 'bằng cử nhân'."
+    },
+    {
+      "id": "d01_q94",
+      "type": "vocab_to_meaning",
+      "questionText": "Cụm từ 'on the payroll' có nghĩa là gì?",
+      "options": [
+        "Đang trong quá trình phỏng vấn.",
+        "Được công ty tuyển dụng và trả lương.",
+        "Sắp được tăng lương.",
+        "Đang làm việc bán thời gian."
+      ],
+      "correctAnswer": "Được công ty tuyển dụng và trả lương.",
+      "wordReference": "payroll",
+      "explanation": "'On the payroll' có nghĩa đen là 'có tên trong bảng lương', tức là một nhân viên chính thức của công ty."
+    },
+    {
+      "id": "d01_q95",
+      "type": "fill_in_the_blank",
+      "questionText": "Fifteen new employees were added to the ___ last month.",
+      "options": ["payment", "salary", "payroll", "wage"],
+      "correctAnswer": "payroll",
+      "wordReference": "payroll",
+      "explanation": "'Payroll' là danh sách nhân viên và số tiền lương phải trả cho họ."
+    },
+    {
+      "id": "d01_q96",
+      "type": "synonym",
+      "questionText": "Động từ nào đồng nghĩa với 'recruit'?",
+      "options": ["fire", "promote", "hire", "manage"],
+      "correctAnswer": "hire",
+      "wordReference": "recruit",
+      "explanation": "'Recruit', 'hire', và 'employ' đều có nghĩa là tuyển dụng, thuê ai đó vào làm việc."
+    },
+    {
+      "id": "d01_q97",
+      "type": "derivation",
+      "questionText": "Đâu là danh từ chỉ 'người làm công tác tuyển dụng' và 'quá trình tuyển dụng'?",
+      "options": [
+        "recruiter / recruitment",
+        "recruitment / recruiter",
+        "recruit / recruitment",
+        "recruiter / recruiting"
+      ],
+      "correctAnswer": "recruiter / recruitment",
+      "wordReference": "recruit",
+      "explanation": "'Recruiter' là người tuyển dụng (chỉ người), và 'recruitment' là sự/quá trình tuyển dụng (chỉ hành động)."
+    },
+    {
+      "id": "d01_q98",
+      "type": "distinction",
+      "questionText": "Sự khác biệt giữa 'certification' và 'certificate' là gì?",
+      "options": [
+        "Không có sự khác biệt.",
+        "'Certification' thường nói về bằng cấp chuyên môn, 'certificate' dùng cho các giấy chứng nhận thông thường.",
+        "'Certificate' thường nói về bằng cấp chuyên môn, 'certification' dùng cho các giấy chứng nhận thông thường.",
+        "'Certification' là danh từ, 'certificate' là động từ."
+      ],
+      "correctAnswer": "'Certification' thường nói về bằng cấp chuyên môn, 'certificate' dùng cho các giấy chứng nhận thông thường.",
+      "wordReference": "certification",
+      "explanation": "Ví dụ: 'accounting certification' (chứng nhận kế toán) so với 'a birth certificate' (giấy khai sinh)."
+    },
+    {
+      "id": "d01_q99",
+      "type": "fill_in_the_blank",
+      "questionText": "Obtaining accounting ___ takes approximately a year.",
+      "options": ["certificate", "certify", "certified", "certification"],
+      "correctAnswer": "certification",
+      "wordReference": "certification",
+      "explanation": "Trong ngữ cảnh này, chúng ta đang nói về việc có được sự chứng nhận chuyên môn, nên 'certification' là từ phù hợp."
+    },
+    {
+      "id": "d01_q100",
+      "type": "distinction",
+      "questionText": "Từ nào chỉ 'nghề nghiệp', và từ nào chỉ 'người đang ở (nhà), người sở hữu (đất)'?",
+      "options": [
+        "occupation / occupant",
+        "occupant / occupation",
+        "occupy / occupant",
+        "occupation / occupy"
+      ],
+      "correctAnswer": "occupation / occupant",
+      "wordReference": "occupation",
+      "explanation": "Cần phân biệt rõ danh từ trừu tượng 'occupation' (nghề nghiệp) và danh từ chỉ người 'occupant' (người cư ngụ, người sở hữu)."
+    },
+    {
+      "id": "d01_q101",
+      "type": "synonym",
+      "questionText": "Từ nào đồng nghĩa với 'occupation'?",
+      "options": ["hobby", "company", "job", "office"],
+      "correctAnswer": "job",
+      "wordReference": "occupation",
+      "explanation": "'Occupation', 'job', 'profession', 'career' đều là các từ liên quan đến công việc, nghề nghiệp."
+    },
+    {
+      "id": "d01_q102",
+      "type": "vocab_to_meaning",
+      "questionText": "Loại tiền công nào thường được trả theo giờ hoặc theo tuần cho công nhân nhà máy, lao động chân tay?",
+      "options": ["salary", "wage", "compensation", "income"],
+      "correctAnswer": "wage",
+      "wordReference": "wage",
+      "explanation": "'Wage' thường chỉ tiền công cho công việc ngắn hạn hoặc lao động thể chất, tính theo giờ/ngày/tuần. 'Salary' thường chỉ lương tháng/năm cho nhân viên văn phòng."
+    },
+    {
+      "id": "d01_q103",
+      "type": "distinction",
+      "questionText": "Đâu là sự khác biệt chính giữa 'wage' và 'salary'?",
+      "options": [
+        "Wage là lương năm, salary là lương giờ.",
+        "Wage thường tính theo giờ/tuần, salary thường tính theo tháng/năm.",
+        "Không có sự khác biệt.",
+        "Wage là tiền thưởng, salary là lương cơ bản."
+      ],
+      "correctAnswer": "Wage thường tính theo giờ/tuần, salary thường tính theo tháng/năm.",
+      "wordReference": "wage",
+      "explanation": "Ví dụ: 'hourly wage' (tiền công theo giờ) và 'annual salary' (lương năm)."
+    }
+  ]
+}

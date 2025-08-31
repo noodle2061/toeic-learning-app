@@ -44,3 +44,21 @@ export const getVocabUnitDetails = async (unitId) => {
   }
 };
 
+/**
+ * Lấy dữ liệu trắc nghiệm của một bài học từ vựng.
+ * @param {string} unitId - ID của bài học (ví dụ: 'day01')
+ */
+export const getQuizData = async (unitId) => {
+    try {
+        const response = await fetch(`/data/vocabulary/${unitId}_quiz.json`);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error(`Could not fetch quiz data for ${unitId}:`, error);
+        return null;
+    }
+};
+

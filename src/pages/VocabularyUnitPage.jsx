@@ -80,7 +80,7 @@ const VocabularyUnitPage = () => {
   const learningOptions = [
     { name: 'Xem qua toàn bộ từ vựng', path: 'browse', enabled: true },
     { name: 'Flashcard Tương tác', path: 'flashcards', enabled: true },
-    { name: 'Trắc nghiệm', path: 'quiz', enabled: false },
+    { name: 'Trắc nghiệm', path: 'quiz', enabled: true },
     { name: 'Điền từ còn thiếu', path: 'fill-in-blanks', enabled: false },
     { name: 'Ghép nối từ với nghĩa', path: 'match', enabled: false },
     { name: 'Nghe và chọn nghĩa', path: 'listen', enabled: false },
