@@ -1,29 +1,20 @@
-// Giả sử bạn có 2 file json trong public/data/vocabulary/
-const VOCAB_UNITS = ['day01', 'day02'];
-
 /**
- * Lấy thông tin cơ bản của tất cả các bài học từ vựng.
- * Trong một ứng dụng thực tế, bạn có thể có một file index.json
- * để không cần phải hardcode danh sách các bài học.
+ * Lấy thông tin cơ bản của tất cả các bài học từ vựng từ tệp manifest.
+ * Bằng cách này, ứng dụng sẽ tự động nhận diện tất cả các bài học
+ * được khai báo trong manifest.json mà không cần hardcode.
  */
 export const getVocabularyUnits = async () => {
-  const unitsInfo = [];
-  for (const unitId of VOCAB_UNITS) {
-    try {
-      const response = await fetch(`/data/vocabulary/${unitId}.json`);
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      const data = await response.json();
-      unitsInfo.push({
-        unitId: data.unitId,
-        title: data.title,
-      });
-    } catch (error) {
-      console.error(`Could not fetch ${unitId}.json:`, error);
+  try {
+    const response = await fetch('/data/manifest.json');
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
     }
+    const unitsInfo = await response.json();
+    return unitsInfo;
+  } catch (error) {
+    console.error("Could not fetch vocabulary units manifest:", error);
+    return []; // Trả về mảng rỗng nếu có lỗi
   }
-  return unitsInfo;
 };
 
 /**
@@ -46,11 +37,13 @@ export const getVocabUnitDetails = async (unitId) => {
 
 /**
  * Lấy dữ liệu trắc nghiệm của một bài học từ vựng.
+ * Đường dẫn đã được cập nhật để trỏ đến thư mục /data/quizz/
  * @param {string} unitId - ID của bài học (ví dụ: 'day01')
  */
 export const getQuizData = async (unitId) => {
     try {
-        const response = await fetch(`/data/vocabulary/${unitId}_quiz.json`);
+        // THAY ĐỔI: Đường dẫn đã được cập nhật tới thư mục "quizz" mới
+        const response = await fetch(`/data/quizz/${unitId}_quiz.json`);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -61,4 +54,3 @@ export const getQuizData = async (unitId) => {
         return null;
     }
 };
-

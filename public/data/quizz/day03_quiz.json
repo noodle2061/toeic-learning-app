@@ -1,0 +1,1139 @@
+{
+  "unitId": "day03",
+  "title": "Trắc nghiệm: Cao Thủ Chốn Văn Phòng (1) - Phần 1",
+  "questions": [
+    {
+      "id": "d03_q01",
+      "type": "grammar_usage",
+      "questionText": "Chọn giới từ và dạng động từ đúng để hoàn thành câu: 'All our employees are accustomed ___ the new design software.'",
+      "options": [
+        "to using",
+        "with using",
+        "to use",
+        "for use"
+      ],
+      "correctAnswer": "to using",
+      "wordReference": "accustomed",
+      "explanation": "Cấu trúc đúng là 'be accustomed to + V-ing', có nghĩa là 'quen với việc gì đó'."
+    },
+    {
+      "id": "d03_q02",
+      "type": "meaning_to_vocab",
+      "questionText": "Trạng thái đã quen, đã thích nghi với một điều gì đó được mô tả bằng tính từ nào?",
+      "options": [
+        "demanding",
+        "corporate",
+        "accustomed",
+        "efficiently"
+      ],
+      "correctAnswer": "accustomed",
+      "wordReference": "accustomed",
+      "explanation": "'Accustomed' là một tính từ có nghĩa là 'quen với' hoặc 'thành thói quen'."
+    },
+    {
+      "id": "d03_q03",
+      "type": "distinction",
+      "questionText": "Đâu là sự khác biệt chính xác giữa 'corporation' và 'corporate'?",
+      "options": [
+        "'Corporation' là danh từ (tập đoàn), 'corporate' là tính từ (thuộc về tập đoàn).",
+        "'Corporation' là tính từ, 'corporate' là danh từ.",
+        "Cả hai đều là danh từ chỉ công ty.",
+        "Không có sự khác biệt về nghĩa."
+      ],
+      "correctAnswer": "'Corporation' là danh từ (tập đoàn), 'corporate' là tính từ (thuộc về tập đoàn).",
+      "wordReference": "corporation",
+      "explanation": "Cần phân biệt rõ loại từ: 'corporation' (n) là tập đoàn, trong khi 'corporate' (adj) là tính từ bổ nghĩa, ví dụ: corporate culture (văn hóa doanh nghiệp)."
+    },
+    {
+      "id": "d03_q04",
+      "type": "fill_in_the_blank",
+      "questionText": "Delroy Lee heads a multinational telecommunications ___ based in Virginia.",
+      "options": [
+        "corporate",
+        "corporation",
+        "cooperation",
+        "colleague"
+      ],
+      "correctAnswer": "corporation",
+      "wordReference": "corporation",
+      "explanation": "Trong câu này, chúng ta cần một danh từ để chỉ 'tập đoàn', vì vậy 'corporation' là lựa chọn đúng."
+    },
+    {
+      "id": "d03_q05",
+      "type": "meaning_to_vocab",
+      "questionText": "Tính từ nào dùng để miêu tả một người giám sát có yêu cầu cao, khắt khe trong công việc?",
+      "options": [
+        "accustomed",
+        "demanding",
+        "manageable",
+        "attentively"
+      ],
+      "correctAnswer": "demanding",
+      "wordReference": "demanding",
+      "explanation": "'Demanding' có nghĩa là 'đòi hỏi khắt khe', thường được dùng để mô tả công việc hoặc người quản lý."
+    },
+    {
+      "id": "d03_q06",
+      "type": "derivatives",
+      "questionText": "Động từ gốc của tính từ 'demanding' là gì?",
+      "options": [
+        "depend",
+        "deliver",
+        "demand",
+        "depart"
+      ],
+      "correctAnswer": "demand",
+      "wordReference": "demanding",
+      "explanation": "Tính từ 'demanding' được phát triển từ động từ 'demand' (yêu cầu, đòi hỏi)."
+    },
+    {
+      "id": "d03_q07",
+      "type": "synonym",
+      "questionText": "Từ nào sau đây đồng nghĩa với 'colleague'?",
+      "options": [
+        "supervisor",
+        "client",
+        "competitor",
+        "coworker"
+      ],
+      "correctAnswer": "coworker",
+      "wordReference": "colleague",
+      "explanation": "'Colleague', 'coworker', 'associate', và 'peer' đều có nghĩa là 'đồng nghiệp'."
+    },
+    {
+      "id": "d03_q08",
+      "type": "fill_in_the_blank",
+      "questionText": "Regular social activities can improve cooperation among ___.",
+      "options": [
+        "colleagues",
+        "divisions",
+        "corporations",
+        "demands"
+      ],
+      "correctAnswer": "colleagues",
+      "wordReference": "colleague",
+      "explanation": "Câu này nói về việc cải thiện sự hợp tác giữa các 'đồng nghiệp', do đó 'colleagues' là phù hợp nhất."
+    },
+    {
+      "id": "d03_q09",
+      "type": "distinction",
+      "questionText": "Khi nói về cơ cấu tổ chức, từ nào chỉ một 'bộ phận' trong công ty, khác với 'category' (hạng mục) hay 'compartment' (ngăn, khoang)?",
+      "options": [
+        "corporation",
+        "management",
+        "division",
+        "section"
+      ],
+      "correctAnswer": "division",
+      "wordReference": "division",
+      "explanation": "'Division' được dùng để chỉ một bộ phận lớn trong một công ty hoặc tổ chức, ví dụ: the automobile division (bộ phận ô tô)."
+    },
+    {
+      "id": "d03_q10",
+      "type": "fill_in_the_blank",
+      "questionText": "The technician will transfer to the automobile ___ after training.",
+      "options": [
+        "divide",
+        "division",
+        "divided",
+        "dividing"
+      ],
+      "correctAnswer": "division",
+      "wordReference": "division",
+      "explanation": "Chúng ta cần một danh từ để chỉ 'bộ phận', vì vậy 'division' là đáp án chính xác."
+    },
+    {
+      "id": "d03_q11",
+      "type": "grammar_usage",
+      "questionText": "Trong cấu trúc 'request that + chủ ngữ + ...', động từ theo sau phải ở dạng nào?",
+      "options": [
+        "Nguyên thể (infinitive)",
+        "V-ing (gerund)",
+        "Quá khứ đơn",
+        "Tương lai đơn"
+      ],
+      "correctAnswer": "Nguyên thể (infinitive)",
+      "wordReference": "request",
+      "explanation": "Đây là dạng giả định (subjunctive). Sau các động từ như 'request', 'suggest', 'demand' + that, mệnh đề theo sau dùng động từ nguyên thể không 'to'."
+    },
+    {
+      "id": "d03_q12",
+      "type": "grammar_usage",
+      "questionText": "Chọn câu đúng ngữ pháp.",
+      "options": [
+        "Mike requested for a copy of the contract.",
+        "Mike requested a copy of the contract.",
+        "The factory tours are available on request.",
+        "He requests that she sends the file."
+      ],
+      "correctAnswer": "Mike requested a copy of the contract.",
+      "wordReference": "request",
+      "explanation": "Động từ 'request' là một ngoại động từ, do đó nó đi trực tiếp với tân ngữ mà không cần giới từ 'for'. Cụm từ đúng là 'upon request', và mệnh đề sau 'request that' dùng động từ nguyên thể ('send' chứ không phải 'sends')."
+    },
+    {
+      "id": "d03_q13",
+      "type": "derivatives",
+      "questionText": "Để mô tả ai đó làm việc 'một cách hiệu quả', ta dùng từ nào?",
+      "options": [
+        "efficient",
+        "efficiency",
+        "efficiently",
+        "effect"
+      ],
+      "correctAnswer": "efficiently",
+      "wordReference": "efficiently",
+      "explanation": "'Efficiently' là trạng từ, dùng để bổ nghĩa cho động từ 'làm việc' (work)."
+    },
+    {
+      "id": "d03_q14",
+      "type": "fill_in_the_blank",
+      "questionText": "The software helps employees work more ___.",
+      "options": [
+        "efficient",
+        "efficiency",
+        "efficiently",
+        "efficacious"
+      ],
+      "correctAnswer": "efficiently",
+      "wordReference": "efficiently",
+      "explanation": "Trong câu này, chúng ta cần một trạng từ để bổ nghĩa cho động từ 'work', vì vậy 'efficiently' là lựa chọn chính xác."
+    },
+    {
+      "id": "d03_q15",
+      "type": "grammar_usage",
+      "questionText": "Cụm từ nào có nghĩa là 'xoay sở, cố gắng để làm một việc gì đó'?",
+      "options": [
+        "manage to do",
+        "manage for doing",
+        "manage doing",
+        "manage of doing"
+      ],
+      "correctAnswer": "manage to do",
+      "wordReference": "manage",
+      "explanation": "Cấu trúc 'manage to do something' mang nghĩa là đã thành công trong việc làm một điều gì đó, đặc biệt là việc khó khăn."
+    },
+    {
+      "id": "d03_q16",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ 'management' ngoài nghĩa 'sự quản lý' còn có nghĩa là gì?",
+      "options": [
+        "Nhân viên",
+        "Ban điều hành",
+        "Khách hàng",
+        "Cổ đông"
+      ],
+      "correctAnswer": "Ban điều hành",
+      "wordReference": "manage",
+      "explanation": "'Management' có thể chỉ cả quá trình quản lý và tập thể những người quản lý (ban giám đốc, ban điều hành)."
+    },
+    {
+      "id": "d03_q17",
+      "type": "synonym",
+      "questionText": "Từ nào sau đây đồng nghĩa với 'submit'?",
+      "options": [
+        "receive",
+        "review",
+        "hand in",
+        "handle"
+      ],
+      "correctAnswer": "hand in",
+      "wordReference": "submit",
+      "explanation": "'Submit', 'turn in', và 'hand in' đều có nghĩa là nộp, đệ trình một tài liệu nào đó."
+    },
+    {
+      "id": "d03_q18",
+      "type": "fill_in_the_blank",
+      "questionText": "Applicants should ___ a résumé to the personnel manager.",
+      "options": [
+        "submissive",
+        "submission",
+        "submit",
+        "submitting"
+      ],
+      "correctAnswer": "submit",
+      "wordReference": "submit",
+      "explanation": "Trong câu này, sau động từ khuyết thiếu 'should' cần một động từ nguyên thể, vì vậy 'submit' là đáp án đúng."
+    },
+    {
+      "id": "d03_q19",
+      "type": "collocation",
+      "questionText": "Trạng từ 'directly' thường đi với nhóm động từ nào sau đây?",
+      "options": [
+        "eat, sleep, drink",
+        "report, contact, call",
+        "create, design, build",
+        "agree, disagree, discuss"
+      ],
+      "correctAnswer": "report, contact, call",
+      "wordReference": "directly",
+      "explanation": "Trong môi trường công sở, 'directly' thường được dùng để nhấn mạnh việc báo cáo, liên lạc hoặc gọi điện một cách trực tiếp, không qua trung gian."
+    },
+    {
+      "id": "d03_q20",
+      "type": "fill_in_the_blank",
+      "questionText": "All regional branches report ___ to the head office in Washington.",
+      "options": [
+        "direct",
+        "directly",
+        "direction",
+        "director"
+      ],
+      "correctAnswer": "directly",
+      "wordReference": "directly",
+      "explanation": "Cần một trạng từ để bổ nghĩa cho động từ 'report'. 'Directly' (một cách trực tiếp) là lựa chọn phù hợp."
+    },
+    {
+      "id": "d03_q21",
+      "type": "grammar_usage",
+      "questionText": "Chọn cấu trúc đúng: 'Ms. Williams reminded Mr. Johnson ___ his lunch meeting.'",
+      "options": [
+        "for",
+        "about",
+        "of",
+        "to"
+      ],
+      "correctAnswer": "of",
+      "wordReference": "remind",
+      "explanation": "Cấu trúc phổ biến của 'remind' là 'remind somebody of something' (nhắc ai về điều gì đó)."
+    },
+    {
+      "id": "d03_q22",
+      "type": "derivatives",
+      "questionText": "Danh từ nào có nghĩa là 'lời nhắc nhở' hoặc 'vật làm nhớ lại'?",
+      "options": [
+        "remembrance",
+        "reminder",
+        "reminding",
+        "remain"
+      ],
+      "correctAnswer": "reminder",
+      "wordReference": "remind",
+      "explanation": "'Reminder' là danh từ phái sinh từ động từ 'remind', chỉ một lời nhắn hoặc vật giúp bạn nhớ điều gì đó."
+    },
+    {
+      "id": "d03_q23",
+      "type": "fill_in_the_blank",
+      "questionText": "The manager ___ the staff to read the conference materials beforehand.",
+      "options": [
+        "instructed",
+        "instruction",
+        "instructor",
+        "instructive"
+      ],
+      "correctAnswer": "instructed",
+      "wordReference": "instruct",
+      "explanation": "Câu cần một động từ ở thì quá khứ để tường thuật lại hành động của người quản lý. 'Instructed' (đã chỉ thị) là đáp án đúng."
+    },
+    {
+      "id": "d03_q24",
+      "type": "distinction",
+      "questionText": "Đâu là sự khác biệt giữa 'instruction' và 'instructor'?",
+      "options": [
+        "'Instruction' là người hướng dẫn, 'instructor' là lời chỉ dẫn.",
+        "'Instruction' là lời chỉ dẫn, 'instructor' là người hướng dẫn.",
+        "Cả hai đều có nghĩa là 'người hướng dẫn'.",
+        "Cả hai đều có nghĩa là 'lời chỉ dẫn'."
+      ],
+      "correctAnswer": "'Instruction' là lời chỉ dẫn, 'instructor' là người hướng dẫn.",
+      "wordReference": "instruct",
+      "explanation": "Cần phân biệt rõ: 'instructor' là danh từ chỉ người (người dạy, người hướng dẫn), trong khi 'instruction' là danh từ chỉ vật (sự hướng dẫn, lời chỉ thị)."
+    },
+    {
+      "id": "d03_q25",
+      "type": "collocation",
+      "questionText": "Động từ nào thường được dùng với 'deadline' để diễn tả việc hoàn thành đúng hạn?",
+      "options": [
+        "make a deadline",
+        "do a deadline",
+        "meet a deadline",
+        "get a deadline"
+      ],
+      "correctAnswer": "meet a deadline",
+      "wordReference": "deadline",
+      "explanation": "Cụm từ phổ biến là 'meet the deadline' (hoàn thành đúng hạn) hoặc 'miss the deadline' (trễ hạn)."
+    },
+    {
+      "id": "d03_q26",
+      "type": "fill_in_the_blank",
+      "questionText": "The team finished the project ahead of the ___.",
+      "options": [
+        "headline",
+        "guideline",
+        "online",
+        "deadline"
+      ],
+      "correctAnswer": "deadline",
+      "wordReference": "deadline",
+      "explanation": "'Deadline' có nghĩa là 'hạn chót', phù hợp với ngữ cảnh hoàn thành một dự án."
+    },
+    {
+      "id": "d03_q27",
+      "type": "meaning_to_vocab",
+      "questionText": "Khi một khách hàng thử một miếng bánh tại tiệm, hành động đó được gọi là gì?",
+      "options": [
+        "notify",
+        "purchase",
+        "sample",
+        "instruct"
+      ],
+      "correctAnswer": "sample",
+      "wordReference": "sample",
+      "explanation": "Động từ 'sample' có nghĩa là 'thử' (thường là đồ ăn, thức uống hoặc một sản phẩm) để xem chất lượng của nó."
+    },
+    {
+      "id": "d03_q28",
+      "type": "fill_in_the_blank",
+      "questionText": "We need to prepare ___ of our products for the fair.",
+      "options": [
+        "examples",
+        "samples",
+        "copies",
+        "deadlines"
+      ],
+      "correctAnswer": "samples",
+      "wordReference": "sample",
+      "explanation": "Danh từ 'samples' (các mẫu thử) là từ phù hợp nhất để chỉ các sản phẩm mẫu được chuẩn bị cho hội chợ."
+    },
+    {
+      "id": "d03_q29",
+      "type": "distinction",
+      "questionText": "Để 'thông báo cho ai đó' về một việc gì đó, ta dùng 'notify'. Để 'công bố rộng rãi' một thông tin, ta dùng động từ nào?",
+      "options": [
+        "reveal",
+        "inform",
+        "announce",
+        "instruct"
+      ],
+      "correctAnswer": "announce",
+      "wordReference": "notify",
+      "explanation": "'Notify' thường dùng để thông báo trực tiếp cho một cá nhân hoặc một nhóm cụ thể. 'Announce' dùng để công bố thông tin cho nhiều người biết."
+    },
+    {
+      "id": "d03_q30",
+      "type": "grammar_usage",
+      "questionText": "Hoàn thành câu: 'All staff must ___ their supervisors of any leave requests.'",
+      "options": [
+        "notify",
+        "notification",
+        "notifying",
+        "notified"
+      ],
+      "correctAnswer": "notify",
+      "wordReference": "notify",
+      "explanation": "Sau động từ khuyết thiếu 'must' cần một động từ nguyên thể, do đó 'notify' là đáp án chính xác."
+    },
+    {
+      "id": "d03_q31",
+      "type": "synonym",
+      "questionText": "Từ nào đồng nghĩa với 'perform' trong câu 'They need to perform their duties'?",
+      "options": [
+        "create",
+        "conduct",
+        "monitor",
+        "deserve"
+      ],
+      "correctAnswer": "conduct",
+      "wordReference": "perform",
+      "explanation": "'Perform', 'conduct', 'carry out' đều có nghĩa là thực hiện, thi hành một nhiệm vụ, công việc."
+    },
+    {
+      "id": "d03_q32",
+      "type": "fill_in_the_blank",
+      "questionText": "Equipment repairs were being ___ on the assembly line.",
+      "options": [
+        "performing",
+        "performance",
+        "performed",
+        "performer"
+      ],
+      "correctAnswer": "performed",
+      "wordReference": "perform",
+      "explanation": "Câu này ở dạng bị động ('were being...'), vì vậy cần dùng dạng quá khứ phân từ (V3/Ved) của động từ. 'Performed' là đáp án đúng."
+    },
+    {
+      "id": "d03_q33",
+      "type": "meaning_to_vocab",
+      "questionText": "Hành động theo dõi, giám sát tiến độ của một dự án được gọi là gì?",
+      "options": [
+        "assign",
+        "release",
+        "deserve",
+        "monitor"
+      ],
+      "correctAnswer": "monitor",
+      "wordReference": "monitor",
+      "explanation": "Động từ 'monitor' có nghĩa là theo dõi, giám sát một điều gì đó một cách thường xuyên trong một khoảng thời gian."
+    },
+    {
+      "id": "d03_q34",
+      "type": "distinction",
+      "questionText": "Từ 'monitor' có thể là động từ (giám sát). Nó còn là loại từ nào khác?",
+      "options": [
+        "Tính từ",
+        "Trạng từ",
+        "Danh từ",
+        "Giới từ"
+      ],
+      "correctAnswer": "Danh từ",
+      "wordReference": "monitor",
+      "explanation": "'Monitor' vừa là động từ (giám sát), vừa là danh từ (màn hình máy tính)."
+    },
+    {
+      "id": "d03_q35",
+      "type": "collocation",
+      "questionText": "Một sự thăng tiến 'xứng đáng' được diễn tả bằng cụm từ nào?",
+      "options": [
+        "deserving advancement",
+        "well-deserved advancement",
+        "deservedly advancement",
+        "advancement of deserving"
+      ],
+      "correctAnswer": "well-deserved advancement",
+      "wordReference": "deserve",
+      "explanation": "Cụm từ 'well-deserved' là một tính từ ghép phổ biến, có nghĩa là hoàn toàn xứng đáng với điều gì đó."
+    },
+    {
+      "id": "d03_q36",
+      "type": "fill_in_the_blank",
+      "questionText": "The person with the highest performance evaluation ___ the award.",
+      "options": [
+        "deserves",
+        "deserved",
+        "deserving",
+        "deservedly"
+      ],
+      "correctAnswer": "deserves",
+      "wordReference": "deserve",
+      "explanation": "Chủ ngữ là 'The person' (ngôi thứ ba số ít), vì vậy động từ ở thì hiện tại đơn cần được chia bằng cách thêm 's'. 'Deserves' là đáp án đúng."
+    },
+    {
+      "id": "d03_q37",
+      "type": "meaning_to_vocab",
+      "questionText": "Một công việc hoặc nhiệm vụ được giao cho ai đó được gọi là gì?",
+      "options": [
+        "assignment",
+        "release",
+        "extension",
+        "attendance"
+      ],
+      "correctAnswer": "assignment",
+      "wordReference": "assignment",
+      "explanation": "'Assignment' là một danh từ chỉ một nhiệm vụ, một phần công việc mà bạn phải làm."
+    },
+    {
+      "id": "d03_q38",
+      "type": "fill_in_the_blank",
+      "questionText": "Walter took the ___ in India because he was promised a promotion there.",
+      "options": [
+        "assigning",
+        "assignee",
+        "assign",
+        "assignment"
+      ],
+      "correctAnswer": "assignment",
+      "wordReference": "assignment",
+      "explanation": "Sau mạo từ 'the', chúng ta cần một danh từ. 'Assignment' (công việc, nhiệm vụ) là từ phù hợp nhất về mặt ngữ nghĩa."
+    },
+    {
+      "id": "d03_q39",
+      "type": "synonym",
+      "questionText": "Từ nào đồng nghĩa với 'entire'?",
+      "options": [
+        "partial",
+        "some",
+        "whole",
+        "important"
+      ],
+      "correctAnswer": "whole",
+      "wordReference": "entire",
+      "explanation": "'Entire' và 'whole' đều có nghĩa là toàn bộ, trọn vẹn, không thiếu phần nào."
+    },
+    {
+      "id": "d03_q40",
+      "type": "derivatives",
+      "questionText": "Trạng thái trọn vẹn, tính toàn bộ của một cái gì đó được diễn tả bằng danh từ nào?",
+      "options": [
+        "entirely",
+        "entirety",
+        "entireness",
+        "entires"
+      ],
+      "correctAnswer": "entirety",
+      "wordReference": "entire",
+      "explanation": "'Entirety' là danh từ phái sinh từ tính từ 'entire', thường dùng trong cụm 'in its entirety' (một cách toàn bộ, trọn vẹn)."
+    },
+    {
+      "id": "d03_q41",
+      "type": "collocation",
+      "questionText": "Một công ty khi phát hành báo cáo cho công chúng thì gọi là gì?",
+      "options": [
+        "a press attendance",
+        "a press supervision",
+        "a press release",
+        "a press extension"
+      ],
+      "correctAnswer": "a press release",
+      "wordReference": "release",
+      "explanation": "Cụm danh từ 'press release' có nghĩa là 'thông cáo báo chí', một văn bản chính thức được công ty phát hành cho giới truyền thông."
+    },
+    {
+      "id": "d03_q42",
+      "type": "fill_in_the_blank",
+      "questionText": "The company decided to ___ its annual report earlier than usual.",
+      "options": [
+        "release",
+        "releasing",
+        "released",
+        "releases"
+      ],
+      "correctAnswer": "release",
+      "wordReference": "release",
+      "explanation": "Sau cấu trúc 'decided to', chúng ta cần một động từ nguyên thể. 'release' (phát hành) là lựa chọn đúng."
+    },
+    {
+      "id": "d03_q43",
+      "type": "meaning_to_vocab",
+      "questionText": "Trong bối cảnh điện thoại văn phòng, 'extension' có nghĩa là gì?",
+      "options": [
+        "Sự kéo dài",
+        "Sự mở rộng",
+        "Số máy lẻ",
+        "Sự cho phép"
+      ],
+      "correctAnswer": "Số máy lẻ",
+      "wordReference": "extension",
+      "explanation": "Đây là một nghĩa quan trọng của 'extension' trong môi trường công sở, dùng để chỉ số điện thoại nội bộ của một cá nhân."
+    },
+    {
+      "id": "d03_q44",
+      "type": "derivatives",
+      "questionText": "Chọn từ đúng để hoàn thành câu: 'The manager granted an ___ of the deadline.'",
+      "options": [
+        "extend",
+        "extensive",
+        "extensively",
+        "extension"
+      ],
+      "correctAnswer": "extension",
+      "wordReference": "extension",
+      "explanation": "Sau mạo từ 'an', chúng ta cần một danh từ. 'extension' (sự gia hạn) là đáp án phù hợp về cả ngữ pháp và ngữ nghĩa."
+    },
+    {
+      "id": "d03_q45",
+      "type": "derivatives_trap",
+      "questionText": "Chọn từ đúng: 'It saves time to send invoices ___.'",
+      "options": [
+        "electronically",
+        "electronic",
+        "electron",
+        "electricity"
+      ],
+      "correctAnswer": "electronically",
+      "wordReference": "electronically",
+      "explanation": "Chúng ta cần một trạng từ để bổ nghĩa cho động từ 'send'. 'electronically' (bằng phương thức điện tử) là trạng từ chính xác, trong khi 'electronic' là tính từ."
+    },
+    {
+      "id": "d03_q46",
+      "type": "fill_in_the_blank",
+      "questionText": "All invoices should be submitted ___ through the company's portal.",
+      "options": [
+        "electric",
+        "electronically",
+        "electronical",
+        "electronics"
+      ],
+      "correctAnswer": "electronically",
+      "wordReference": "electronically",
+      "explanation": "Trạng từ 'electronically' được dùng để mô tả cách thức một hành động (submit) được thực hiện."
+    },
+    {
+      "id": "d03_q47",
+      "type": "derivatives_trap",
+      "questionText": "Sự khác biệt giữa 'attendance' và 'attendant' là gì?",
+      "options": [
+        "'Attendance' là người tham dự, 'attendant' là sự có mặt.",
+        "'Attendance' là sự chú ý, 'attendant' là người phục vụ.",
+        "'Attendance' là sự có mặt, 'attendant' là người tham gia hoặc người phục vụ.",
+        "Không có sự khác biệt, chúng có thể dùng thay thế cho nhau."
+      ],
+      "correctAnswer": "'Attendance' là sự có mặt, 'attendant' là người tham gia hoặc người phục vụ.",
+      "wordReference": "attendance",
+      "explanation": "Đây là một bẫy phổ biến. 'Attendance' là danh từ trừu tượng chỉ hành động có mặt. 'Attendant' là danh từ chỉ người, ví dụ: a flight attendant (tiếp viên hàng không)."
+    },
+    {
+      "id": "d03_q48",
+      "type": "collocation",
+      "questionText": "Giấy tờ nào được cấp để xác nhận bạn đã tham gia một khóa học hoặc sự kiện?",
+      "options": [
+        "a paper of attendance",
+        "a certificate of attendance",
+        "an attendance letter",
+        "a proof of attendant"
+      ],
+      "correctAnswer": "a certificate of attendance",
+      "wordReference": "attendance",
+      "explanation": "'A certificate of attendance' là cụm từ cố định có nghĩa là 'giấy chứng nhận tham gia'."
+    },
+    {
+      "id": "d03_q49",
+      "type": "derivatives_trap",
+      "questionText": "Chọn dạng từ đúng: 'It is ___ necessary that everyone agrees.'",
+      "options": [
+        "absolute",
+        "absoluteness",
+        "absolutely",
+        "absolution"
+      ],
+      "correctAnswer": "absolutely",
+      "wordReference": "absolutely",
+      "explanation": "Chúng ta cần một trạng từ ('absolutely') để nhấn mạnh cho tính từ ('necessary'). 'Absolute' là tính từ và không thể đứng ở vị trí này."
+    },
+    {
+      "id": "d03_q50",
+      "type": "meaning_to_vocab",
+      "questionText": "Khi bạn hoàn toàn, chắc chắn 100% về điều gì đó, bạn có thể dùng trạng từ nào để nhấn mạnh?",
+      "options": [
+        "attentively",
+        "reluctantly",
+        "efficiently",
+        "absolutely"
+      ],
+      "correctAnswer": "absolutely",
+      "wordReference": "absolutely",
+      "explanation": "'Absolutely' được dùng để diễn tả sự chắc chắn, hoàn toàn hoặc tuyệt đối."
+    },
+    {
+      "id": "d03_q51",
+      "type": "derivatives_trap",
+      "questionText": "Đâu là sự khác biệt giữa 'delegate' (danh từ) và 'delegation'?",
+      "options": [
+        "'Delegate' là một phái đoàn, 'delegation' là một người đại diện.",
+        "'Delegate' là một người đại diện, 'delegation' là một phái đoàn (nhiều người).",
+        "Cả hai đều có nghĩa là 'phái đoàn'.",
+        "Cả hai đều có nghĩa là 'người đại diện'."
+      ],
+      "correctAnswer": "'Delegate' là một người đại diện, 'delegation' là một phái đoàn (nhiều người).",
+      "wordReference": "delegate",
+      "explanation": "Ghi chú trong bài học nhấn mạnh sự khác biệt này: 'delegate' là một cá nhân được cử đi đại diện, trong khi 'delegation' là cả một nhóm người, một phái đoàn."
+    },
+    {
+      "id": "d03_q52",
+      "type": "meaning_to_vocab",
+      "questionText": "Hành động một người quản lý 'giao phó trách nhiệm' cho cấp dưới được gọi là gì?",
+      "options": [
+        "supervise",
+        "delegate",
+        "instruct",
+        "monitor"
+      ],
+      "correctAnswer": "delegate",
+      "wordReference": "delegate",
+      "explanation": "Động từ 'delegate' có nghĩa là ủy quyền, giao phó công việc hoặc trách nhiệm cho người khác."
+    },
+    {
+      "id": "d03_q53",
+      "type": "fill_in_the_blank",
+      "questionText": "A ___ sent to the trade fair returned with a profitable business deal.",
+      "options": [
+        "delegation",
+        "delegating",
+        "delegate",
+        "delegated"
+      ],
+      "correctAnswer": "delegate",
+      "wordReference": "delegate",
+      "explanation": "Câu này đang nói về một người ('A...'), vì vậy danh từ chỉ người 'delegate' (đại biểu) là đáp án đúng. 'Delegation' (phái đoàn) không phù hợp với mạo từ 'A'."
+    },
+    {
+      "id": "d03_q54",
+      "type": "derivatives",
+      "questionText": "Để mô tả hành động lắng nghe 'một cách chăm chú', ta dùng trạng từ nào?",
+      "options": [
+        "attentive",
+        "attention",
+        "attentively",
+        "attend"
+      ],
+      "correctAnswer": "attentively",
+      "wordReference": "attentively",
+      "explanation": "'Attentively' là trạng từ bổ nghĩa cho động từ 'listen'. 'Attentive' là tính từ, còn 'attention' là danh từ."
+    },
+    {
+      "id": "d03_q55",
+      "type": "fill_in_the_blank",
+      "questionText": "Stockholders listened ___ as executives explained the company strategy.",
+      "options": [
+        "attentive",
+        "attentively",
+        "attention",
+        "attended"
+      ],
+      "correctAnswer": "attentively",
+      "wordReference": "attentively",
+      "explanation": "Chúng ta cần một trạng từ để mô tả cách thức các cổ đông lắng nghe, do đó 'attentively' là lựa chọn chính xác."
+    },
+    {
+      "id": "d03_q56",
+      "type": "derivatives_trap",
+      "questionText": "Chọn từ đúng: 'Close ___ ensures high quality.'",
+      "options": [
+        "supervise",
+        "supervisor",
+        "supervision",
+        "supervised"
+      ],
+      "correctAnswer": "supervision",
+      "wordReference": "supervision",
+      "explanation": "Câu này cần một danh từ trừu tượng để làm chủ ngữ. 'Supervision' (sự giám sát) là đúng. 'Supervisor' là danh từ chỉ người (người giám sát)."
+    },
+    {
+      "id": "d03_q57",
+      "type": "distinction",
+      "questionText": "Ai là người thực hiện 'supervision'?",
+      "options": [
+        "A supervise",
+        "A supervisor",
+        "A supervision",
+        "A supervised"
+      ],
+      "correctAnswer": "A supervisor",
+      "wordReference": "supervision",
+      "explanation": "'Supervisor' là danh từ chỉ người có trách nhiệm giám sát công việc của người khác."
+    },
+    {
+      "id": "d03_q58",
+      "type": "meaning_to_vocab",
+      "questionText": "Một buổi đào tạo hoặc hội thảo thực hành về một chủ đề cụ thể được gọi là gì?",
+      "options": [
+        "conference",
+        "meeting",
+        "workshop",
+        "assignment"
+      ],
+      "correctAnswer": "workshop",
+      "wordReference": "workshop",
+      "explanation": "'Workshop' thường mang tính tương tác và thực hành cao hơn so với một 'conference' (hội nghị) hay 'meeting' (cuộc họp) thông thường."
+    },
+    {
+      "id": "d03_q59",
+      "type": "collocation",
+      "questionText": "Cụm từ nào có nghĩa là 'nhận được lời khen ngợi từ ai đó'?",
+      "options": [
+        "draw praise from someone",
+        "pull praise from someone",
+        "get praise into someone",
+        "make praise of someone"
+      ],
+      "correctAnswer": "draw praise from someone",
+      "wordReference": "draw",
+      "explanation": "Động từ 'draw' trong trường hợp này có nghĩa là 'thu hút, nhận được'. 'Draw praise/inspiration' là các cụm từ cố định được đề cập trong bài học."
+    },
+    {
+      "id": "d03_q60",
+      "type": "synonym",
+      "questionText": "Trong ngữ cảnh 'The conference usually draws 800 employees', từ nào có thể thay thế cho 'draws'?",
+      "options": [
+        "paints",
+        "attracts",
+        "pushes",
+        "creates"
+      ],
+      "correctAnswer": "attracts",
+      "wordReference": "draw",
+      "explanation": "Khi mang nghĩa 'lôi kéo, thu hút', 'draw' là từ đồng nghĩa của 'attract'."
+    },
+    {
+      "id": "d03_q61",
+      "type": "collocation",
+      "questionText": "Khi bạn cần thực hiện 'một sự chỉnh sửa', bạn sẽ dùng cụm từ nào?",
+      "options": [
+        "do a revision",
+        "work a revision",
+        "make a revision",
+        "get a revision"
+      ],
+      "correctAnswer": "make a revision",
+      "wordReference": "revision",
+      "explanation": "Cụm từ cố định và phổ biến trong văn phong công sở là 'make a revision/make revisions to something' (thực hiện việc chỉnh sửa cái gì đó)."
+    },
+    {
+      "id": "d03_q62",
+      "type": "derivatives_trap",
+      "questionText": "Chọn từ đúng: 'The manager will ___ the proposal.'",
+      "options": [
+        "revision",
+        "revised",
+        "revise",
+        "revising"
+      ],
+      "correctAnswer": "revise",
+      "wordReference": "revision",
+      "explanation": "Sau động từ khuyết thiếu 'will' cần một động từ nguyên thể. 'Revise' (xem lại, chỉnh sửa) là động từ, trong khi 'revision' là danh từ."
+    },
+    {
+      "id": "d03_q63",
+      "type": "fill_in_the_blank",
+      "questionText": "A ___ edition of the book will be published next month.",
+      "options": [
+        "revision",
+        "revise",
+        "revising",
+        "revised"
+      ],
+      "correctAnswer": "revised",
+      "wordReference": "revision",
+      "explanation": "Chúng ta cần một tính từ để bổ nghĩa cho danh từ 'edition'. 'Revised' (đã được chỉnh sửa) là dạng quá khứ phân từ đóng vai trò như một tính từ."
+    },
+    {
+      "id": "d03_q64",
+      "type": "antonym",
+      "questionText": "Từ nào trái nghĩa với 'reluctantly' (miễn cưỡng)?",
+      "options": [
+        "hesitantly",
+        "unwillingly",
+        "cautiously",
+        "eagerly"
+      ],
+      "correctAnswer": "eagerly",
+      "wordReference": "reluctantly",
+      "explanation": "'Reluctantly' có nghĩa là làm một việc gì đó không sẵn lòng. 'Eagerly' có nghĩa là làm một cách hăng hái, háo hức."
+    },
+    {
+      "id": "d03_q65",
+      "type": "fill_in_the_blank",
+      "questionText": "Ms. Danvers ___ agreed to cut the advertising budget.",
+      "options": [
+        "reluctant",
+        "reluctance",
+        "reluctantly",
+        "relucts"
+      ],
+      "correctAnswer": "reluctantly",
+      "wordReference": "reluctantly",
+      "explanation": "Cần một trạng từ để bổ nghĩa cho động từ 'agreed'. 'Reluctantly' là trạng từ mô tả hành động đồng ý một cách miễn cưỡng."
+    },
+    {
+      "id": "d03_q66",
+      "type": "grammar_usage",
+      "questionText": "Cấu trúc nào sau đây là đúng và phổ biến nhất?",
+      "options": [
+        "acquaint someone about something",
+        "acquaint someone with something",
+        "acquaint someone on something",
+        "acquaint someone for something"
+      ],
+      "correctAnswer": "acquaint someone with something",
+      "wordReference": "acquaint",
+      "explanation": "Đây là một cấu trúc cố định rất quan trọng cần nhớ: 'acquaint A with B' có nghĩa là làm cho A quen với B, đồng nghĩa với 'familiarize A with B'."
+    },
+    {
+      "id": "d03_q67",
+      "type": "derivatives_trap",
+      "questionText": "Phân biệt 'acquaint' và 'acquaintance'.",
+      "options": [
+        "'Acquaint' là người quen, 'acquaintance' là làm quen.",
+        "'Acquaint' là động từ (làm quen), 'acquaintance' là danh từ (người quen).",
+        "Cả hai đều có nghĩa là 'làm quen'.",
+        "Cả hai đều có nghĩa là 'người quen'."
+      ],
+      "correctAnswer": "'Acquaint' là động từ (làm quen), 'acquaintance' là danh từ (người quen).",
+      "wordReference": "acquaint",
+      "explanation": "Cần phân biệt rõ loại từ: 'acquaint' là một động từ, trong khi 'acquaintance' là một danh từ chỉ người mà bạn biết nhưng không phải bạn thân."
+    },
+    {
+      "id": "d03_q68",
+      "type": "grammar_usage",
+      "questionText": "Động từ 'convey' thường đi với giới từ nào để chỉ người nhận?",
+      "options": [
+        "for",
+        "with",
+        "from",
+        "to"
+      ],
+      "correctAnswer": "to",
+      "wordReference": "convey",
+      "explanation": "Cấu trúc phổ biến là 'convey something to somebody' (truyền đạt, chuyển cái gì đến cho ai)."
+    },
+    {
+      "id": "d03_q69",
+      "type": "derivatives",
+      "questionText": "Thiết bị dùng để vận chuyển hàng hóa trong nhà máy, như băng chuyền, được gọi là gì?",
+      "options": [
+        "conveyance",
+        "conveying",
+        "conveyable",
+        "conveyor"
+      ],
+      "correctAnswer": "conveyor",
+      "wordReference": "convey",
+      "explanation": "'Conveyor' (hoặc conveyor belt) là danh từ chỉ thiết bị truyền tải, băng chuyền."
+    },
+    {
+      "id": "d03_q70",
+      "type": "grammar_usage",
+      "questionText": "Điền giới từ thích hợp: 'Please check your computer regularly ___ disk errors.'",
+      "options": [
+        "with",
+        "for",
+        "about",
+        "in"
+      ],
+      "correctAnswer": "for",
+      "wordReference": "check",
+      "explanation": "Cấu trúc 'check A for B' được dùng để diễn tả việc 'kiểm tra A để tìm kiếm/phát hiện B'. Ở đây là kiểm tra máy tính để tìm lỗi đĩa."
+    },
+    {
+      "id": "d03_q71",
+      "type": "synonym",
+      "questionText": "Từ nào đồng nghĩa với 'check' trong ngữ cảnh kiểm tra, xem xét?",
+      "options": [
+        "confirm",
+        "ignore",
+        "inspect",
+        "approve"
+      ],
+      "correctAnswer": "inspect",
+      "wordReference": "check",
+      "explanation": "'Check', 'inspect', và 'examine' đều mang nghĩa là kiểm tra, xem xét một cách cẩn thận."
+    },
+    {
+      "id": "d03_q72",
+      "type": "grammar_usage",
+      "questionText": "Chọn động từ đúng: 'The company headquarters ___ located in London.'",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "be"
+      ],
+      "correctAnswer": "is",
+      "wordReference": "headquarters",
+      "explanation": "Mặc dù 'headquarters' kết thúc bằng 's', nó thường được coi là một danh từ số ít (chỉ một địa điểm) và đi với động từ số ít."
+    },
+    {
+      "id": "d03_q73",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào dùng để chỉ văn phòng trung tâm, trụ sở chính của một công ty?",
+      "options": [
+        "main office",
+        "branch",
+        "headquarters",
+        "division"
+      ],
+      "correctAnswer": "headquarters",
+      "wordReference": "headquarters",
+      "explanation": "'Headquarters' là thuật ngữ chuyên dụng để chỉ trụ sở chính, nơi điều hành cao nhất của một tổ chức."
+    },
+    {
+      "id": "d03_q74",
+      "type": "collocation",
+      "questionText": "Khi một bộ phận 'đệ trình yêu cầu bồi thường bảo hiểm', họ sẽ dùng cụm từ nào?",
+      "options": [
+        "do a claim",
+        "make a claim",
+        "put a claim",
+        "file a claim"
+      ],
+      "correctAnswer": "file a claim",
+      "wordReference": "file",
+      "explanation": "Động từ 'file' trong trường hợp này có nghĩa là 'đệ trình, nộp' một văn bản chính thức. 'File a claim/complaint/lawsuit' là các cụm từ rất phổ biến."
+    },
+    {
+      "id": "d03_q75",
+      "type": "distinction",
+      "questionText": "Đâu không phải là một nghĩa của động từ 'file'?",
+      "options": [
+        "Lưu trữ tài liệu vào hồ sơ",
+        "Đệ trình một văn bản chính thức",
+        "Đi thành một hàng",
+        "Cắt gọt (móng tay)"
+      ],
+      "correctAnswer": "Cắt gọt (móng tay)",
+      "explanation": "Mặc dù 'file' còn có nghĩa là 'cái giũa móng tay' (danh từ) và 'giũa' (động từ), trong bối cảnh văn phòng TOEIC, hai nghĩa chính là 'lưu trữ' và 'đệ trình'. 'Đi thành một hàng' cũng là một nghĩa của 'file' nhưng ít phổ biến hơn."
+    },
+    {
+      "id": "d03_q76",
+      "type": "synonym",
+      "questionText": "Từ nào sau đây đồng nghĩa với 'oversee'?",
+      "options": [
+        "overlook",
+        "supervise",
+        "understand",
+        "undertake"
+      ],
+      "correctAnswer": "supervise",
+      "wordReference": "oversee",
+      "explanation": "'Oversee' và 'supervise' đều có nghĩa là giám sát, quản lý một công việc hoặc một nhóm người để đảm bảo mọi thứ được thực hiện đúng cách."
+    },
+    {
+      "id": "d03_q77",
+      "type": "fill_in_the_blank",
+      "questionText": "Natalie will ___ the office relocation process.",
+      "options": [
+        "overseen",
+        "overseeing",
+        "oversee",
+        "oversees"
+      ],
+      "correctAnswer": "oversee",
+      "wordReference": "oversee",
+      "explanation": "Sau động từ khuyết thiếu 'will', cần một động từ ở dạng nguyên thể. Do đó, 'oversee' là đáp án chính xác."
+    },
+    {
+      "id": "d03_q78",
+      "type": "grammar_usage",
+      "questionText": "Hoàn thành câu sau với giới từ đúng: 'Dr. Mair was deeply involved ___ the decision-making process.'",
+      "options": [
+        "with",
+        "about",
+        "at",
+        "in"
+      ],
+      "correctAnswer": "in",
+      "wordReference": "involved",
+      "explanation": "Cấu trúc cố định là 'be involved in something', có nghĩa là có tham gia vào, có liên quan đến việc gì đó."
+    },
+    {
+      "id": "d03_q79",
+      "type": "derivatives",
+      "questionText": "Chọn dạng từ đúng: 'Her ___ in the project was crucial.'",
+      "options": [
+        "involve",
+        "involved",
+        "involvement",
+        "involving"
+      ],
+      "correctAnswer": "involvement",
+      "wordReference": "involved",
+      "explanation": "Sau tính từ sở hữu 'Her', chúng ta cần một danh từ. 'Involvement' (sự liên quan, sự tham gia) là danh từ phái sinh từ động từ 'involve'."
+    },
+    {
+      "id": "d03_q80",
+      "type": "grammar_usage",
+      "questionText": "Cấu trúc nào sau đây là đúng?",
+      "options": [
+        "concentrate the team on the project.",
+        "concentrate on the project.",
+        "concentrate about the project.",
+        "concentrate the project."
+      ],
+      "correctAnswer": "concentrate on the project.",
+      "wordReference": "concentrate",
+      "explanation": "Khi là nội động từ, 'concentrate' đi với giới từ 'on'. Khi là ngoại động từ, cấu trúc là 'concentrate something on something' (tập trung cái gì vào việc gì)."
+    },
+    {
+      "id": "d03_q81",
+      "type": "fill_in_the_blank",
+      "questionText": "The sales team ___ on developing new strategies.",
+      "options": [
+        "concentration",
+        "concentrated",
+        "concentrating",
+        "concentrate"
+      ],
+      "correctAnswer": "concentrated",
+      "wordReference": "concentrate",
+      "explanation": "Câu này cần một động từ ở thì quá khứ đơn để tường thuật lại hành động của đội bán hàng. 'Concentrated' là đáp án đúng."
+    }
+  ]
+}

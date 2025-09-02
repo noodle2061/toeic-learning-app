@@ -48,7 +48,7 @@ III. Yêu cầu chung
 - Đảm bảo file JSON cuối cùng là hợp lệ (valid JSON).
 
 
-IV. Mẫu mong đợi
+IV. Mẫu mong đợi (đây là file day01.json)
 ```JSON
 {
   "unitId": "day01",

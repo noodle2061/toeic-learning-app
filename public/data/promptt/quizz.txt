@@ -1,0 +1,229 @@
+tiếp tục với file quizz json
+trước tiên hãy liệt kê danh sách các từ vựng cho tôi.
+hiện tại có 40 câu từ vựng, tôi muốn chia thành 8 phần json để tổng hợp sau, mỗi phần sẽ là các câu trắc nghiệm cho 5 từ, mỗi từ có 4 đến 5 câu trắc nghiệm, ưu tiên mang tính bẫy cao để có thể hiểu sâu sắc hơn, dựa vào kiến thức, các lưu ý, note trong file pdf. 
+bây giờ sinh ra phần 1 và 2
+cấu trúc tương tự như sau (file day01_quiz.json)
+
+```json
+
+{
+
+  "unitId": "day01",
+
+  "title": "Trắc nghiệm: Thoát Cảnh Thất Nghiệp - Tuyển Dụng",
+
+  "questions": [
+
+    {
+
+      "id": "d01_q01",
+
+      "type": "meaning_to_vocab",
+
+      "questionText": "Tài liệu nào thường được yêu cầu ứng viên nộp cùng với đơn xin việc để tóm tắt kinh nghiệm và trình độ học vấn?",
+
+      "options": ["reference", "résumé", "certificate", "application"],
+
+      "correctAnswer": "résumé",
+
+      "wordReference": "résumé",
+
+      "explanation": "'Résumé' là một bản tóm tắt kinh nghiệm làm việc, học vấn và kỹ năng của một người, thường được nộp khi xin việc."
+
+    },
+
+    {
+
+      "id": "d01_q02",
+
+      "type": "fill_in_the_blank",
+
+      "questionText": "Chọn từ thích hợp để điền vào chỗ trống: 'Fax your ___ and cover letter to the above number.'",
+
+      "options": ["résumé", "achievement", "confidence", "degree"],
+
+      "correctAnswer": "résumé",
+
+      "wordReference": "résumé",
+
+      "explanation": "Trong ngữ cảnh xin việc, 'résumé' (sơ yếu lý lịch) và 'cover letter' (đơn xin việc) là hai tài liệu thường đi cùng nhau."
+
+    },
+
+    {
+
+      "id": "d01_q03",
+
+      "type": "synonym",
+
+      "questionText": "Từ nào đồng nghĩa với 'vacancy' khi nói về một vị trí công việc còn trống?",
+
+      "options": ["position", "occupation", "opening", "employment"],
+
+      "correctAnswer": "opening",
+
+      "wordReference": "opening",
+
+      "explanation": "Khi mang nghĩa 'vị trí trống', 'opening' là một danh từ đếm được và đồng nghĩa với 'vacancy'."
+
+    },
+
+    {
+
+      "id": "d01_q04",
+
+      "type": "fill_in_the_blank",
+
+      "questionText": "JX Finances officially announced the ___ of its first international branch. Từ nào phù hợp nhất?",
+
+      "options": ["opening", "hiring", "training", "requirement"],
+
+      "correctAnswer": "opening",
+
+      "wordReference": "opening",
+
+      "explanation": "'Opening' ở đây có nghĩa là 'lễ khai trương' hoặc 'sự mở cửa' một chi nhánh mới."
+
+    },
+
+    {
+
+      "id": "d01_q05",
+
+      "type": "grammar_usage",
+
+      "questionText": "There are several job ___ at the restaurant right now.",
+
+      "options": ["openings", "opens", "opened", "openly"],
+
+      "correctAnswer": "openings",
+
+      "wordReference": "opening",
+
+      "explanation": "Khi nói về 'vị trí trống', 'opening' là danh từ đếm được, nên cần dùng dạng số nhiều 'openings' khi đi với 'several'."
+
+    },
+
+    {
+
+      "id": "d01_q06",
+
+      "type": "meaning_to_vocab",
+
+      "questionText": "Người nộp đơn xin việc được gọi là gì?",
+
+      "options": ["employer", "recruiter", "consultant", "applicant"],
+
+      "correctAnswer": "applicant",
+
+      "wordReference": "applicant",
+
+      "explanation": "'Applicant' là danh từ chỉ người nộp đơn ứng tuyển vào một vị trí công việc."
+
+    },
+
+    {
+
+      "id": "d01_q07",
+
+      "type": "distinction",
+
+      "questionText": "Phân biệt giữa 'applicant' và 'application'. Đâu là khẳng định đúng?",
+
+      "options": [
+
+        "'Applicant' là người, 'application' là lá đơn.",
+
+        "'Applicant' là lá đơn, 'application' là người.",
+
+        "Cả hai đều có nghĩa là 'người xin việc'.",
+
+        "Cả hai đều có nghĩa là 'đơn xin việc'."
+
+      ],
+
+      "correctAnswer": "'Applicant' là người, 'application' là lá đơn.",
+
+      "wordReference": "applicant",
+
+      "explanation": "Cần phân biệt rõ: 'applicant' (danh từ chỉ người) và 'application' (danh từ chỉ vật - lá đơn)."
+
+    },
+
+    {
+
+      "id": "d01_q08",
+
+      "type": "fill_in_the_blank",
+
+      "questionText": "The manager interviewed almost 100 ___. Điền từ phù hợp.",
+
+      "options": ["applicants", "applications", "appliances", "applied"],
+
+      "correctAnswer": "applicants",
+
+      "wordReference": "applicant",
+
+      "explanation": "Người quản lý phỏng vấn các 'ứng viên' (applicants), không phải các 'lá đơn' (applications)."
+
+    },
+
+    {
+
+      "id": "d01_q09",
+
+      "type": "meaning_to_vocab",
+
+      "questionText": "Từ nào có nghĩa là 'một điều kiện cần thiết' hoặc 'yêu cầu' cho một công việc?",
+
+      "options": ["benefit", "wage", "requirement", "position"],
+
+      "correctAnswer": "requirement",
+
+      "wordReference": "requirement",
+
+      "explanation": "'Requirement' là những tiêu chí, điều kiện bắt buộc mà ứng viên phải đáp ứng."
+
+    },
+
+    {
+
+      "id": "d01_q10",
+
+      "type": "grammar_usage",
+
+      "questionText": "Giới từ nào thường đi kèm với 'requirement' để diễn tả 'yêu cầu CHO cái gì đó'?",
+
+      "options": ["in / at", "with / by", "of / for", "on / to"],
+
+      "correctAnswer": "of / for",
+
+      "wordReference": "requirement",
+
+      "explanation": "Cấu trúc thường gặp là 'a requirement of/for something' (một yêu cầu/điều kiện cần cho cái gì đó)."
+
+    },
+
+    {
+
+      "id": "d01_q11",
+
+      "type": "fill_in_the_blank",
+
+      "questionText": "A driver's license is a ___ of this job. Điền từ còn thiếu.",
+
+      "options": ["qualification", "requirement", "skill", "achievement"],
+
+      "correctAnswer": "requirement",
+
+      "wordReference": "requirement",
+
+      "explanation": "Bằng lái xe là một 'yêu cầu' (requirement) bắt buộc cho công việc này."
+
+    }
+
+  ]
+
+}
+
+```

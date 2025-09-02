@@ -1,0 +1,995 @@
+{
+  "unitId": "day02",
+  "title": "Trắc nghiệm: Quy Định Về Trang Phục - Phép Tắc - Quy Định (Phần 1)",
+  "questions": [
+    {
+      "id": "d02_q01",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào có nghĩa là 'quần áo, cách ăn mặc', đặc biệt trong môi trường trang trọng hoặc công việc?",
+      "options": ["uniform", "costume", "clothing", "attire"],
+      "correctAnswer": "attire",
+      "wordReference": "attire",
+      "explanation": "'Attire' thường dùng để chỉ trang phục cho một dịp hoặc mục đích cụ thể, ví dụ như 'business attire' (trang phục công sở)."
+    },
+    {
+      "id": "d02_q02",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'Professional business ___ is required of all staff giving presentations.'",
+      "options": ["attire", "code", "policy", "style"],
+      "correctAnswer": "attire",
+      "wordReference": "attire",
+      "explanation": "Cụm từ 'business attire' là một cụm từ phổ biến để chỉ trang phục công sở chuyên nghiệp."
+    },
+    {
+      "id": "d02_q03",
+      "type": "synonym",
+      "questionText": "Từ nào gần nghĩa nhất với 'clothing' nhưng mang sắc thái trang trọng hơn?",
+      "options": ["wear", "outfit", "attire", "garment"],
+      "correctAnswer": "attire",
+      "wordReference": "attire",
+      "explanation": "'Attire' là một lựa chọn từ vựng trang trọng hơn cho 'quần áo', thường được sử dụng trong các quy định hoặc bối cảnh chuyên nghiệp."
+    },
+    {
+      "id": "d02_q04",
+      "type": "meaning_to_vocab",
+      "questionText": "'Một bộ quy tắc về cách mọi người nên cư xử hoặc ăn mặc' được gọi là gì?",
+      "options": ["law", "code", "guideline", "rule"],
+      "correctAnswer": "code",
+      "wordReference": "code",
+      "explanation": "'Code' thường được dùng trong các cụm từ như 'dress code' (quy định về trang phục) hoặc 'code of conduct' (quy tắc ứng xử)."
+    },
+    {
+      "id": "d02_q05",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'Employees are expected to follow the dress ___.'",
+      "options": ["rule", "law", "policy", "code"],
+      "correctAnswer": "code",
+      "wordReference": "code",
+      "explanation": "'Dress code' là một cụm danh từ cố định có nghĩa là quy định về trang phục."
+    },
+    {
+      "id": "d02_q06",
+      "type": "grammar_usage",
+      "questionText": "Giới từ nào thường đi với động từ 'concern' khi nó có nghĩa là 'lo lắng về'?",
+      "options": ["with / for", "about / over", "in / on", "to / from"],
+      "correctAnswer": "about / over",
+      "wordReference": "concern",
+      "explanation": "Dựa vào ghi chú trong bài học, cấu trúc thường gặp là 'concern about/over something'."
+    },
+    {
+      "id": "d02_q07",
+      "type": "synonym",
+      "questionText": "Khi là danh từ có nghĩa là 'vấn đề', 'concern' đồng nghĩa với từ nào?",
+      "options": ["problem", "issue", "matter", "trouble"],
+      "correctAnswer": "matter",
+      "wordReference": "concern",
+      "explanation": "Ghi chú trong bài học chỉ ra 'concern' đồng nghĩa với 'matter' khi là danh từ."
+    },
+    {
+      "id": "d02_q08",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'The board voiced ___ about safety at the meeting.'",
+      "options": ["concerned", "concerning", "concerns", "concern"],
+      "correctAnswer": "concerns",
+      "wordReference": "concern",
+      "explanation": "Sau động từ 'voiced' cần một danh từ. Vì 'mối quan ngại' là danh từ đếm được, nên dạng số nhiều 'concerns' là phù hợp."
+    },
+    {
+      "id": "d02_q09",
+      "type": "distinction",
+      "questionText": "Từ nào phù hợp nhất để điền vào chỗ trống 'Questions ___ the new policy', mang nghĩa 'liên quan đến'?",
+      "options": ["concerned", "concerning", "concern", "concerns"],
+      "correctAnswer": "concerning",
+      "wordReference": "concern",
+      "explanation": "'Concerning' ở đây được dùng như một giới từ, có nghĩa tương đương với 'regarding' hoặc 'about'."
+    },
+    {
+      "id": "d02_q10",
+      "type": "meaning_to_vocab",
+      "questionText": "Một kế hoạch hành động hoặc một bộ nguyên tắc đã được thống nhất của một tổ chức được gọi là gì?",
+      "options": ["regulation", "law", "rule", "policy"],
+      "correctAnswer": "policy",
+      "wordReference": "policy",
+      "explanation": "'Policy' là một kế hoạch hành động hoặc một bộ nguyên tắc đã được thống nhất, ví dụ 'company policy'."
+    },
+    {
+      "id": "d02_q11",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'The employee benefit ___ will be expanded next year.'",
+      "options": ["policy", "procedure", "arrangement", "code"],
+      "correctAnswer": "policy",
+      "wordReference": "policy",
+      "explanation": "'Chính sách phúc lợi' (employee benefit policy) là một ví dụ điển hình của 'policy' trong môi trường công ty."
+    },
+    {
+      "id": "d02_q12",
+      "type": "grammar_usage",
+      "questionText": "Động từ 'comply' thường đi với giới từ nào?",
+      "options": ["with", "to", "on", "for"],
+      "correctAnswer": "with",
+      "wordReference": "comply",
+      "explanation": "Theo ghi chú, 'comply' là nội động từ và luôn đi với giới từ 'with' để tạo thành cụm 'comply with'."
+    },
+    {
+      "id": "d02_q13",
+      "type": "distinction",
+      "questionText": "Đâu là sự khác biệt chính giữa 'comply with' và 'obey'?",
+      "options": [
+        "Không có sự khác biệt.",
+        "'Comply with' dùng cho quy tắc, 'obey' dùng cho mệnh lệnh của người.",
+        "'Obey' trang trọng hơn 'comply with'.",
+        "'Comply with' là ngoại động từ, 'obey' là nội động từ."
+      ],
+      "correctAnswer": "'Comply with' dùng cho quy tắc, 'obey' dùng cho mệnh lệnh của người.",
+      "wordReference": "comply",
+      "explanation": "Ghi chú trong bài học nhấn mạnh 'obey' mang ý tuân theo lời của một người nào đó, trong khi 'comply with' thường là tuân theo quy tắc, luật lệ."
+    },
+    {
+      "id": "d02_q14",
+      "type": "derivative",
+      "questionText": "Danh từ tương ứng của động từ 'comply' là gì?",
+      "options": ["compliment", "completion", "compliance", "complaining"],
+      "correctAnswer": "compliance",
+      "wordReference": "comply",
+      "explanation": "'Compliance' có nghĩa là 'sự tuân thủ', là dạng danh từ của 'comply'."
+    },
+    {
+      "id": "d02_q15",
+      "type": "grammar_usage",
+      "questionText": "Từ 'regulation' thường được sử dụng ở dạng số ít hay số nhiều khi nói về 'quy tắc', 'điều lệ'?",
+      "options": ["Luôn là số ít", "Thường là số nhiều", "Cả hai đều được", "Không có dạng số nhiều"],
+      "correctAnswer": "Thường là số nhiều",
+      "wordReference": "regulation",
+      "explanation": "Ghi chú trong bài học chỉ ra rằng vì 'quy định' là tập hợp của nhiều quy tắc nên chúng ta thường sử dụng dạng số nhiều 'regulations'."
+    },
+    {
+      "id": "d02_q16",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: '___ regarding lunch breaks were established.'",
+      "options": ["Regulate", "Regulation", "Regulating", "Regulations"],
+      "correctAnswer": "Regulations",
+      "wordReference": "regulation",
+      "explanation": "Chủ ngữ của câu cần một danh từ số nhiều để phù hợp với động từ 'were'."
+    },
+    {
+      "id": "d02_q17",
+      "type": "collocation",
+      "questionText": "'Regulations' thường đi với từ nào sau đây để tạo thành một cụm từ phổ biến trong môi trường làm việc?",
+      "options": ["Health", "Traffic", "Safety", "Food"],
+      "correctAnswer": "Safety",
+      "wordReference": "regulation",
+      "explanation": "Cụm từ 'safety regulations' (quy tắc an toàn) được đề cập trong ghi chú của bài học."
+    },
+    {
+      "id": "d02_q18",
+      "type": "collocation",
+      "questionText": "Cụm từ nào có nghĩa là 'ngoại trừ'?",
+      "options": ["with the exception of", "as an exception for", "by exception from", "in exception to"],
+      "correctAnswer": "with the exception of",
+      "wordReference": "exception",
+      "explanation": "Ghi chú trong bài học cung cấp cụm từ 'with the exception of' (ngoại trừ)."
+    },
+    {
+      "id": "d02_q19",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'Management decided not to make any ___ to the rules.'",
+      "options": ["except", "exceptions", "exceptional", "exceptionally"],
+      "correctAnswer": "exceptions",
+      "wordReference": "exception",
+      "explanation": "Sau 'any' trong câu phủ định, chúng ta dùng danh từ số nhiều. 'Make an exception' là một cụm từ cố định."
+    },
+    {
+      "id": "d02_q20",
+      "type": "derivative",
+      "questionText": "Tính từ nào có nghĩa là 'đặc biệt, hiếm có', bắt nguồn từ 'exception'?",
+      "options": ["exceptive", "exceptionable", "excepted", "exceptional"],
+      "correctAnswer": "exceptional",
+      "wordReference": "exception",
+      "explanation": "'Exceptional' là tính từ phái sinh, có nghĩa là nổi bật, khác thường, đặc biệt."
+    },
+    {
+      "id": "d02_q21",
+      "type": "grammar_usage",
+      "questionText": "Động từ 'adhere' khi mang nghĩa 'tuân thủ' cần đi kèm giới từ nào?",
+      "options": ["with", "by", "to", "on"],
+      "correctAnswer": "to",
+      "wordReference": "adhere",
+      "explanation": "Ghi chú trong bài học nhấn mạnh rằng nội động từ 'adhere' cần đi với giới từ 'to'."
+    },
+    {
+      "id": "d02_q22",
+      "type": "collocation",
+      "questionText": "'Adhere to' thường được dùng với những danh từ nào sau đây?",
+      "options": [
+        "opinions / ideas / suggestions",
+        "people / managers / leaders",
+        "policies / rules / standards",
+        "requests / orders / commands"
+      ],
+      "correctAnswer": "policies / rules / standards",
+      "wordReference": "adhere",
+      "explanation": "Ghi chú trong bài học liệt kê cụm từ thường gặp là 'adhere to policies/rules/standards'."
+    },
+    {
+      "id": "d02_q23",
+      "type": "derivative",
+      "questionText": "'Sự tuân thủ, sự trung thành' là nghĩa của danh từ nào phái sinh từ 'adhere'?",
+      "options": ["adhesion", "adherent", "adherence", "adhering"],
+      "correctAnswer": "adherence",
+      "wordReference": "adhere",
+      "explanation": "'Adherence' là danh từ chỉ hành động hoặc trạng thái tuân thủ một quy tắc, niềm tin hoặc tiêu chuẩn."
+    },
+    {
+      "id": "d02_q24",
+      "type": "synonym",
+      "questionText": "Trạng từ nào đồng nghĩa với 'severely' khi có nghĩa là 'một cách nghiêm khắc'?",
+      "options": ["strictly", "sternly", "seriously", "strongly"],
+      "correctAnswer": "sternly",
+      "wordReference": "severely",
+      "explanation": "Ghi chú trong bài học cung cấp từ đồng nghĩa là 'sternly'."
+    },
+    {
+      "id": "d02_q25",
+      "type": "antonym",
+      "questionText": "Từ nào trái nghĩa với 'severely' (nghiêm khắc)?",
+      "options": ["gently", "softly", "leniently", "lightly"],
+      "correctAnswer": "leniently",
+      "wordReference": "severely",
+      "explanation": "Ghi chú trong bài học cung cấp từ trái nghĩa là 'leniently' (nhân hậu, khoan dung)."
+    },
+    {
+      "id": "d02_q26",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'Those who share company data will be ___ punished.'",
+      "options": ["severe", "severity", "severely", "severing"],
+      "correctAnswer": "severely",
+      "wordReference": "severely",
+      "explanation": "Cần một trạng từ để bổ nghĩa cho động từ 'punished'."
+    },
+    {
+      "id": "d02_q27",
+      "type": "grammar_usage",
+      "questionText": "Nội động từ 'refrain' thường đi kèm với giới từ nào?",
+      "options": ["to", "from", "of", "with"],
+      "correctAnswer": "from",
+      "wordReference": "refrain",
+      "explanation": "Ghi chú trong bài học nêu rõ cấu trúc ngữ pháp là 'refrain from'."
+    },
+    {
+      "id": "d02_q28",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'Guards should ___ from making personal calls during a shift.'",
+      "options": ["refrain", "restrict", "prohibit", "abolish"],
+      "correctAnswer": "refrain",
+      "wordReference": "refrain",
+      "explanation": "'Refrain from' là cụm từ đúng để diễn tả việc 'hạn chế/kiềm chế' làm một việc gì đó."
+    },
+    {
+      "id": "d02_q29",
+      "type": "structure",
+      "questionText": "Theo sau cấu trúc 'refrain from', động từ sẽ ở dạng nào?",
+      "options": ["V-ing (gerund)", "to-infinitive", "bare infinitive", "past participle"],
+      "correctAnswer": "V-ing (gerund)",
+      "wordReference": "refrain",
+      "explanation": "Giới từ 'from' đòi hỏi một danh động từ (gerund) theo sau, ví dụ: 'refrain from making calls'."
+    },
+    {
+      "id": "d02_q30",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào có nghĩa là 'sự cho phép'?",
+      "options": ["procedure", "permission", "policy", "obligation"],
+      "correctAnswer": "permission",
+      "wordReference": "permission",
+      "explanation": "'Permission' là danh từ chỉ sự cho phép để làm một việc gì đó."
+    },
+    {
+      "id": "d02_q31",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'The CEO gave managers ___ to hold a weekend workshop.'",
+      "options": ["permit", "permissive", "permission", "permitting"],
+      "correctAnswer": "permission",
+      "wordReference": "permission",
+      "explanation": "Sau động từ 'gave' và tân ngữ 'managers', chúng ta cần một danh từ. 'Permission' là danh từ phù hợp."
+    },
+    {
+      "id": "d02_q32",
+      "type": "derivative",
+      "questionText": "Động từ của 'permission' là gì?",
+      "options": ["permit", "permissive", "admit", "submit"],
+      "correctAnswer": "permit",
+      "wordReference": "permission",
+      "explanation": "'Permit' là động từ có nghĩa là 'cho phép', là dạng động từ của danh từ 'permission'."
+    },
+    {
+      "id": "d02_q33",
+      "type": "grammar_usage",
+      "questionText": "Đâu là cách dùng đúng của động từ 'access'?",
+      "options": ["access to the file", "access into the file", "access the file", "access on the file"],
+      "correctAnswer": "access the file",
+      "wordReference": "access",
+      "explanation": "Ghi chú trong bài học nhấn mạnh rằng động từ 'access' là một ngoại động từ, do đó nó đi trực tiếp với tân ngữ mà không cần giới từ."
+    },
+    {
+      "id": "d02_q34",
+      "type": "distinction",
+      "questionText": "Đâu là sự khác biệt chính giữa danh từ 'access' và 'approach'?",
+      "options": [
+        "Không có sự khác biệt.",
+        "'Access' là quyền truy cập (không đếm được), 'approach' là cách tiếp cận (đếm được).",
+        "'Approach' trang trọng hơn 'access'.",
+        "'Access' dùng cho vật, 'approach' dùng cho người."
+      ],
+      "correctAnswer": "'Access' là quyền truy cập (không đếm được), 'approach' là cách tiếp cận (đếm được).",
+      "wordReference": "access",
+      "explanation": "Ghi chú trong bài học phân biệt rõ 'access' là danh từ không đếm được, trong khi 'approach' là danh từ đếm được (an approach)."
+    },
+    {
+      "id": "d02_q35",
+      "type": "collocation",
+      "questionText": "Cụm từ nào có nghĩa là 'có quyền truy cập vào'?",
+      "options": ["gain access to", "get access of", "make access for", "do access on"],
+      "correctAnswer": "gain access to",
+      "wordReference": "access",
+      "explanation": "Cả 'have access to' và 'gain access to' đều là những cụm từ phổ biến có nghĩa là có hoặc giành được quyền truy cập."
+    },
+    {
+      "id": "d02_q36",
+      "type": "word_form",
+      "questionText": "Điền vào chỗ trống: 'Please read the user manual ___ before installing this software.'",
+      "options": ["thorough", "thoroughly", "thoroughness", "though"],
+      "correctAnswer": "thoroughly",
+      "wordReference": "thoroughly",
+      "explanation": "Cần một trạng từ ('thoroughly') để bổ nghĩa cho động từ 'read'."
+    },
+    {
+      "id": "d02_q37",
+      "type": "meaning_to_vocab",
+      "questionText": "Khi nói 'The staff was thoroughly impressed', từ 'thoroughly' có nghĩa là gì?",
+      "options": ["một cách cẩn thận", "một cách vội vã", "hoàn toàn, triệt để", "hơi hơi, một chút"],
+      "correctAnswer": "hoàn toàn, triệt để",
+      "wordReference": "thoroughly",
+      "explanation": "Trong ngữ cảnh này, 'thoroughly' mang nghĩa 'hoàn toàn', 'rất', nhấn mạnh mức độ của sự ấn tượng."
+    },
+    {
+      "id": "d02_q38",
+      "type": "derivative",
+      "questionText": "Tính từ của trạng từ 'thoroughly' là gì?",
+      "options": ["thorough", "thoughtful", "through", "thoroughfare"],
+      "correctAnswer": "thorough",
+      "wordReference": "thoroughly",
+      "explanation": "'Thorough' là tính từ có nghĩa là 'tỉ mỉ, cẩn thận'."
+    },
+    {
+      "id": "d02_q39",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào có nghĩa là 'sửa đổi, thay đổi một kế hoạch hoặc một văn bản'?",
+      "options": ["repeat", "remove", "revise", "report"],
+      "correctAnswer": "revise",
+      "wordReference": "revise",
+      "explanation": "'Revise' có nghĩa là xem xét lại và thực hiện các thay đổi, chỉnh sửa cho một cái gì đó."
+    },
+    {
+      "id": "d02_q40",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'The office's policies regarding vacations have been ___.'",
+      "options": ["revising", "revision", "revised", "revises"],
+      "correctAnswer": "revised",
+      "wordReference": "revise",
+      "explanation": "Đây là cấu trúc câu bị động ở thì hiện tại hoàn thành (have been + V3/Ved), vì vậy cần dùng dạng quá khứ phân từ 'revised'."
+    },
+    {
+      "id": "d02_q41",
+      "type": "derivative",
+      "questionText": "Danh từ của động từ 'revise' là gì?",
+      "options": ["reviser", "revisory", "revision", "revisal"],
+      "correctAnswer": "revision",
+      "wordReference": "revise",
+      "explanation": "'Revision' là danh từ có nghĩa là 'sự sửa đổi, sự xem lại'."
+    },
+    {
+      "id": "d02_q42",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào có nghĩa là 'phương pháp' hoặc 'cách xử lý' một vấn đề?",
+      "options": ["access", "effect", "approach", "form"],
+      "correctAnswer": "approach",
+      "wordReference": "approach",
+      "explanation": "Khi là danh từ, 'approach' có nghĩa là một cách thức để đối phó với một tình huống hoặc vấn đề."
+    },
+    {
+      "id": "d02_q43",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'The manager has a strict ___ to enforcing office regulations.'",
+      "options": ["approached", "approaching", "approachable", "approach"],
+      "correctAnswer": "approach",
+      "wordReference": "approach",
+      "explanation": "Sau mạo từ 'a' và tính từ 'strict', chúng ta cần một danh từ. 'Approach' là danh từ phù hợp."
+    },
+    {
+      "id": "d02_q44",
+      "type": "collocation",
+      "questionText": "Động từ nào thường đi với 'approval' để tạo thành cụm từ có nghĩa là 'nhận/xin được sự chấp thuận'?",
+      "options": ["take", "make", "do", "obtain"],
+      "correctAnswer": "obtain",
+      "wordReference": "approval",
+      "explanation": "Ghi chú trong bài học nêu rõ cụm từ thường gặp là 'obtain approval'."
+    },
+    {
+      "id": "d02_q45",
+      "type": "synonym",
+      "questionText": "Từ nào đồng nghĩa với 'approval'?",
+      "options": ["permission", "suggestion", "refusal", "request"],
+      "correctAnswer": "permission",
+      "wordReference": "approval",
+      "explanation": "'Approval' và 'permission' đều mang nghĩa là sự chấp thuận hoặc sự cho phép."
+    },
+    {
+      "id": "d02_q46",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'Please obtain the supervisor's ___ before purchasing supplies.'",
+      "options": ["approve", "approved", "approvingly", "approval"],
+      "correctAnswer": "approval",
+      "wordReference": "approval",
+      "explanation": "Sau sở hữu cách 'supervisor's', chúng ta cần một danh từ. 'Approval' là danh từ phù hợp."
+    },
+    {
+      "id": "d02_q47",
+      "type": "collocation",
+      "questionText": "Cụm từ nào có nghĩa là 'một loại giấy tờ tùy thân'?",
+      "options": ["a form of identification", "an identification's form", "a form for identification", "an identifying form"],
+      "correctAnswer": "a form of identification",
+      "wordReference": "form",
+      "explanation": "Ghi chú trong bài học cung cấp cụm từ cố định 'a form of identification'."
+    },
+    {
+      "id": "d02_q48",
+      "type": "derivative",
+      "questionText": "Tính từ nào có nghĩa là 'trang trọng', được phái sinh từ 'form'?",
+      "options": ["formative", "formal", "formless", "former"],
+      "correctAnswer": "formal",
+      "wordReference": "form",
+      "explanation": "'Formal' là tính từ phái sinh, có nghĩa là trang trọng, chính thức, trái ngược với 'informal'."
+    },
+    {
+      "id": "d02_q49",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'Visitors are required to present a ___ of identification.'",
+      "options": ["format", "formula", "form", "formation"],
+      "correctAnswer": "form",
+      "wordReference": "form",
+      "explanation": "Trong ngữ cảnh này, 'form' có nghĩa là 'loại', 'kiểu'."
+    },
+    {
+      "id": "d02_q50",
+      "type": "collocation",
+      "questionText": "Cụm từ nào có nghĩa là 'ngay khi tới nơi'?",
+      "options": ["immediately in arrival", "immediately on arrival", "immediately to arrival", "immediately upon arrival"],
+      "correctAnswer": "immediately upon arrival",
+      "wordReference": "immediately",
+      "explanation": "Ghi chú trong bài học cung cấp cụm từ 'immediately upon arrival'."
+    },
+    {
+      "id": "d02_q51",
+      "type": "word_form",
+      "questionText": "Điền vào chỗ trống: 'Effective ___, taxes will be automatically deducted.'",
+      "options": ["immediate", "immediacy", "immediately", "mediate"],
+      "correctAnswer": "immediately",
+      "wordReference": "immediately",
+      "explanation": "'Effective immediately' là một cụm từ cố định có nghĩa là 'có hiệu lực ngay lập tức'."
+    },
+    {
+      "id": "d02_q52",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào dùng để chỉ 'sự kiểm tra, thanh tra' một cơ sở hoặc một quy trình?",
+      "options": ["arrangement", "procedure", "inspection", "approval"],
+      "correctAnswer": "inspection",
+      "wordReference": "inspection",
+      "explanation": "'Inspection' là hành động kiểm tra một cái gì đó cẩn thận để đảm bảo nó đúng tiêu chuẩn."
+    },
+    {
+      "id": "d02_q53",
+      "type": "collocation",
+      "questionText": "Động từ nào thường được dùng với 'inspection' để diễn tả hành động 'tiến hành kiểm tra'?",
+      "options": ["do", "make", "conduct", "perform"],
+      "correctAnswer": "conduct",
+      "wordReference": "inspection",
+      "explanation": "Cụm từ 'conduct an inspection' là một kết hợp từ phổ biến và được dùng trong câu ví dụ của bài học."
+    },
+    {
+      "id": "d02_q54",
+      "type": "derivative",
+      "questionText": "Động từ của 'inspection' là gì?",
+      "options": ["inspector", "inspect", "inject", "expect"],
+      "correctAnswer": "inspect",
+      "wordReference": "inspection",
+      "explanation": "'Inspect' là động từ có nghĩa là 'kiểm tra, xem xét'."
+    },
+    {
+      "id": "d02_q55",
+      "type": "grammar_usage",
+      "questionText": "Khi dùng với động từ 'make', từ 'arrangement' thường ở dạng nào?",
+      "options": ["Số ít", "Số nhiều", "Không thay đổi", "Dạng V-ing"],
+      "correctAnswer": "Số nhiều",
+      "wordReference": "arrangement",
+      "explanation": "Ghi chú trong bài học chỉ ra rằng khi kết hợp với 'make', 'arrangements' thường ở dạng số nhiều (make arrangements)."
+    },
+    {
+      "id": "d02_q56",
+      "type": "collocation",
+      "questionText": "Cụm từ nào có nghĩa là 'chuẩn bị cho việc gì đó'?",
+      "options": ["make arrangements for", "do arrangements with", "take arrangements to", "give arrangements by"],
+      "correctAnswer": "make arrangements for",
+      "wordReference": "arrangement",
+      "explanation": "Ghi chú trong bài học cung cấp cụm từ 'make arrangements for something'."
+    },
+    {
+      "id": "d02_q57",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'The manager made ___ for the purchase of new machinery.'",
+      "options": ["arrange", "arranging", "arrangement", "arrangements"],
+      "correctAnswer": "arrangements",
+      "wordReference": "arrangement",
+      "explanation": "Cụm từ cố định là 'made arrangements for'. Cần dạng danh từ số nhiều."
+    },
+    {
+      "id": "d02_q58",
+      "type": "meaning_to_vocab",
+      "questionText": "Một chuỗi các hành động được thực hiện theo một cách nhất định được gọi là gì?",
+      "options": ["arrangement", "procedure", "inspection", "permission"],
+      "correctAnswer": "procedure",
+      "wordReference": "procedure",
+      "explanation": "'Procedure' có nghĩa là 'thủ tục', một cách thức chính thức hoặc đã được thiết lập để làm việc gì đó."
+    },
+    {
+      "id": "d02_q59",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'The ___ for patent applications is outlined on the APTO website.'",
+      "options": ["proceed", "procedural", "procedure", "proceeding"],
+      "correctAnswer": "procedure",
+      "wordReference": "procedure",
+      "explanation": "Cần một danh từ làm chủ ngữ cho câu. 'Procedure' (thủ tục) là lựa chọn phù hợp."
+    },
+    {
+      "id": "d02_q60",
+      "type": "derivative",
+      "questionText": "Động từ nào có nghĩa là 'tiến hành, tiếp diễn', là gốc của từ 'procedure'?",
+      "options": ["process", "produce", "provide", "proceed"],
+      "correctAnswer": "proceed",
+      "wordReference": "procedure",
+      "explanation": "'Proceed' là động từ có nghĩa là bắt đầu hoặc tiếp tục một hành động hoặc quá trình."
+    },
+    {
+      "id": "d02_q61",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào có nghĩa là 'tiêu cực' hoặc 'bi quan'?",
+      "options": ["positive", "neutral", "negative", "objective"],
+      "correctAnswer": "negative",
+      "wordReference": "negative",
+      "explanation": "'Negative' được dùng để mô tả một điều gì đó xấu, không mong muốn hoặc có hại."
+    },
+    {
+      "id": "d02_q62",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'The new policy received ___ feedback from the employees.'",
+      "options": ["negatively", "negate", "negative", "negation"],
+      "correctAnswer": "negative",
+      "wordReference": "negative",
+      "explanation": "Cần một tính từ ('negative') để bổ nghĩa cho danh từ 'feedback'."
+    },
+    {
+      "id": "d02_q63",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào vừa là động từ mang nghĩa 'ra lệnh, ủy quyền', vừa là danh từ mang nghĩa 'lệnh, sự ủy thác'?",
+      "options": ["command", "order", "mandate", "decree"],
+      "correctAnswer": "mandate",
+      "wordReference": "mandate",
+      "explanation": "'Mandate' có thể được dùng như một động từ (to mandate something) hoặc một danh từ (to have a mandate)."
+    },
+    {
+      "id": "d02_q64",
+      "type": "word_form",
+      "questionText": "Điền vào chỗ trống: 'The board of directors has ___ an increase for research funding.'",
+      "options": ["mandate", "mandatory", "mandating", "mandated"],
+      "correctAnswer": "mandated",
+      "wordReference": "mandate",
+      "explanation": "Đây là thì hiện tại hoàn thành (has + V3/Ved), vì vậy cần dùng dạng quá khứ phân từ 'mandated'."
+    },
+    {
+      "id": "d02_q65",
+      "type": "collocation",
+      "questionText": "Cụm từ nào có nghĩa là 'có hiệu lực'?",
+      "options": ["on effect", "in effect", "at effect", "with effect"],
+      "correctAnswer": "in effect",
+      "wordReference": "effect",
+      "explanation": "Ghi chú trong bài học liệt kê các cụm từ 'in effect', 'come into effect', và 'take effect' đều có nghĩa là có hiệu lực hoặc được thi hành."
+    },
+    {
+      "id": "d02_q66",
+      "type": "collocation",
+      "questionText": "Cụm từ nào có nghĩa là 'có ảnh hưởng/tác động tới'?",
+      "options": ["make an effect on", "do an effect on", "have an effect on", "give an effect on"],
+      "correctAnswer": "have an effect on",
+      "wordReference": "effect",
+      "explanation": "Ghi chú trong bài học cung cấp cụm từ 'have an effect on' là một cách dùng phổ biến."
+    },
+    {
+      "id": "d02_q67",
+      "type": "distinction",
+      "questionText": "Đâu là khẳng định đúng về 'effect' và 'effective'?",
+      "options": [
+        "'Effect' là tính từ, 'effective' là danh từ.",
+        "'Effect' là động từ, 'effective' là trạng từ.",
+        "Cả hai đều là danh từ.",
+        "'Effect' là danh từ, 'effective' là tính từ."
+      ],
+      "correctAnswer": "'Effect' là danh từ, 'effective' là tính từ.",
+      "wordReference": "effect",
+      "explanation": "Ghi chú Ngữ pháp trong bài học phân biệt rõ từ loại: 'effect' (danh từ: hiệu quả) và 'effective' (tính từ: hiệu quả)."
+    },
+    {
+      "id": "d02_q68",
+      "type": "word_form",
+      "questionText": "Điền vào chỗ trống: 'Fines for breaking rules have been ___ increased.'",
+      "options": ["drastic", "drastically", "dramatically", "drasticism"],
+      "correctAnswer": "drastically",
+      "wordReference": "drastically",
+      "explanation": "Cần một trạng từ ('drastically') để bổ nghĩa cho động từ 'increased'."
+    },
+    {
+      "id": "d02_q69",
+      "type": "meaning_to_vocab",
+      "questionText": "Trạng từ nào có nghĩa là 'một cách mạnh mẽ, quyết liệt, triệt để'?",
+      "options": ["slightly", "gradually", "drastically", "moderately"],
+      "correctAnswer": "drastically",
+      "wordReference": "drastically",
+      "explanation": "'Drastically' mô tả một sự thay đổi rất lớn, đột ngột và mạnh mẽ."
+    },
+    {
+      "id": "d02_q70",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'All transactions must be handled ___ the guidelines.'",
+      "options": ["because of", "due to", "in spite of", "according to"],
+      "correctAnswer": "according to",
+      "wordReference": "according to",
+      "explanation": "'According to' được dùng để chỉ ra rằng một điều gì đó được thực hiện theo một quy tắc, một hệ thống, hoặc theo lời ai đó."
+    },
+    {
+      "id": "d02_q71",
+      "type": "meaning_to_vocab",
+      "questionText": "Cụm từ nào có nghĩa là 'theo như', 'dựa theo'?",
+      "options": ["regarding", "concerning", "according to", "in reference to"],
+      "correctAnswer": "according to",
+      "wordReference": "according to",
+      "explanation": "'According to' được sử dụng để trích dẫn một nguồn thông tin hoặc một bộ quy tắc."
+    },
+    {
+      "id": "d02_q72",
+      "type": "structure",
+      "questionText": "Cấu trúc nào sau đây là đúng?",
+      "options": [
+        "enable someone doing something",
+        "enable to do something for someone",
+        "enable someone to do something",
+        "enable for someone to do something"
+      ],
+      "correctAnswer": "enable someone to do something",
+      "wordReference": "enable",
+      "explanation": "Động từ 'enable' có cấu trúc 'enable + tân ngữ (chỉ người) + to-infinitive'."
+    },
+    {
+      "id": "d02_q73",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'Jenny's promotion ___ her to participate in the board meeting.'",
+      "options": ["enabled", "disabled", "enabling", "enables"],
+      "correctAnswer": "enabled",
+      "wordReference": "enable",
+      "explanation": "Câu ở thì quá khứ đơn, vì vậy cần dùng dạng V-ed của động từ."
+    },
+    {
+      "id": "d02_q74",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào có nghĩa là 'tiêu chuẩn, chuẩn mực'?",
+      "options": ["level", "quality", "standard", "grade"],
+      "correctAnswer": "standard",
+      "wordReference": "standard",
+      "explanation": "'Standard' là một mức độ chất lượng được sử dụng để so sánh, đánh giá."
+    },
+    {
+      "id": "d02_q75",
+      "type": "collocation",
+      "questionText": "Cụm từ nào sau đây là một ví dụ phổ biến trong môi trường công sở?",
+      "options": ["health standards", "traffic standards", "safety standards", "education standards"],
+      "correctAnswer": "safety standards",
+      "wordReference": "standard",
+      "explanation": "Cụm từ 'safety standards' (tiêu chuẩn an toàn) rất phổ biến và được dùng trong câu ví dụ của bài học."
+    },
+    {
+      "id": "d02_q76",
+      "type": "derivative",
+      "questionText": "Động từ nào có nghĩa là 'tiêu chuẩn hóa'?",
+      "options": ["standard", "standardize", "substandard", "standardization"],
+      "correctAnswer": "standardize",
+      "wordReference": "standard",
+      "explanation": "'Standardize' là động từ có nghĩa là làm cho mọi thứ cùng một loại trở nên giống nhau."
+    },
+    {
+      "id": "d02_q77",
+      "type": "meaning_to_vocab",
+      "questionText": "Tính từ nào có nghĩa là 'liên tục, không ngớt'?",
+      "options": ["frequent", "regular", "constant", "repeated"],
+      "correctAnswer": "constant",
+      "wordReference": "constant",
+      "explanation": "'Constant' mô tả một cái gì đó xảy ra liên tục trong một khoảng thời gian dài."
+    },
+    {
+      "id": "d02_q78",
+      "type": "word_form",
+      "questionText": "Điền vào chỗ trống: 'The store received ___ inquiries about its new return policy.'",
+      "options": ["constantly", "constant", "constancy", "consist"],
+      "correctAnswer": "constant",
+      "wordReference": "constant",
+      "explanation": "Cần một tính từ ('constant') để bổ nghĩa cho danh từ 'inquiries'."
+    },
+    {
+      "id": "d02_q79",
+      "type": "derivative",
+      "questionText": "Trạng từ của 'constant' là gì?",
+      "options": ["constantly", "constancy", "constance", "con"],
+      "correctAnswer": "constantly",
+      "wordReference": "constant",
+      "explanation": "'Constantly' là trạng từ có nghĩa là 'một cách liên tục'."
+    },
+    {
+      "id": "d02_q80",
+      "type": "meaning_to_vocab",
+      "questionText": "Khi nói 'The new act makes it easier to file taxes', từ 'act' có nghĩa là gì?",
+      "options": ["hành động", "vở kịch", "đạo luật", "việc làm"],
+      "correctAnswer": "đạo luật",
+      "wordReference": "act",
+      "explanation": "Khi được sử dụng trong ngữ cảnh pháp lý hoặc chính phủ, 'act' có nghĩa là một đạo luật được quốc hội hoặc cơ quan lập pháp thông qua."
+    },
+    {
+      "id": "d02_q81",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'A lawyer always ___ on behalf of his clients.'",
+      "options": ["acts", "acting", "action", "enact"],
+      "correctAnswer": "acts",
+      "wordReference": "act",
+      "explanation": "Cần một động từ ở thì hiện tại đơn, ngôi thứ ba số ít để phù hợp với chủ ngữ 'A lawyer'."
+    },
+    {
+      "id": "d02_q82",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào có nghĩa là 'sự đền bù, sự bồi thường', thường liên quan đến tiền hoặc lợi ích khác cho công việc hoặc tổn thất?",
+      "options": ["salary", "bonus", "compensation", "incentive"],
+      "correctAnswer": "compensation",
+      "wordReference": "compensation",
+      "explanation": "'Compensation' là một thuật ngữ rộng bao gồm lương, thưởng và các lợi ích khác mà nhân viên nhận được."
+    },
+    {
+      "id": "d02_q83",
+      "type": "grammar_usage",
+      "questionText": "Giới từ nào thường đi kèm với 'compensation' để chỉ lý do bồi thường?",
+      "options": ["of", "with", "to", "for"],
+      "correctAnswer": "for",
+      "wordReference": "compensation",
+      "explanation": "Ghi chú trong bài học nhấn mạnh cấu trúc 'compensation for' (sự bồi thường cho...)."
+    },
+    {
+      "id": "d02_q84",
+      "type": "derivative",
+      "questionText": "Động từ của 'compensation' là gì?",
+      "options": ["compensate", "compete", "complain", "complete"],
+      "correctAnswer": "compensate",
+      "wordReference": "compensation",
+      "explanation": "'To compensate' có nghĩa là 'đền bù, bồi thường'."
+    },
+    {
+      "id": "d02_q85",
+      "type": "meaning_to_vocab",
+      "questionText": "Một quy tắc chính thức nói rằng điều gì đó không được phép làm được gọi là gì?",
+      "options": ["rule", "ban", "law", "policy"],
+      "correctAnswer": "ban",
+      "wordReference": "ban",
+      "explanation": "'Ban' là một lệnh cấm chính thức, có thể là danh từ hoặc động từ."
+    },
+    {
+      "id": "d02_q86",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'The company ___ the use of the Internet for personal purposes.'",
+      "options": ["banned", "banning", "ban", "bans"],
+      "correctAnswer": "banned",
+      "wordReference": "ban",
+      "explanation": "Câu ở thì quá khứ đơn, vì vậy cần dùng dạng V-ed của động từ."
+    },
+    {
+      "id": "d02_q87",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào có nghĩa là 'nghĩa vụ, trách nhiệm' pháp lý hoặc đạo đức để làm điều gì đó?",
+      "options": ["permission", "arrangement", "obligation", "option"],
+      "correctAnswer": "obligation",
+      "wordReference": "obligation",
+      "explanation": "'Obligation' là một nhiệm vụ hoặc cam kết mà bạn phải thực hiện."
+    },
+    {
+      "id": "d02_q88",
+      "type": "structure",
+      "questionText": "Cấu trúc nào sau đây là phổ biến nhất với 'obligation'?",
+      "options": ["an obligation for doing", "an obligation of doing", "an obligation to do", "an obligation with doing"],
+      "correctAnswer": "an obligation to do",
+      "wordReference": "obligation",
+      "explanation": "Cấu trúc thường gặp là '(to have) an obligation to do something' - (có) nghĩa vụ phải làm gì đó."
+    },
+    {
+      "id": "d02_q89",
+      "type": "derivative",
+      "questionText": "Tính từ nào sau đây, có nghĩa là 'bắt buộc', có liên quan đến 'obligation'?",
+      "options": ["obligatory", "obliging", "oblique", "oblivious"],
+      "correctAnswer": "obligatory",
+      "wordReference": "obligation",
+      "explanation": "'Obligatory' có nghĩa là bắt buộc do một quy tắc hoặc luật lệ."
+    },
+    {
+      "id": "d02_q90",
+      "type": "collocation",
+      "questionText": "Cụm từ nào có nghĩa là 'một trung tâm dịch vụ được ủy quyền'?",
+      "options": ["an authorizing service center", "an authority service center", "an authorized service center", "an authorization service center"],
+      "correctAnswer": "an authorized service center",
+      "wordReference": "authorize",
+      "explanation": "Ghi chú trong bài học nhấn mạnh 'an authorized service center' là một cụm từ thường gặp trong TOEIC."
+    },
+    {
+      "id": "d02_q91",
+      "type": "antonym",
+      "questionText": "Từ nào có nghĩa là 'trái phép, không được ủy quyền'?",
+      "options": ["inauthorized", "disauthorized", "unauthorized", "misauthorized"],
+      "correctAnswer": "unauthorized",
+      "wordReference": "authorize",
+      "explanation": "Ghi chú trong bài học cũng đề cập đến từ 'unauthorized' (ví dụ: unauthorized reproduction) là một từ trái nghĩa quan trọng."
+    },
+    {
+      "id": "d02_q92",
+      "type": "grammar_usage",
+      "questionText": "Cấu trúc đúng của động từ 'prohibit' là gì?",
+      "options": ["prohibit someone to do", "prohibit someone from doing", "prohibit to do something", "prohibit doing something"],
+      "correctAnswer": "prohibit someone from doing",
+      "wordReference": "prohibit",
+      "explanation": "Ghi chú trong bài học phân biệt rõ cấu trúc 'prohibit + tân ngữ + from -ing'."
+    },
+    {
+      "id": "d02_q93",
+      "type": "distinction",
+      "questionText": "Đâu là sự khác biệt về cấu trúc giữa 'prohibit' và 'forbid'?",
+      "options": [
+        "Không có sự khác biệt.",
+        "'Prohibit' dùng 'from -ing', 'forbid' chỉ dùng 'to do'.",
+        "'Prohibit' chỉ dùng 'from -ing', 'forbid' có thể dùng cả 'from -ing' và 'to do'.",
+        "'Forbid' trang trọng hơn 'prohibit'."
+      ],
+      "correctAnswer": "'Prohibit' chỉ dùng 'from -ing', 'forbid' có thể dùng cả 'from -ing' và 'to do'.",
+      "wordReference": "prohibit",
+      "explanation": "Ghi chú trong bài học chỉ ra rằng 'forbid' linh hoạt hơn về mặt cấu trúc so với 'prohibit'."
+    },
+    {
+      "id": "d02_q94",
+      "type": "meaning_to_vocab",
+      "questionText": "Động từ nào có nghĩa là 'bãi bỏ, hủy bỏ' một luật, một hệ thống hoặc một thể chế?",
+      "options": ["prohibit", "abolish", "enforce", "restrict"],
+      "correctAnswer": "abolish",
+      "wordReference": "abolish",
+      "explanation": "'Abolish' có nghĩa là chính thức chấm dứt một điều gì đó."
+    },
+    {
+      "id": "d02_q95",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'Congress decided to ___ taxes on imported fruit.'",
+      "options": ["abolition", "abolishing", "abolished", "abolish"],
+      "correctAnswer": "abolish",
+      "wordReference": "abolish",
+      "explanation": "Sau 'to', chúng ta cần một động từ nguyên mẫu."
+    },
+    {
+      "id": "d02_q96",
+      "type": "derivative",
+      "questionText": "Danh từ của động từ 'abolish' là gì?",
+      "options": ["abolishment", "abolition", "abolisher", "abolishing"],
+      "correctAnswer": "abolition",
+      "wordReference": "abolish",
+      "explanation": "'Abolition' là danh từ có nghĩa là 'sự bãi bỏ'."
+    },
+    {
+      "id": "d02_q97",
+      "type": "collocation",
+      "questionText": "Động từ 'enforce' thường đi với danh từ nào sau đây?",
+      "options": ["suggestions", "opinions", "regulations", "requests"],
+      "correctAnswer": "regulations",
+      "wordReference": "enforce",
+      "explanation": "Ghi chú trong bài học chỉ ra cụm từ thường gặp là 'enforce regulations' (thực thi quy định)."
+    },
+    {
+      "id": "d02_q98",
+      "type": "meaning_to_vocab",
+      "questionText": "Động từ nào có nghĩa là 'bắt buộc mọi người phải tuân theo một quy tắc hoặc luật lệ'?",
+      "options": ["suggest", "enforce", "request", "propose"],
+      "correctAnswer": "enforce",
+      "wordReference": "enforce",
+      "explanation": "'Enforce' có nghĩa là làm cho một luật hoặc quy tắc có hiệu lực."
+    },
+    {
+      "id": "d02_q99",
+      "type": "derivative",
+      "questionText": "Danh từ của động từ 'enforce' là gì?",
+      "options": ["enforceable", "force", "enforcement", "enforcer"],
+      "correctAnswer": "enforcement",
+      "wordReference": "enforce",
+      "explanation": "'Enforcement' là danh từ có nghĩa là 'sự thi hành, sự bắt buộc'."
+    },
+    {
+      "id": "d02_q100",
+      "type": "distinction",
+      "questionText": "Đâu là sự khác biệt giữa 'habit' và 'convention'?",
+      "options": [
+        "Không có sự khác biệt.",
+        "'Habit' là thói quen của cá nhân, 'convention' là tập quán của cộng đồng/xã hội.",
+        "'Convention' là thói quen xấu, 'habit' là thói quen tốt.",
+        "'Habit' trang trọng hơn 'convention'."
+      ],
+      "correctAnswer": "'Habit' là thói quen của cá nhân, 'convention' là tập quán của cộng đồng/xã hội.",
+      "wordReference": "habit",
+      "explanation": "Ghi chú trong bài học đã phân biệt rõ ràng: 'habit' dùng cho cá nhân và 'convention' dùng cho xã hội."
+    },
+    {
+      "id": "d02_q101",
+      "type": "fill_in_the_blank",
+      "questionText": "Điền vào chỗ trống: 'Setting goals should be a regular ___.'",
+      "options": ["habitual", "habitat", "habit", "inhabit"],
+      "correctAnswer": "habit",
+      "wordReference": "habit",
+      "explanation": "Sau mạo từ 'a' và tính từ 'regular', chúng ta cần một danh từ."
+    },
+    {
+      "id": "d02_q102",
+      "type": "meaning_to_vocab",
+      "questionText": "Từ nào dùng để chỉ 'pháp luật, pháp chế' hoặc một bộ luật?",
+      "options": ["procedure", "legislation", "regulation", "policy"],
+      "correctAnswer": "legislation",
+      "wordReference": "legislation",
+      "explanation": "'Legislation' là một luật hoặc một tập hợp các luật được đề xuất bởi chính phủ và được thực hiện chính thức."
+    },
+    {
+      "id": "d02_q103",
+      "type": "derivative",
+      "questionText": "Một người làm luật được gọi là gì?",
+      "options": ["legislature", "legislative", "legislator", "legist"],
+      "correctAnswer": "legislator",
+      "wordReference": "legislation",
+      "explanation": "'Legislator' là một thành viên của cơ quan lập pháp."
+    },
+    {
+      "id": "d02_q104",
+      "type": "grammar_usage",
+      "questionText": "Cấu trúc phổ biến của động từ 'restrict' là gì?",
+      "options": ["restrict A with B", "restrict A for B", "restrict A from B", "restrict A to B"],
+      "correctAnswer": "restrict A to B",
+      "wordReference": "restrict",
+      "explanation": "Ghi chú trong bài học nhấn mạnh cấu trúc 'restrict A to B' (hạn chế A đối với B)."
+    },
+    {
+      "id": "d02_q105",
+      "type": "collocation",
+      "questionText": "Cụm động từ nào có nghĩa là 'bãi bỏ sự hạn chế'?",
+      "options": ["put down a restriction", "take off a restriction", "lift/raise a restriction", "cut out a restriction"],
+      "correctAnswer": "lift/raise a restriction",
+      "wordReference": "restrict",
+      "explanation": "Ghi chú trong bài học cung cấp các cụm từ 'lift a restriction' hoặc 'raise a restriction' với ý nghĩa 'nới lỏng, bãi bỏ' sự hạn chế."
+    },
+    {
+      "id": "d02_q106",
+      "type": "synonym",
+      "questionText": "Trong ngữ cảnh hạn chế về số lượng hoặc phạm vi, 'restrict' có thể được thay thế bằng từ nào?",
+      "options": ["stop", "limit", "ban", "end"],
+      "correctAnswer": "limit",
+      "wordReference": "restrict",
+      "explanation": "Ghi chú trong bài học cho biết 'restrict' có thể thay thế bằng 'limit' trong một số ngữ cảnh nhất định."
+    }
+  ]
+}

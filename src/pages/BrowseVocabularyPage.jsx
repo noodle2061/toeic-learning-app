@@ -4,7 +4,6 @@ import { getVocabUnitDetails } from '/src/api/dataService.js';
 import VocabularyCard from '../components/features/vocabulary/VocabularyCard';
 import VocabularyDetailModal from '../components/features/vocabulary/VocabularyDetailModal';
 
-
 const styles = {
     container: {
         padding: '20px',
@@ -38,6 +37,23 @@ const styles = {
         listStyle: 'none',
         padding: 0
     },
+    // Styles để thêm số thứ tự
+    vocabListItem: {
+        display: 'flex',
+        alignItems: 'center',
+        marginBottom: '10px',
+    },
+    vocabNumber: {
+        fontSize: '1.1rem',
+        fontWeight: 'bold',
+        color: '#6c757d',
+        marginRight: '15px',
+        minWidth: '30px', // Giúp các số thẳng hàng
+        textAlign: 'right',
+    },
+    vocabCardContainer: {
+        flex: 1, // Thẻ từ vựng chiếm phần không gian còn lại
+    }
 };
 
 const BrowseVocabularyPage = () => {
@@ -70,7 +86,6 @@ const BrowseVocabularyPage = () => {
         setSelectedVocab(null);
     };
 
-
     if (loading) {
         return <div style={{ textAlign: 'center', padding: '50px' }}>Đang tải từ vựng...</div>;
     }
@@ -89,11 +104,16 @@ const BrowseVocabularyPage = () => {
             </header>
             <ul style={styles.vocabList}>
                 {unitDetails.coreVocab.map((vocab, index) => (
-                    <VocabularyCard 
-                        key={index}
-                        vocab={vocab}
-                        onClick={handleCardClick}
-                    />
+                    // Thêm thẻ li và số thứ tự
+                    <li key={index} style={styles.vocabListItem}>
+                        <span style={styles.vocabNumber}>{index + 1}.</span>
+                        <div style={styles.vocabCardContainer}>
+                            <VocabularyCard 
+                                vocab={vocab}
+                                onClick={() => handleCardClick(vocab)}
+                            />
+                        </div>
+                    </li>
                 ))}
             </ul>
 
@@ -106,4 +126,3 @@ const BrowseVocabularyPage = () => {
 };
 
 export default BrowseVocabularyPage;
-

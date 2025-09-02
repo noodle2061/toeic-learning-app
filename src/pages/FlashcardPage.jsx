@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate, Link } from 'react-router-dom';
 import { getVocabUnitDetails } from '../api/dataService';
 import { getProgress, saveProgress, calculateNextReview, createReviewDeck } from '../services/srsService.js';
 import Flashcard from '../components/features/flashcards/Flashcard.jsx';
@@ -13,13 +13,16 @@ const styles = {
     },
     header: {
         marginBottom: '20px',
+        // Không cần flexbox phức tạp nữa
     },
     title: {
         fontSize: '2rem',
+        margin: 0,
     },
     progressText: {
         fontSize: '1.2rem',
         color: '#555',
+        margin: '5px 0 0 0',
     },
     completionContainer: {
         padding: '50px',
@@ -36,13 +39,17 @@ const styles = {
         textDecoration: 'none',
         fontWeight: 'bold',
         marginTop: '20px'
+    },
+    footer: {
+        marginTop: '40px',
+        paddingTop: '20px',
+        borderTop: '1px solid #eee'
     }
 };
 
 const FlashcardPage = () => {
     const { unitId } = useParams();
     const navigate = useNavigate();
-
     const [loading, setLoading] = useState(true);
     const [deck, setDeck] = useState([]);
     const [currentCardIndex, setCurrentCardIndex] = useState(0);
@@ -88,10 +95,9 @@ const FlashcardPage = () => {
         setProgress(updatedProgress);
         saveProgress(unitId, updatedProgress);
         
-        // Chuyển sang thẻ tiếp theo
         setTimeout(() => {
              setCurrentCardIndex(prevIndex => prevIndex + 1);
-        }, 200); // Thêm độ trễ nhỏ để người dùng thấy phản hồi
+        }, 200);
 
     }, [currentCardIndex, deck, progress, unitId]);
     
@@ -107,7 +113,7 @@ const FlashcardPage = () => {
                 <h1 style={styles.title}>Flashcards: {unitTitle}</h1>
                 {!isSessionComplete && (
                      <p style={styles.progressText}>
-                        Thẻ: {currentCardIndex + 1} / {deck.length}
+                         Thẻ: {currentCardIndex + 1} / {deck.length}
                     </p>
                 )}
             </header>
@@ -123,23 +129,33 @@ const FlashcardPage = () => {
                  <div style={styles.completionContainer}>
                     <h2>Tuyệt vời!</h2>
                     <p>Bạn đã hoàn thành tất cả các thẻ cần ôn tập cho hôm nay.</p>
-                     <a href={`/vocabulary/${unitId}`} onClick={(e) => { e.preventDefault(); navigate(`/vocabulary/${unitId}`); }} style={styles.backButton}>
-                        Quay lại
-                    </a>
+                     <Link to={`/vocabulary/${unitId}`} style={styles.backButton}>
+                        Quay lại bài học
+                    </Link>
                 </div>
             )}
 
             {isSessionComplete && deck.length > 0 && (
-                 <div style={styles.completionContainer}>
+                  <div style={styles.completionContainer}>
                     <h2>Hoàn thành!</h2>
                     <p>Bạn đã ôn tập xong {deck.length} thẻ trong phiên này.</p>
-                     <a href={`/vocabulary/${unitId}`} onClick={(e) => { e.preventDefault(); navigate(`/vocabulary/${unitId}`); }} style={styles.backButton}>
-                        Quay lại
-                    </a>
+                     <Link to={`/vocabulary/${unitId}`} style={styles.backButton}>
+                         Quay lại bài học
+                    </Link>
                 </div>
+            )}
+
+            {/* Nút quay lại ở cuối trang, chỉ hiển thị trong phiên học */}
+            {!isSessionComplete && deck.length > 0 && (
+                <footer style={styles.footer}>
+                     <Link to={`/vocabulary/${unitId}`} style={styles.backButton}>
+                        &larr; Rời khỏi phiên học
+                    </Link>
+                </footer>
             )}
         </div>
     );
 };
 
 export default FlashcardPage;
+

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
-import { getVocabUnitDetails } from '../api/dataService.js'; // Sửa lỗi: Thêm phần mở rộng .js để đảm bảo đường dẫn được giải quyết chính xác.
+import { getVocabUnitDetails } from '../api/dataService.js';
 
 const styles = {
   container: {
@@ -49,6 +49,17 @@ const styles = {
     color: '#adb5bd',
     cursor: 'not-allowed',
     boxShadow: 'none'
+  },
+  // Style cho nút quay lại
+  backButton: {
+    display: 'inline-block',
+    padding: '10px 15px',
+    backgroundColor: '#6c757d',
+    color: 'white',
+    borderRadius: '5px',
+    textDecoration: 'none',
+    marginBottom: '20px',
+    fontWeight: 'bold'
   }
 };
 
@@ -97,6 +108,11 @@ const VocabularyUnitPage = () => {
 
   return (
     <div style={styles.container}>
+      {/* THÊM NÚT QUAY LẠI TẠI ĐÂY */}
+      <Link to="/vocabulary" style={styles.backButton}>
+        &larr; Quay lại danh sách
+      </Link>
+      
       <header style={styles.header}>
         <h1 style={styles.title}>{unitDetails.title}</h1>
         <p style={styles.subtitle}>{unitDetails.description}</p>
@@ -118,7 +134,7 @@ const VocabularyUnitPage = () => {
               </Link>
             ) : (
               <div style={{...styles.optionLink, color: '#adb5bd'}}>
-                {option.name} (Sắp có)
+                 {option.name} (Sắp có)
               </div>
             )}
           </li>
@@ -129,4 +145,3 @@ const VocabularyUnitPage = () => {
 };
 
 export default VocabularyUnitPage;
-

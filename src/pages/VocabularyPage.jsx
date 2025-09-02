@@ -30,6 +30,17 @@ const styles = {
     textDecoration: 'none',
     color: '#333',
     fontWeight: 'bold'
+  },
+  // Style cho nút quay lại
+  backButton: {
+    display: 'inline-block',
+    padding: '10px 15px',
+    backgroundColor: '#007bff',
+    color: 'white',
+    borderRadius: '5px',
+    textDecoration: 'none',
+    marginBottom: '20px',
+    fontWeight: 'bold',
   }
 };
 
@@ -58,12 +69,17 @@ const VocabularyPage = () => {
 
   return (
     <div style={styles.container}>
+      {/* NÚT QUAY VỀ TRANG CHỦ */}
+      <Link to="/" style={styles.backButton}>
+        &larr; Quay về trang chủ
+      </Link>
+
       <h1 style={styles.title}>Danh sách bài học từ vựng</h1>
       <ul style={styles.unitList}>
-        {units.map(unit => (
+        {units.map((unit, index) => (
           <li key={unit.unitId} style={styles.unitItem}>
             <Link to={`/vocabulary/${unit.unitId}`} style={styles.unitLink}>
-              {unit.title}
+              {index + 1}. {unit.title}
             </Link>
           </li>
         ))}
