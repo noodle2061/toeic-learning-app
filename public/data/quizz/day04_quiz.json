@@ -1,0 +1,636 @@
+{
+  "unitId": "day04",
+  "title": "Trắc nghiệm: BÍ QUYẾT KINH DOANH - Công việc văn phòng (2)",
+  "questions": [
+    {
+      "id": "d04_q01",
+      "type": "synonym",
+      "questionText": "Từ nào sau đây đồng nghĩa với 'lax' trong câu 'the staff has been rather lax in turning in reports'?",
+      "options": [
+        "strict",
+        "punctual",
+        "negligent",
+        "efficient"
+      ],
+      "correctAnswer": "negligent",
+      "wordReference": "lax",
+      "explanation": "Trong ngữ cảnh này, 'lax' có nghĩa là thiếu nghiêm túc, cẩu thả, đồng nghĩa với 'negligent'."
+    },
+    {
+      "id": "d04_q02",
+      "type": "fill_in_the_blank",
+      "questionText": "Due to his tendency to ____, he often misses important deadlines.",
+      "options": [
+        "accomplish",
+        "procrastinate",
+        "undertake",
+        "supervise"
+      ],
+      "correctAnswer": "procrastinate",
+      "wordReference": "procrastinate",
+      "explanation": "'Procrastinate' có nghĩa là trì hoãn, chần chừ, là nguyên nhân trực tiếp dẫn đến việc bỏ lỡ thời hạn (miss deadlines)."
+    },
+    {
+      "id": "d04_q03",
+      "type": "antonym",
+      "questionText": "Từ nào trái nghĩa với 'procrastinate'?",
+      "options": [
+        "delay",
+        "postpone",
+        "hasten",
+        "hesitate"
+      ],
+      "correctAnswer": "hasten",
+      "wordReference": "procrastinate",
+      "explanation": "'Procrastinate' là trì hoãn, trong khi 'hasten' có nghĩa là đẩy nhanh, làm gấp, hoàn toàn trái ngược."
+    },
+    {
+      "id": "d04_q04",
+      "type": "fill_in_the_blank",
+      "questionText": "The team's ___ efforts resulted in the successful launch of the new product.",
+      "options": [
+        "combined",
+        "separated",
+        "individual",
+        "lax"
+      ],
+      "correctAnswer": "combined",
+      "wordReference": "combined",
+      "explanation": "Cụm từ 'combined efforts' (nỗ lực chung) được sử dụng để chỉ sự hợp tác của cả nhóm, mang lại kết quả tích cực."
+    },
+    {
+      "id": "d04_q05",
+      "type": "distinction",
+      "questionText": "Trong cụm 'an accomplished author', từ 'accomplished' có nghĩa là gì?",
+      "options": [
+        "đã hoàn thành",
+        "có nhiều thành tựu",
+        "tài năng, có đủ kỹ năng",
+        "đang thực hiện"
+      ],
+      "correctAnswer": "tài năng, có đủ kỹ năng",
+      "wordReference": "accomplish",
+      "explanation": "Khi đi với danh từ chỉ nghề nghiệp như 'author' hay 'writer', 'accomplished' mang nghĩa là tài năng, lành nghề, chứ không chỉ đơn thuần là 'đã hoàn thành'."
+    },
+    {
+      "id": "d04_q06",
+      "type": "fill_in_the_blank",
+      "questionText": "He ___ took on the extra work without being asked, hoping to gain more experience.",
+      "options": [
+        "grudgingly",
+        "mandatorily",
+        "voluntarily",
+        "occasionally"
+      ],
+      "correctAnswer": "voluntarily",
+      "wordReference": "voluntarily",
+      "explanation": "'Voluntarily' có nghĩa là tự nguyện, phù hợp với vế sau 'without being asked' (không cần được yêu cầu)."
+    },
+    {
+      "id": "d04_q07",
+      "type": "synonym",
+      "questionText": "Which word is a synonym for 'undertake' a task?",
+      "options": [
+        "avoid",
+        "assume",
+        "cancel",
+        "procrastinate"
+      ],
+      "correctAnswer": "assume",
+      "wordReference": "undertake",
+      "explanation": "Khi mang nghĩa 'đảm nhận' một công việc hay trách nhiệm, 'undertake' đồng nghĩa với 'assume' hoặc 'take on'."
+    },
+    {
+      "id": "d04_q08",
+      "type": "distinction",
+      "questionText": "The manager will 'assume' responsibility for the project. 'Assume' ở đây có nghĩa là gì?",
+      "options": [
+        "giả sử",
+        "cho rằng",
+        "đảm nhận",
+        "phớt lờ"
+      ],
+      "correctAnswer": "đảm nhận",
+      "wordReference": "assume",
+      "explanation": "Đây là một bẫy phổ biến. 'Assume' có hai nghĩa chính: 'cho rằng' và 'đảm nhận'. Trong ngữ cảnh này, nó có nghĩa là 'đảm nhận' (take on, undertake) trách nhiệm."
+    },
+    {
+      "id": "d04_q09",
+      "type": "fill_in_the_blank",
+      "questionText": "I only see my old college friends ___, maybe once or twice a year.",
+      "options": [
+        "routinely",
+        "formally",
+        "occasionally",
+        "widely"
+      ],
+      "correctAnswer": "occasionally",
+      "wordReference": "occasionally",
+      "explanation": "'Occasionally' có nghĩa là thỉnh thoảng, đôi khi, phù hợp với tần suất 'một hoặc hai lần một năm'."
+    },
+    {
+      "id": "d04_q10",
+      "type": "distinction",
+      "questionText": "Đâu là sự khác biệt chính giữa 'employee' và 'employer'?",
+      "options": [
+        "Không có sự khác biệt, chúng đồng nghĩa.",
+        "'Employee' là người thuê, 'employer' là người được thuê.",
+        "'Employee' là người được thuê, 'employer' là người thuê.",
+        "Cả hai đều chỉ người quản lý."
+      ],
+      "correctAnswer": "'Employee' là người được thuê, 'employer' là người thuê.",
+      "wordReference": "employee",
+      "explanation": "Đây là cặp từ dễ nhầm lẫn. 'Employee' là nhân viên (người lao động), trong khi 'employer' là người chủ, công ty (người sử dụng lao động)."
+    },
+    {
+      "id": "d04_q11",
+      "type": "grammar_usage",
+      "questionText": "A staff member assisted ___ preparations for the conference. Giới từ nào phù hợp nhất để điền vào chỗ trống?",
+      "options": [
+        "for",
+        "on",
+        "with",
+        "to"
+      ],
+      "correctAnswer": "with",
+      "wordReference": "assist",
+      "explanation": "Theo ghi chú, động từ 'assist' thường đi với giới từ 'with' để diễn tả ý 'hỗ trợ việc gì đó' (assist with something)."
+    },
+    {
+      "id": "d04_q12",
+      "type": "derivatives",
+      "questionText": "If you often procrastinate, you have a habit of ___.",
+      "options": [
+        "procrastinating",
+        "procrastinated",
+        "procrastination",
+        "procrastinates"
+      ],
+      "correctAnswer": "procrastination",
+      "wordReference": "procrastinate",
+      "explanation": "'Procrastination' là danh từ của động từ 'procrastinate', có nghĩa là 'sự trì hoãn'."
+    },
+    {
+      "id": "d04_q13",
+      "type": "grammar_usage",
+      "questionText": "Not everyone was satisfied ___ the changes to the overtime policy. Chọn giới từ đúng.",
+      "options": [
+        "for",
+        "with",
+        "at",
+        "on"
+      ],
+      "correctAnswer": "with",
+      "wordReference": "satisfied",
+      "explanation": "Cấu trúc phổ biến là 'be satisfied with something', có nghĩa là 'hài lòng với điều gì đó'."
+    },
+    {
+      "id": "d04_q14",
+      "type": "fill_in_the_blank",
+      "questionText": "Sean was annoyed by the ___ in which his boss gave him orders.",
+      "options": [
+        "manner",
+        "style",
+        "method",
+        "system"
+      ],
+      "correctAnswer": "manner",
+      "wordReference": "manner",
+      "explanation": "'Manner' ở đây có nghĩa là 'cách thức, thái độ', thường được dùng với cấu trúc 'the manner in which' để mô tả cách một việc được thực hiện."
+    },
+    {
+      "id": "d04_q15",
+      "type": "distinction",
+      "questionText": "Từ nào dùng để chỉ người 'phản ứng nhanh' với nhu cầu của khách hàng, thay vì 'có trách nhiệm'?",
+      "options": [
+        "responsible",
+        "responsive",
+        "respected",
+        "receptive"
+      ],
+      "correctAnswer": "responsive",
+      "wordReference": "responsible",
+      "explanation": "Đây là một bẫy trong bài thi TOEIC. 'Responsible' là có trách nhiệm, trong khi 'responsive' là phản ứng nhanh, đáp lại nhiệt tình. Đây là hai từ có hình thái giống nhau nhưng nghĩa khác nhau."
+    },
+    {
+      "id": "d04_q16",
+      "type": "grammar_usage",
+      "questionText": "Businesses are responsible ___ ensuring customer satisfaction. Chọn giới từ đúng.",
+      "options": [
+        "of",
+        "to",
+        "about",
+        "for"
+      ],
+      "correctAnswer": "for",
+      "wordReference": "responsible",
+      "explanation": "Cấu trúc cố định là 'be responsible for something/doing something', có nghĩa là '(chịu) trách nhiệm cho việc gì đó'."
+    },
+    {
+      "id": "d04_q17",
+      "type": "collocation",
+      "questionText": "The technology department will ___ a research study. Động từ nào thường đi với 'a research study'?",
+      "options": [
+        "make",
+        "do",
+        "conduct",
+        "take"
+      ],
+      "correctAnswer": "conduct",
+      "wordReference": "conduct",
+      "explanation": "'Conduct' là động từ thường được dùng với các danh từ như 'research', 'study', 'inspection', 'seminar' với nghĩa là 'tiến hành' hoặc 'tổ chức'."
+    },
+    {
+      "id": "d04_q18",
+      "type": "grammar_usage",
+      "questionText": "The employees quickly adjusted ___ the new e-mail system. Chọn giới từ đúng.",
+      "options": [
+        "with",
+        "on",
+        "to",
+        "for"
+      ],
+      "correctAnswer": "to",
+      "wordReference": "adjust",
+      "explanation": "Động từ 'adjust' thường đi với giới từ 'to' khi mang nghĩa là 'thích ứng với' một sự thay đổi hoặc môi trường mới (adjust to something)."
+    },
+    {
+      "id": "d04_q19",
+      "type": "synonym",
+      "questionText": "Khi mang nghĩa 'thích ứng với sự thay đổi', 'adjust' có thể được thay thế bằng từ nào?",
+      "options": [
+        "change",
+        "modify",
+        "alter",
+        "adapt"
+      ],
+      "correctAnswer": "adapt",
+      "wordReference": "adjust",
+      "explanation": "Theo ghi chú trong bài học, 'adapt' là từ đồng nghĩa với 'adjust' trong ngữ cảnh thích ứng với một tình huống mới."
+    },
+    {
+      "id": "d04_q20",
+      "type": "collocation",
+      "questionText": "We often hire temporary ___ through an agency.",
+      "options": [
+        "personnel",
+        "personal",
+        "personality",
+        "person"
+      ],
+      "correctAnswer": "personnel",
+      "wordReference": "personnel",
+      "explanation": "'Personnel' là danh từ không đếm được, dùng để chỉ tập thể nhân viên trong một công ty hoặc tổ chức. 'Personal' là tính từ."
+    },
+    {
+      "id": "d04_q21",
+      "type": "grammar_usage",
+      "questionText": "The team could not agree ___ the best way to proceed. Giới từ nào phù hợp nhất?",
+      "options": [
+        "with",
+        "on",
+        "to",
+        "about"
+      ],
+      "correctAnswer": "on",
+      "wordReference": "agree",
+      "explanation": "Chúng ta dùng 'agree on' khi nói về việc đồng ý, nhất trí với một ý kiến, một kế hoạch, hoặc một quyết định."
+    },
+    {
+      "id": "d04_q22",
+      "type": "grammar_usage",
+      "questionText": "I agree ___ you completely. Chọn giới từ đúng.",
+      "options": [
+        "on",
+        "to",
+        "with",
+        "for"
+      ],
+      "correctAnswer": "with",
+      "wordReference": "agree",
+      "explanation": "Khi muốn diễn tả sự đồng tình với một người nào đó, chúng ta sử dụng cấu trúc 'agree with someone'."
+    },
+    {
+      "id": "d04_q23",
+      "type": "derivatives",
+      "questionText": "Ms. Wilson's job is to ___ the employees in sector B.",
+      "options": [
+        "supervision",
+        "supervisor",
+        "supervise",
+        "supervised"
+      ],
+      "correctAnswer": "supervise",
+      "wordReference": "supervise",
+      "explanation": "Sau 'to' trong cấu trúc 'job is to...' cần một động từ nguyên thể. 'Supervise' (giám sát) là động từ, 'supervisor' (người giám sát) và 'supervision' (sự giám sát) là danh từ."
+    },
+    {
+      "id": "d04_q24",
+      "type": "synonym",
+      "questionText": "Từ nào sau đây là từ đồng nghĩa gần nhất với 'coworker'?",
+      "options": [
+        "boss",
+        "employee",
+        "colleague",
+        "client"
+      ],
+      "correctAnswer": "colleague",
+      "wordReference": "coworker",
+      "explanation": "'Coworker' và 'colleague' đều có nghĩa là đồng nghiệp, người cùng làm việc trong một cơ quan, tổ chức."
+    },
+    {
+      "id": "d04_q25",
+      "type": "grammar_usage",
+      "questionText": "The receptionist directs new employees ___ the auditorium.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "to"
+      ],
+      "correctAnswer": "to",
+      "wordReference": "direct",
+      "explanation": "Cấu trúc 'direct A to B' có nghĩa là 'hướng dẫn/chỉ đường cho A tới B'. Giới từ 'to' là bắt buộc trong cấu trúc này."
+    },
+    {
+      "id": "d04_q26",
+      "type": "synonym",
+      "questionText": "Internal government documents are often classified as ___ to protect national security. Từ nào phù hợp nhất?",
+      "options": [
+        "public",
+        "open",
+        "confidential",
+        "accessible"
+      ],
+      "correctAnswer": "confidential",
+      "wordReference": "confidential",
+      "explanation": "'Confidential' (bí mật, bảo mật) là từ thích hợp cho các tài liệu nội bộ, quan trọng. Nó đồng nghĩa với 'classified' và 'secret'."
+    },
+    {
+      "id": "d04_q27",
+      "type": "derivatives",
+      "questionText": "The manager will ___ new tasks to the team members tomorrow morning.",
+      "options": [
+        "assignment",
+        "assigned",
+        "assigns",
+        "assign"
+      ],
+      "correctAnswer": "assign",
+      "wordReference": "assign",
+      "explanation": "Sau động từ khuyết thiếu 'will' cần một động từ nguyên thể. 'Assign' (phân công) là động từ, trong khi 'assignment' là danh từ."
+    },
+    {
+      "id": "d04_q28",
+      "type": "collocation",
+      "questionText": "Shepherd Inc. is a ___ company in the furniture industry.",
+      "options": [
+        "leading",
+        "following",
+        "heading",
+        "directing"
+      ],
+      "correctAnswer": "leading",
+      "wordReference": "leading",
+      "explanation": "Cụm từ 'leading company' (công ty hàng đầu) là một cụm từ cố định rất phổ biến trong lĩnh vực kinh doanh."
+    },
+    {
+      "id": "d04_q29",
+      "type": "fill_in_the_blank",
+      "questionText": "The awards ceremony requires wearing ___ business attire.",
+      "options": [
+        "casual",
+        "informal",
+        "formal",
+        "optional"
+      ],
+      "correctAnswer": "formal",
+      "wordReference": "formal",
+      "explanation": "'Formal' (trang trọng, chính thức) là tính từ phù hợp để mô tả trang phục cho một sự kiện quan trọng như lễ trao giải."
+    },
+    {
+      "id": "d04_q30",
+      "type": "grammar_usage",
+      "questionText": "The vice president was removed ___ his position because of a scandal.",
+      "options": [
+        "of",
+        "by",
+        "from",
+        "out"
+      ],
+      "correctAnswer": "from",
+      "wordReference": "remove",
+      "explanation": "Cấu trúc thường gặp là 'remove somebody/something from a position/place', có nghĩa là 'cách chức/loại bỏ ai/cái gì khỏi một vị trí/địa điểm'."
+    },
+    {
+      "id": "d04_q31",
+      "type": "fill_in_the_blank",
+      "questionText": "The author ___ management ideas from around the world for his book.",
+      "options": [
+        "collected",
+        "distributed",
+        "separated",
+        "created"
+      ],
+      "correctAnswer": "collected",
+      "wordReference": "collect",
+      "explanation": "'Collect' có nghĩa là thu thập, tập hợp. Trong câu này, tác giả đã tập hợp các ý tưởng từ nhiều nơi."
+    },
+    {
+      "id": "d04_q32",
+      "type": "derivatives",
+      "questionText": "The project requires close ___ between the marketing and sales departments.",
+      "options": [
+        "coordinate",
+        "coordinator",
+        "coordination",
+        "coordinated"
+      ],
+      "correctAnswer": "coordination",
+      "wordReference": "coordinate",
+      "explanation": "Sau tính từ 'close' cần một danh từ. 'Coordination' (sự phối hợp) là danh từ cần thiết ở đây."
+    },
+    {
+      "id": "d04_q33",
+      "type": "distinction",
+      "questionText": "Câu nào sau đây sử dụng sai từ? 'The staff worked hardly to meet the deadline.'",
+      "options": [
+        "Câu này đúng.",
+        "Câu này sai, phải dùng 'hard'.",
+        "Câu này sai, phải dùng 'hardily'.",
+        "Câu này sai, phải dùng 'ever hard'."
+      ],
+      "correctAnswer": "Câu này sai, phải dùng 'hard'.",
+      "wordReference": "hardly",
+      "explanation": "Đây là một bẫy kinh điển. 'Hard' là trạng từ có nghĩa là 'chăm chỉ'. 'Hardly' cũng là trạng từ nhưng có nghĩa là 'hầu như không, hiếm khi'."
+    },
+    {
+      "id": "d04_q34",
+      "type": "fill_in_the_blank",
+      "questionText": "Ideals such as loyalty may seem ___, so employees need specific examples.",
+      "options": [
+        "concrete",
+        "abstract",
+        "obvious",
+        "simple"
+      ],
+      "correctAnswer": "abstract",
+      "wordReference": "abstract",
+      "explanation": "'Abstract' có nghĩa là trừu tượng, mơ hồ, đối lập với 'specific examples' (ví dụ cụ thể)."
+    },
+    {
+      "id": "d04_q35",
+      "type": "meaning_to_vocab",
+      "questionText": "Tài liệu nào chứa danh sách tên, địa chỉ và số điện thoại của nhân viên trong công ty?",
+      "options": [
+        "report",
+        "manual",
+        "directory",
+        "newsletter"
+      ],
+      "correctAnswer": "directory",
+      "wordReference": "directory",
+      "explanation": "'Directory' có nghĩa là danh bạ, một cuốn sổ hoặc tệp chứa thông tin liên lạc được sắp xếp theo thứ tự."
+    },
+    {
+      "id": "d04_q36",
+      "type": "grammar_usage",
+      "questionText": "All employees are accountable ___ the duties they have been assigned.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "of"
+      ],
+      "correctAnswer": "for",
+      "wordReference": "accountable",
+      "explanation": "Cấu trúc 'be accountable for something' có nghĩa là 'chịu trách nhiệm cho việc gì đó'."
+    },
+    {
+      "id": "d04_q37",
+      "type": "derivatives",
+      "questionText": "Brenda edited the report very ___ to fit on one page.",
+      "options": [
+        "skill",
+        "skillful",
+        "skillfully",
+        "skilled"
+      ],
+      "correctAnswer": "skillfully",
+      "wordReference": "skillfully",
+      "explanation": "Để bổ nghĩa cho động từ 'edited', chúng ta cần một trạng từ. 'Skillfully' (một cách khéo léo) là trạng từ của tính từ 'skillful'."
+    },
+    {
+      "id": "d04_q38",
+      "type": "fill_in_the_blank",
+      "questionText": "Delegates with special passes have ___ access to a tour of the facilities.",
+      "options": [
+        "inclusive",
+        "common",
+        "general",
+        "exclusive"
+      ],
+      "correctAnswer": "exclusive",
+      "wordReference": "exclusive",
+      "explanation": "'Exclusive' (độc quyền, riêng biệt) được dùng để chỉ quyền truy cập chỉ dành cho một nhóm người nhất định."
+    },
+    {
+      "id": "d04_q39",
+      "type": "distinction",
+      "questionText": "Đâu là sự khác biệt giữa 'intention' và 'intent'?",
+      "options": [
+        "Không có khác biệt.",
+        "'Intention' là danh từ đếm được, 'intent' là danh từ không đếm được.",
+        "'Intention' là động từ, 'intent' là danh từ.",
+        "'Intention' là ý định xấu, 'intent' là ý định tốt."
+      ],
+      "correctAnswer": "'Intention' là danh từ đếm được, 'intent' là danh từ không đếm được.",
+      "wordReference": "intention",
+      "explanation": "Theo ghi chú, 'intention' là danh từ đếm được (an intention/intentions) trong khi 'intent' là danh từ không đếm được. Cả hai đều có nghĩa là 'ý định'."
+    },
+    {
+      "id": "d04_q40",
+      "type": "fill_in_the_blank",
+      "questionText": "Computerization has ___ the way companies do business.",
+      "options": [
+        "maintained",
+        "kept",
+        "transformed",
+        "held"
+      ],
+      "correctAnswer": "transformed",
+      "wordReference": "transform",
+      "explanation": "'Transform' có nghĩa là biến đổi, thay đổi một cách sâu sắc, phù hợp với tác động của 'computerization' (vi tính hóa)."
+    },
+    {
+      "id": "d04_q41",
+      "type": "distinction",
+      "questionText": "Một người cha 'respectable' là người ___, còn một đứa trẻ 'respectful' là đứa trẻ ___.",
+      "options": [
+        "lễ phép / đáng kính",
+        "đáng kính / lễ phép",
+        "giàu có / ngoan ngoãn",
+        "nghiêm khắc / biết vâng lời"
+      ],
+      "correctAnswer": "đáng kính / lễ phép",
+      "wordReference": "respectful",
+      "explanation": "'Respectable' có nghĩa là đáng kính, đáng được tôn trọng. 'Respectful' có nghĩa là thể hiện sự tôn trọng, lễ phép."
+    },
+    {
+      "id": "d04_q42",
+      "type": "collocation",
+      "questionText": "Please make a copy of this contract and send the original. The copy is known as a ___.",
+      "options": [
+        "duplicate",
+        "double",
+        "repeat",
+        "replica"
+      ],
+      "correctAnswer": "duplicate",
+      "wordReference": "duplicate",
+      "explanation": "'Duplicate' là thuật ngữ chính xác để chỉ một bản sao y hệt bản gốc, đặc biệt là trong văn bản, tài liệu."
+    },
+    {
+      "id": "d04_q43",
+      "type": "distinction",
+      "questionText": "Câu nào sau đây sử dụng 'on the contrary' đúng nhất?",
+      "options": [
+        "The report was not bad; on the contrary, it was quite good.",
+        "He presented evidence on the contrary.",
+        "She acted on the contrary to my wishes.",
+        "All rules on the contrary are now void."
+      ],
+      "correctAnswer": "The report was not bad; on the contrary, it was quite good.",
+      "wordReference": "contrary",
+      "explanation": "'On the contrary' được dùng để giới thiệu một mệnh đề phủ định lại hoặc trái ngược hoàn toàn với mệnh đề trước. 'To the contrary' thường dùng để bổ nghĩa cho một danh từ (ví dụ: evidence to the contrary)."
+    },
+    {
+      "id": "d04_q44",
+      "type": "fill_in_the_blank",
+      "questionText": "Shareholders found reports of the CEO's incompetence ___.",
+      "options": [
+        "disturbed",
+        "disturbing",
+        "disturbance",
+        "disturbs"
+      ],
+      "correctAnswer": "disturbing",
+      "wordReference": "disturbing",
+      "explanation": "Ở đây chúng ta cần một tính từ để mô tả 'reports'. 'Disturbing' (gây lo ngại, gây nhiễu loạn) là tính từ chủ động, mô tả bản chất của sự việc."
+    },
+    {
+      "id": "d04_q45",
+      "type": "grammar_usage",
+      "questionText": "Each worker was engaged ___ at least two projects. Chọn giới từ đúng.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "in"
+      ],
+      "correctAnswer": "in",
+      "wordReference": "engage",
+      "explanation": "Cấu trúc 'be engaged in something' được sử dụng để diễn tả việc tham gia hoặc liên quan đến một hoạt động, dự án nào đó."
+    }
+  ]
+}

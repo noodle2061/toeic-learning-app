@@ -1,0 +1,1538 @@
+{
+  "unitId": "day04",
+  "title": "BÍ QUYẾT KINH DOANH - Công việc văn phòng (2)",
+  "topic": "Công việc văn phòng",
+  "coreVocab": [
+    {
+      "word": "lax",
+      "pronunciation": {
+        "uk": "læks",
+        "us": "læks"
+      },
+      "type": "adj",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "không cẩn thận, không chú ý, thiếu nghiêm túc"
+        }
+      ],
+      "examples": [
+        {
+          "en": "As of late, the staff has been rather lax in turning in reports.",
+          "vi": "Gần đây, các nhân viên có phần hơi thiếu nghiêm túc trong việc nộp báo cáo."
+        }
+      ],
+      "derivatives": [],
+      "notes": "Đồng nghĩa: negligent (cẩu thả).",
+      "tags": [
+        "office work",
+        "attribute"
+      ]
+    },
+    {
+      "word": "procrastinate",
+      "pronunciation": {
+        "uk": "prəˈkræstɪneɪt",
+        "us": "prəˈkræstɪneɪt"
+      },
+      "type": "v",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "trì hoãn, chần chừ"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Mr. Jones procrastinated with his fund request and missed the deadline.",
+          "vi": "Ông Jones trì hoãn việc yêu cầu cấp kinh phí của mình và đã bỏ lỡ thời hạn."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "procrastination",
+          "type": "n",
+          "meaning": "sự trì hoãn"
+        }
+      ],
+      "notes": "Trái nghĩa: hurry, hasten (nhanh).",
+      "tags": [
+        "office work",
+        "action"
+      ]
+    },
+    {
+      "word": "combined",
+      "pronunciation": {
+        "uk": "kəmˈbaɪnd",
+        "us": "kəmˈbaɪnd"
+      },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "được kết hợp, chung, tổng hợp"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Retail Specialists employs professionals with a combined experience of 30 years in sales.",
+          "vi": "Công ty Retail Specialists đã thuê những người chuyên nghiệp với 30 năm kinh nghiệm tổng hợp trong ngành bán hàng."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "combine",
+          "type": "v",
+          "meaning": "kết hợp"
+        },
+        {
+          "word": "combination",
+          "type": "n",
+          "meaning": "sự kết hợp"
+        }
+      ],
+      "notes": "Đồng nghĩa: joint (chung, được ghép lại, nối lại). Cụm từ thường gặp: combined experience (kinh nghiệm tổng hợp), combined efforts (nỗ lực chung). Khi 'combined' kết hợp cùng các từ như experience, efforts sẽ tạo thành danh từ mang nghĩa tích cực chỉ sự tăng lên, tiến triển.",
+      "tags": [
+        "office work",
+        "attribute"
+      ]
+    },
+    {
+      "word": "accomplish",
+      "pronunciation": {
+        "uk": "əˈkʌmplɪʃ",
+        "us": "əˈkɑːmplɪʃ"
+      },
+      "type": "v",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "hoàn thành, làm xong, đạt được, có đủ tài năng"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Careful planning is essential for accomplishing goals.",
+          "vi": "Lập kế hoạch cẩn thận rất cần thiết cho việc hoàn thành mục tiêu."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "accomplishment",
+          "type": "n",
+          "meaning": "sự hoàn thành"
+        },
+        {
+          "word": "accomplished",
+          "type": "adj",
+          "meaning": "đã hoàn thành, trọn vẹn"
+        }
+      ],
+      "notes": "Đồng nghĩa: achieve, fulfill (đạt được, làm trọn vẹn). Cụm từ thường gặp: accomplished author (tác giả tài năng). 'accomplished' thường đi cùng với các danh từ chỉ nghề nghiệp như author, writer.",
+      "tags": [
+        "office work",
+        "action"
+      ]
+    },
+    {
+      "word": "voluntarily",
+      "pronunciation": {
+        "uk": "ˌvɒlənˈterəli",
+        "us": "ˌvɑːlənˈterəli"
+      },
+      "type": "adv",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "tự nguyện, tình nguyện"
+        }
+      ],
+      "examples": [
+        {
+          "en": "He voluntarily took on the challenging assignment in order to gain experience.",
+          "vi": "Anh ấy tình nguyện đảm nhiệm công việc đầy thách thức để lấy kinh nghiệm."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "voluntary",
+          "type": "adj",
+          "meaning": "tự nguyện"
+        },
+        {
+          "word": "volunteer",
+          "type": "n",
+          "meaning": "tình nguyện viên"
+        }
+      ],
+      "notes": "Trái nghĩa: grudgingly (miễn cưỡng).",
+      "tags": [
+        "office work",
+        "action"
+      ]
+    },
+    {
+      "word": "undertake",
+      "pronunciation": {
+        "uk": "ˌʌndəˈteɪk",
+        "us": "ˌʌndərˈteɪk"
+      },
+      "type": "v",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "đảm nhận, tiếp quản"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She had to undertake the task on short notice.",
+          "vi": "Cô ấy phải tiếp quản nhiệm vụ đó khá gấp gáp."
+        }
+      ],
+      "derivatives": [],
+      "notes": "",
+      "tags": [
+        "office work",
+        "action"
+      ]
+    },
+    {
+      "word": "assume",
+      "pronunciation": {
+        "uk": "əˈsjuːm",
+        "us": "əˈsuːm"
+      },
+      "type": "v",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "cho rằng, giả sử (là đúng); đảm đương, gánh vác"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The management assumes employees are satisfied.",
+          "vi": "Ban quản lý cho rằng các nhân viên đều hài lòng."
+        },
+        {
+          "en": "The marketing department will assume responsibility for the project.",
+          "vi": "Bộ phận tiếp thị sẽ gánh vác trách nhiệm của dự án đó."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "assumption",
+          "type": "n",
+          "meaning": "sự giả định"
+        }
+      ],
+      "notes": "Đồng nghĩa: presume (cho là, coi như là); take on, undertake (đảm nhiệm, gánh vác). Khi 'assume' mang nghĩa 'giả sử', có thể thay bằng 'presume'. Khi mang nghĩa 'đảm nhận', có thể thay bằng 'take on', 'undertake'.",
+      "tags": [
+        "office work",
+        "action",
+        "responsibility"
+      ]
+    },
+    {
+      "word": "occasionally",
+      "pronunciation": {
+        "uk": "əˈkeɪʒənəli",
+        "us": "əˈkeɪʒənəli"
+      },
+      "type": "adv",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "thỉnh thoảng, đôi khi"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Staff should occasionally take time to relax so they do not get tired.",
+          "vi": "Thỉnh thoảng các nhân viên nên dành thời gian thư giãn để không bị mệt mỏi."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "occasion",
+          "type": "n",
+          "meaning": "dịp"
+        },
+        {
+          "word": "occasional",
+          "type": "adj",
+          "meaning": "thỉnh thoảng"
+        }
+      ],
+      "notes": "",
+      "tags": [
+        "office work",
+        "frequency"
+      ]
+    },
+    {
+      "word": "employee",
+      "pronunciation": {
+        "uk": "ɪmˈplɔɪiː",
+        "us": "ɪmˈplɔɪiː"
+      },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "nhân viên, người lao động"
+        }
+      ],
+      "examples": [
+        {
+          "en": "There are only three employees working under Ms. Anderson.",
+          "vi": "Chỉ có ba nhân viên làm việc dưới quyền cô Anderson."
+        }
+      ],
+      "derivatives": [],
+      "notes": "",
+      "tags": [
+        "office work",
+        "people"
+      ]
+    },
+    {
+      "word": "assist",
+      "pronunciation": {
+        "uk": "əˈsɪst",
+        "us": "əˈsɪst"
+      },
+      "type": "v",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "trợ giúp, hỗ trợ"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A staff member assisted with preparations for the conference.",
+          "vi": "Một nhân viên đã hỗ trợ việc chuẩn bị cho hội nghị."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "assistant",
+          "type": "n",
+          "meaning": "trợ lý"
+        },
+        {
+          "word": "assistance",
+          "type": "n",
+          "meaning": "sự giúp đỡ"
+        }
+      ],
+      "notes": "Cụm từ thường gặp: assist with (hỗ trợ việc gì).",
+      "tags": [
+        "office work",
+        "action"
+      ]
+    },
+    {
+      "word": "satisfied",
+      "pronunciation": {
+        "uk": "ˈsætɪsfaɪd",
+        "us": "ˈsætɪsfaɪd"
+      },
+      "type": "adj",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "hài lòng, thỏa mãn"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Not everyone was satisfied with changes to the overtime policy.",
+          "vi": "Không phải ai cũng thấy hài lòng với những thay đổi trong chính sách làm thêm giờ."
+        }
+      ],
+      "derivatives": [],
+      "notes": "Cụm từ thường gặp: be satisfied with (hài lòng với).",
+      "tags": [
+        "office work",
+        "attribute"
+      ]
+    },
+    {
+      "word": "manner",
+      "pronunciation": {
+        "uk": "ˈmænə(r)",
+        "us": "ˈmænər"
+      },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "cách, lối; thái độ, cử chỉ"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Sean was annoyed by the manner in which his boss gave him orders.",
+          "vi": "Sean thấy bực mình với cái cách mà ông chủ ra lệnh cho anh ấy."
+        }
+      ],
+      "derivatives": [],
+      "notes": "",
+      "tags": [
+        "office work",
+        "behavior"
+      ]
+    },
+    {
+      "word": "responsible",
+      "pronunciation": {
+        "uk": "rɪˈspɒnsəbl",
+        "us": "rɪˈspɑːnsəbl"
+      },
+      "type": "adj",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "có trách nhiệm, chịu trách nhiệm về"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Businesses are responsible for ensuring customer satisfaction.",
+          "vi": "Các doanh nghiệp có trách nhiệm đảm bảo sự hài lòng của khách hàng."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "responsibility",
+          "type": "n",
+          "meaning": "trách nhiệm"
+        }
+      ],
+      "notes": "Cụm từ thường gặp: be responsible for (chịu trách nhiệm về), hold A responsible for B (bắt A chịu trách nhiệm cho B). Phân biệt từ dễ nhầm lẫn: 'responsible' (có trách nhiệm) và 'responsive' (phản ứng nhanh, đáp lại nhiệt tình).",
+      "tags": [
+        "office work",
+        "attribute",
+        "responsibility"
+      ]
+    },
+    {
+      "word": "conduct",
+      "pronunciation": {
+        "uk": "kənˈdʌkt",
+        "us": "kənˈdʌkt"
+      },
+      "type": "v, n",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "(v) tiến hành, chỉ đạo, điều khiển; (n) sự thi hành"
+        }
+      ],
+      "examples": [
+        {
+          "en": "IJMR Ltd.'s technology department will conduct the research study.",
+          "vi": "Bộ phận công nghệ của công ty IJMR sẽ tiến hành nghiên cứu này."
+        }
+      ],
+      "derivatives": [],
+      "notes": "Đồng nghĩa: carry out, perform (thi hành, thực hiện). Cụm từ thường gặp: conduct an inspection (tiến hành kiểm tra), conduct a seminar (tổ chức hội thảo), conduct a research study (thực hiện điều tra nghiên cứu). 'conduct' thường đi cùng với các danh từ mang nghĩa 'kiểm tra, nghiên cứu'.",
+      "tags": [
+        "office work",
+        "action"
+      ]
+    },
+    {
+      "word": "adjust",
+      "pronunciation": {
+        "uk": "əˈdʒʌst",
+        "us": "əˈdʒʌst"
+      },
+      "type": "v",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "điều chỉnh, làm cho thích hợp"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The employees quickly adjusted to the new e-mail system.",
+          "vi": "Các nhân viên đã nhanh chóng thích ứng với hệ thống thư điện tử mới."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "adjustment",
+          "type": "n",
+          "meaning": "sự điều chỉnh"
+        },
+        {
+          "word": "adjustable",
+          "type": "adj",
+          "meaning": "có thể điều chỉnh được"
+        }
+      ],
+      "notes": "Đồng nghĩa: adapt (sửa lại cho phù hợp). Cụm từ thường gặp: adjust to (thích ứng với), adjust A to B (làm cho A phù hợp với B). Khi được dùng với nghĩa chỉ sự thích ứng với thay đổi, 'adjust' có thể thay bằng 'adapt'.",
+      "tags": [
+        "office work",
+        "action"
+      ]
+    },
+    {
+      "word": "personnel",
+      "pronunciation": {
+        "uk": "ˌpɜːsəˈnel",
+        "us": "ˌpɜːrsəˈnel"
+      },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "nhân viên, công chức"
+        }
+      ],
+      "examples": [
+        {
+          "en": "We often use an agency to find reliable temporary personnel.",
+          "vi": "Chúng tôi thường sử dụng công ty môi giới để tìm những nhân viên thời vụ đáng tin cậy."
+        }
+      ],
+      "derivatives": [],
+      "notes": "Cụm từ thường gặp: sales personnel (nhân viên bán hàng). 'personnel' thường kết hợp với danh từ chỉ các bộ phận trong công ty để tạo thành danh từ ghép.",
+      "tags": [
+        "office work",
+        "people"
+      ]
+    },
+    {
+      "word": "agree",
+      "pronunciation": {
+        "uk": "əˈɡriː",
+        "us": "əˈɡriː"
+      },
+      "type": "v",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "đồng ý"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The team agreed on the recommendations of the advisor.",
+          "vi": "Nhóm đã đồng ý với những đề xuất của người cố vấn."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "agreement",
+          "type": "n",
+          "meaning": "sự đồng thuận, thỏa thuận"
+        }
+      ],
+      "notes": "Cách dùng giới từ: agree on + ý kiến (đồng ý, nhất trí với ý kiến); agree to + phương án, điều kiện (tán thành phương án/điều kiện); agree + to verb (đồng ý làm gì); agree with + người (đồng ý với ai).",
+      "tags": [
+        "office work",
+        "action",
+        "communication"
+      ]
+    },
+    {
+      "word": "supervise",
+      "pronunciation": {
+        "uk": "ˈsuːpəvaɪz",
+        "us": "ˈsuːpərvaɪz"
+      },
+      "type": "v",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "giám sát"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Ms. Wilson supervises the employees in sector B.",
+          "vi": "Cô Wilson giám sát các nhân viên ở khu vực B."
+        }
+      ],
+      "derivatives": [],
+      "notes": "",
+      "tags": [
+        "office work",
+        "action",
+        "management"
+      ]
+    },
+    {
+      "word": "coworker",
+      "pronunciation": {
+        "uk": "ˈkəʊwɜːkə(r)",
+        "us": "ˈkoʊwɜːrkər"
+      },
+      "type": "n",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "đồng nghiệp"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Coworkers who live near each other often travel to work together.",
+          "vi": "Những đồng nghiệp sống gần nhau thường đi làm cùng nhau."
+        }
+      ],
+      "derivatives": [],
+      "notes": "",
+      "tags": [
+        "office work",
+        "people"
+      ]
+    },
+    {
+      "word": "direct",
+      "pronunciation": {
+        "uk": "dɪˈrekt",
+        "us": "daɪˈrekt"
+      },
+      "type": "v",
+      "frequency": 3,
+      "meanings": [
+        {
+          "vi": "hướng dẫn, chỉ đạo"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The receptionist directs new employees to the auditorium where orientation will be held.",
+          "vi": "Nhân viên lễ tân hướng dẫn các nhân viên mới tới hội trường nơi buổi định hướng sẽ được tổ chức."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "direction",
+          "type": "n",
+          "meaning": "sự chỉ dẫn, chỉ thị"
+        },
+        {
+          "word": "director",
+          "type": "n",
+          "meaning": "người hướng dẫn, giám đốc"
+        },
+        {
+          "word": "directly",
+          "type": "adv",
+          "meaning": "trực tiếp"
+        }
+      ],
+      "notes": "Cụm từ thường gặp: direct A to B (hướng dẫn A tới B).",
+      "tags": [
+        "office work",
+        "action",
+        "communication"
+      ]
+    },
+    {
+      "word": "confidential",
+      "pronunciation": {
+        "uk": "ˌkɒnfɪˈdenʃl",
+        "us": "ˌkɑːnfɪˈdenʃl"
+      },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "bí mật, cẩn mật, tuyệt mật"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Internal documents must be kept confidential.",
+          "vi": "Tài liệu nội bộ phải được giữ bí mật."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "confidentiality",
+          "type": "n",
+          "meaning": "sự cẩn mật"
+        },
+        {
+          "word": "confidentially",
+          "type": "adv",
+          "meaning": "một cách cẩn mật"
+        }
+      ],
+      "notes": "Đồng nghĩa: classified, secret (bí mật, kín đáo). Khi nói về bí mật liên quan đến chính phủ, tài liệu, có thể sử dụng classified, secret thay cho confidential.",
+      "tags": [
+        "office work",
+        "attribute",
+        "information"
+      ]
+    },
+    {
+      "word": "assign",
+      "pronunciation": {
+        "uk": "əˈsaɪn",
+        "us": "əˈsaɪn"
+      },
+      "type": "v",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "phân công, bổ nhiệm"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The office manager assigned desks to the new recruits.",
+          "vi": "Người quản lý văn phòng đã phân bàn làm việc cho các nhân viên mới."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "assigned",
+          "type": "adj",
+          "meaning": "được giao"
+        },
+        {
+          "word": "assignment",
+          "type": "n",
+          "meaning": "nhiệm vụ"
+        }
+      ],
+      "notes": "",
+      "tags": [
+        "office work",
+        "action",
+        "management"
+      ]
+    },
+    {
+      "word": "leading",
+      "pronunciation": {
+        "uk": "ˈliːdɪŋ",
+        "us": "ˈliːdɪŋ"
+      },
+      "type": "adj, n",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "(adj) dẫn đầu, tiên phong, hàng đầu; (n) sự chỉ đạo"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Shepherd Inc. is a leading exporter in the wood furniture industry.",
+          "vi": "Tập đoàn Shepherd là công ty xuất khẩu hàng đầu trong mảng đồ gỗ nội thất."
+        }
+      ],
+      "derivatives": [],
+      "notes": "Cụm từ thường gặp: leading company (công ty hàng đầu).",
+      "tags": [
+        "office work",
+        "attribute",
+        "business"
+      ]
+    },
+    {
+      "word": "formal",
+      "pronunciation": {
+        "uk": "ˈfɔːml",
+        "us": "ˈfɔːrml"
+      },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "trang trọng, chính thức"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The awards ceremony requires wearing formal business attire.",
+          "vi": "Buổi lễ trao giải yêu cầu phải mặc trang phục trang trọng."
+        }
+      ],
+      "derivatives": [],
+      "notes": "",
+      "tags": [
+        "office work",
+        "attribute",
+        "event"
+      ]
+    },
+    {
+      "word": "remove",
+      "pronunciation": {
+        "uk": "rɪˈmuːv",
+        "us": "rɪˈmuːv"
+      },
+      "type": "v",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "xóa, dẹp; đuổi, cách chức"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The vice president was removed from his position because of a scandal.",
+          "vi": "Ông phó chủ tịch đã bị cách chức khỏi vị trí của mình."
+        }
+      ],
+      "derivatives": [],
+      "notes": "Cụm từ thường gặp: remove A from B (cách chức/xóa bỏ/dọn A khỏi B).",
+      "tags": [
+        "office work",
+        "action"
+      ]
+    },
+    {
+      "word": "collect",
+      "pronunciation": {
+        "uk": "kəˈlekt",
+        "us": "kəˈlekt"
+      },
+      "type": "v",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "thu thập, tập hợp"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The author collected management ideas from around the world for his book.",
+          "vi": "Tác giả đã tập hợp các ý tưởng về quản lý từ khắp nơi trên thế giới cho cuốn sách của mình."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "collective",
+          "type": "adj",
+          "meaning": "tập thể, chung"
+        }
+      ],
+      "notes": "",
+      "tags": [
+        "office work",
+        "action"
+      ]
+    },
+    {
+      "word": "coordinate",
+      "pronunciation": {
+        "uk": "kəʊˈɔːdɪneɪt",
+        "us": "kəʊˈɔːrdɪneɪt"
+      },
+      "type": "v",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "điều phối, kết hợp"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The Chicago office coordinated the planning process.",
+          "vi": "Văn phòng ở Chicago đã điều phối quá trình lên kế hoạch."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "coordinator",
+          "type": "n",
+          "meaning": "điều phối viên, người phụ trách"
+        },
+        {
+          "word": "coordination",
+          "type": "n",
+          "meaning": "sự phối hợp"
+        }
+      ],
+      "notes": "",
+      "tags": [
+        "office work",
+        "action",
+        "management"
+      ]
+    },
+    {
+      "word": "hardly",
+      "pronunciation": {
+        "uk": "ˈhɑːdli",
+        "us": "ˈhɑːrdli"
+      },
+      "type": "adv",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "hiếm khi, khó khăn, hầu như không"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She was hardly ever late for her shift.",
+          "vi": "Cô ấy hiếm khi trễ ca làm."
+        }
+      ],
+      "derivatives": [],
+      "notes": "Cụm từ thường gặp: hardly ever (hiếm khi, hầu như không). Phân biệt từ dễ nhầm lẫn: 'hardly' (gần như không, hiếm khi) và 'hard' (chăm chỉ, cứng).",
+      "tags": [
+        "office work",
+        "frequency"
+      ]
+    },
+    {
+      "word": "abstract",
+      "pronunciation": {
+        "uk": "ˈæbstrækt",
+        "us": "ˈæbstrækt"
+      },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "trừu tượng, mơ hồ"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Copland spent thousands of dollars on an abstract painting for the lobby.",
+          "vi": "Copland đã chi hàng nghìn đô la cho một bức tranh trừu tượng để treo ở tiền sảnh."
+        },
+        {
+          "en": "Ideals such as loyalty may seem abstract, so employees need specific examples.",
+          "vi": "Những lý tưởng như lòng trung thành có vẻ mơ hồ, vì vậy các nhân viên cần có những ví dụ cụ thể."
+        }
+      ],
+      "derivatives": [],
+      "notes": "",
+      "tags": [
+        "office work",
+        "attribute",
+        "concept"
+      ]
+    },
+    {
+      "word": "directory",
+      "pronunciation": {
+        "uk": "dɪˈrektəri",
+        "us": "daɪˈrektəri"
+      },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "danh bạ, số địa chỉ"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The company directory shows where the marketing department is.",
+          "vi": "Danh bạ của công ty sẽ cho biết phòng tiếp thị nằm ở đâu."
+        }
+      ],
+      "derivatives": [],
+      "notes": "",
+      "tags": [
+        "office work",
+        "document",
+        "information"
+      ]
+    },
+    {
+      "word": "accountable",
+      "pronunciation": {
+        "uk": "əˈkaʊntəbl",
+        "us": "əˈkaʊntəbl"
+      },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "chịu trách nhiệm, có thể giải thích được"
+        }
+      ],
+      "examples": [
+        {
+          "en": "All employees are accountable for the duties they have been assigned to complete.",
+          "vi": "Mọi nhân viên phải chịu trách nhiệm cho các nhiệm vụ mà họ được giao để hoàn thành."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "accountability",
+          "type": "n",
+          "meaning": "trách nhiệm giải trình"
+        }
+      ],
+      "notes": "Cụm từ thường gặp: be accountable for A (chịu trách nhiệm về A), hold A accountable for B (bắt A chịu trách nhiệm về B), be accountable to A (có trách nhiệm với A).",
+      "tags": [
+        "office work",
+        "attribute",
+        "responsibility"
+      ]
+    },
+    {
+      "word": "skillfully",
+      "pronunciation": {
+        "uk": "ˈskɪlfəli",
+        "us": "ˈskɪlfəli"
+      },
+      "type": "adv",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "thành thạo, khéo léo"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Brenda skillfully edited the report to fit on one page.",
+          "vi": "Brenda đã khéo léo chỉnh sửa bản báo cáo cho vừa một trang giấy."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "skillful",
+          "type": "adj",
+          "meaning": "đầy kỹ năng, thành thạo"
+        }
+      ],
+      "notes": "",
+      "tags": [
+        "office work",
+        "skill"
+      ]
+    },
+    {
+      "word": "exclusive",
+      "pronunciation": {
+        "uk": "ɪkˈskluːsɪv",
+        "us": "ɪkˈskluːsɪv"
+      },
+      "type": "adj",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "riêng biệt, độc quyền"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Delegates with special passes have exclusive access to a tour of the facilities.",
+          "vi": "Các đại biểu có thẻ đặc biệt sẽ được tham gia riêng một chuyến tham quan thực địa."
+        }
+      ],
+      "derivatives": [],
+      "notes": "",
+      "tags": [
+        "office work",
+        "attribute",
+        "access"
+      ]
+    },
+    {
+      "word": "intention",
+      "pronunciation": {
+        "uk": "ɪnˈtenʃn",
+        "us": "ɪnˈtenʃn"
+      },
+      "type": "n",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "ý định, mục đích, ý muốn"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She had every intention of attending the conference, but could not.",
+          "vi": "Cô ấy có ý định tham dự hội thảo nhưng lại không thể."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "intent",
+          "type": "n",
+          "meaning": "ý định, mục đích"
+        },
+        {
+          "word": "intend",
+          "type": "v",
+          "meaning": "dự định"
+        },
+        {
+          "word": "intentional",
+          "type": "adj",
+          "meaning": "cố ý, có chủ ý"
+        },
+        {
+          "word": "intently",
+          "type": "adv",
+          "meaning": "chăm chú"
+        }
+      ],
+      "notes": "Cụm từ thường gặp: have every intention of -ing (nhất định phải làm gì). Phân biệt từ dễ nhầm lẫn: 'intention' (ý muốn, ý định - đếm được, thường dùng dạng intention of -ing / to do) và 'intent' (ý muốn, ý định - không đếm được, thường dùng dạng intent to do).",
+      "tags": [
+        "office work",
+        "concept"
+      ]
+    },
+    {
+      "word": "transform",
+      "pronunciation": {
+        "uk": "trænsˈfɔːm",
+        "us": "trænsˈfɔːrm"
+      },
+      "type": "v",
+      "frequency": 2,
+      "meanings": [
+        {
+          "vi": "biến đổi, thay đổi"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Computerization has transformed the way companies do business.",
+          "vi": "Vi tính hóa đã thay đổi cách các công ty làm việc."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "transformation",
+          "type": "n",
+          "meaning": "sự biến đổi"
+        }
+      ],
+      "notes": "",
+      "tags": [
+        "office work",
+        "action",
+        "change"
+      ]
+    },
+    {
+      "word": "respectful",
+      "pronunciation": {
+        "uk": "rɪˈspektfl",
+        "us": "rɪˈspektfl"
+      },
+      "type": "adj",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "tôn trọng, lễ phép, kính cẩn"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Sales clerks are reminded to be respectful to all clients.",
+          "vi": "Các nhân viên bán hàng được nhắc nhở phải tôn trọng tất cả khách hàng."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "respect",
+          "type": "v",
+          "meaning": "tôn trọng, đánh giá cao"
+        },
+        {
+          "word": "respectfully",
+          "type": "adv",
+          "meaning": "một cách kính cẩn"
+        },
+        {
+          "word": "respectable",
+          "type": "adj",
+          "meaning": "đáng kính"
+        }
+      ],
+      "notes": "Cụm từ thường gặp: respect for (tôn trọng vì), with respect (với sự tôn trọng).",
+      "tags": [
+        "office work",
+        "attribute",
+        "behavior"
+      ]
+    },
+    {
+      "word": "duplicate",
+      "pronunciation": {
+        "uk": "ˈdjuːplɪkət",
+        "us": "ˈduːplɪkət"
+      },
+      "type": "n",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "bản sao"
+        }
+      ],
+      "examples": [
+        {
+          "en": "A duplicate of each contract is kept in the company records.",
+          "vi": "Bản sao của mỗi hợp đồng được lưu trữ trong tài liệu hồ sơ của công ty."
+        }
+      ],
+      "derivatives": [],
+      "notes": "Đồng nghĩa: copy (bản sao). Trái nghĩa: original (nguyên bản). Cụm từ thường gặp: in duplicate (nhân đôi), make duplicates of (sao chép lại cái gì).",
+      "tags": [
+        "office work",
+        "document"
+      ]
+    },
+    {
+      "word": "contrary",
+      "pronunciation": {
+        "uk": "ˈkɒntrəri",
+        "us": "ˈkɑːntreri"
+      },
+      "type": "n",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "sự trái ngược, điều ngược lại"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Techworld is in financial trouble, despite claims to the contrary.",
+          "vi": "Techworld đang gặp khó khăn về tài chính mặc dù họ tuyên bố điều ngược lại."
+        }
+      ],
+      "derivatives": [],
+      "notes": "Cụm từ thường gặp: evidence to the contrary (bằng chứng chứng minh điều ngược lại), on the contrary (trái lại, ngược lại). 'to the contrary' thường bổ nghĩa cho danh từ đứng trước. 'on the contrary' dùng để chỉ nội dung trái ngược giữa hai câu.",
+      "tags": [
+        "office work",
+        "concept",
+        "communication"
+      ]
+    },
+    {
+      "word": "disturbing",
+      "pronunciation": {
+        "uk": "dɪˈstɜːbɪŋ",
+        "us": "dɪˈstɜːrbɪŋ"
+      },
+      "type": "adj",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "làm nhiễu loạn, làm xáo trộn"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Shareholders found reports of the CEO's incompetence disturbing.",
+          "vi": "Các cổ đông nhận thấy những báo cáo về sự kém cỏi của vị giám đốc điều hành thật gây nhiễu loạn."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "disturb",
+          "type": "v",
+          "meaning": "làm phiền"
+        },
+        {
+          "word": "disturbance",
+          "type": "n",
+          "meaning": "sự làm phiền"
+        }
+      ],
+      "notes": "",
+      "tags": [
+        "office work",
+        "attribute"
+      ]
+    },
+    {
+      "word": "engage",
+      "pronunciation": {
+        "uk": "ɪnˈɡeɪdʒ",
+        "us": "ɪnˈɡeɪdʒ"
+      },
+      "type": "v",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "tham gia, cam kết, thu hút"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Each worker was engaged in at least two projects.",
+          "vi": "Mỗi công nhân đều được tham gia vào ít nhất hai dự án."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "engagement",
+          "type": "n",
+          "meaning": "sự hứa hẹn, sự cam kết"
+        },
+        {
+          "word": "engaging",
+          "type": "adj",
+          "meaning": "cuốn hút, duyên dáng"
+        }
+      ],
+      "notes": "Cụm từ thường gặp: engage in (tham gia vào). 'engage in' là nội động từ, 'be engaged in' là ngoại động từ.",
+      "tags": [
+        "office work",
+        "action"
+      ]
+    },
+    {
+      "word": "foster",
+      "pronunciation": {
+        "uk": "ˈfɒstə(r)",
+        "us": "ˈfɔːstər"
+      },
+      "type": "v",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "thúc đẩy, bồi dưỡng, bồi đắp"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Staff dinners helped foster better work relations.",
+          "vi": "Những bữa tối giữa các nhân viên đã giúp bồi đắp mối quan hệ tốt hơn trong công việc."
+        }
+      ],
+      "derivatives": [],
+      "notes": "Phân biệt từ dễ nhầm lẫn: 'foster' (xúc tiến, bồi dưỡng - phát triển về quan hệ, sự kiện) và 'enlarge' (mở rộng - phát triển một sự vật lớn hơn).",
+      "tags": [
+        "office work",
+        "action",
+        "development"
+      ]
+    },
+    {
+      "word": "neutrality",
+      "pronunciation": {
+        "uk": "njuːˈtræləti",
+        "us": "nuːˈtræləti"
+      },
+      "type": "n",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "tính chất trung lập, thái độ trung lập"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Managers must display complete neutrality in disagreements between employees.",
+          "vi": "Người quản lý phải giữ thái độ hoàn toàn trung lập trong những cuộc tranh cãi giữa các nhân viên."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "neutral",
+          "type": "adj, n",
+          "meaning": "trung lập"
+        },
+        {
+          "word": "neutrally",
+          "type": "adv",
+          "meaning": "một cách trung lập"
+        }
+      ],
+      "notes": "",
+      "tags": [
+        "office work",
+        "attribute",
+        "behavior"
+      ]
+    },
+    {
+      "word": "widely",
+      "pronunciation": {
+        "uk": "ˈwaɪdli",
+        "us": "ˈwaɪdli"
+      },
+      "type": "adv",
+      "frequency": 1,
+      "meanings": [
+        {
+          "vi": "rộng, nhiều, xa"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Ben Hurley is a widely admired business leader.",
+          "vi": "Ben Hurley là một nhà điều hành doanh nghiệp được nhiều người ngưỡng mộ."
+        }
+      ],
+      "derivatives": [
+        {
+          "word": "wide",
+          "type": "adj",
+          "meaning": "rộng"
+        },
+        {
+          "word": "width",
+          "type": "n",
+          "meaning": "bề rộng"
+        },
+        {
+          "word": "widen",
+          "type": "v",
+          "meaning": "mở rộng"
+        }
+      ],
+      "notes": "Cụm từ thường gặp: be widely advertised (được quảng cáo rộng rãi), widely admired (được nhiều người ngưỡng mộ), a wide range of (một loạt, đa dạng).",
+      "tags": [
+        "office work",
+        "extent"
+      ]
+    }
+  ],
+  "additionalVocab": {
+    "basic": [
+      {"word": "bookcase", "type": "n", "meaning": "kệ sách, tủ sách"},
+      {"word": "bookshelf", "type": "n", "meaning": "giá sách"},
+      {"word": "case", "type": "n", "meaning": "ca, trường hợp"},
+      {"word": "central office", "type": "phr", "meaning": "văn phòng trung tâm"},
+      {"word": "copy machine", "type": "phr", "meaning": "máy photocopy"},
+      {"word": "fax", "type": "n", "meaning": "máy fax"},
+      {"word": "file folder", "type": "phr", "meaning": "thư mục, tập tin"},
+      {"word": "greet", "type": "v", "meaning": "chào hỏi"},
+      {"word": "handwriting", "type": "n", "meaning": "chữ viết tay"},
+      {"word": "keypad", "type": "n", "meaning": "bàn phím"},
+      {"word": "knife", "type": "n", "meaning": "con dao"},
+      {"word": "log on to", "type": "phr", "meaning": "đăng nhập vào"},
+      {"word": "online", "type": "adj", "meaning": "trực tuyến, trên mạng"},
+      {"word": "photocopier", "type": "n", "meaning": "máy photocopy"},
+      {"word": "photocopy", "type": "n, v", "meaning": "bản sao; sao chép"},
+      {"word": "print out", "type": "phr", "meaning": "in ra"},
+      {"word": "right away", "type": "phr", "meaning": "ngay, ngay lập tức"},
+      {"word": "spell", "type": "v", "meaning": "đánh vần, đọc chính tả"},
+      {"word": "wrap", "type": "v", "meaning": "bọc"},
+      {"word": "fold", "type": "v", "meaning": "gấp"},
+      {"word": "least", "type": "adj", "meaning": "ít nhất, nhỏ nhất"},
+      {"word": "paper", "type": "n", "meaning": "giấy"},
+      {"word": "planning", "type": "n", "meaning": "việc lập kế hoạch"},
+      {"word": "post", "type": "v", "meaning": "đăng lên, dán lên; gửi thư"},
+      {"word": "press the button", "type": "phr", "meaning": "nhấn nút"},
+      {"word": "server", "type": "n", "meaning": "người phục vụ, máy chủ"},
+      {"word": "store opening", "type": "phr", "meaning": "khai trương cửa hàng"},
+      {"word": "task", "type": "n", "meaning": "nhiệm vụ"}
+    ],
+    "level800": [
+      {"word": "be satisfied with", "type": "phr", "meaning": "hài lòng với"},
+      {"word": "be seated", "type": "phr", "meaning": "được xếp chỗ"},
+      {"word": "be surrounded by", "type": "phr", "meaning": "được bao quanh bởi"},
+      {"word": "business contacts", "type": "phr", "meaning": "liên hệ công việc"},
+      {"word": "chairperson", "type": "n", "meaning": "chủ tịch"},
+      {"word": "copy editor", "type": "phr", "meaning": "biên tập viên bản thảo"},
+      {"word": "deep end", "type": "phr", "meaning": "tận cùng"},
+      {"word": "double-sided", "type": "adj", "meaning": "hai mặt"},
+      {"word": "drawer", "type": "n", "meaning": "ngăn kéo"},
+      {"word": "get one's approval", "type": "phr", "meaning": "nhận được sự chấp thuận của ai đó"},
+      {"word": "halfway", "type": "adv, adj", "meaning": "ở giữa; nửa chừng, nửa vời"},
+      {"word": "hand over", "type": "phr", "meaning": "bàn giao"},
+      {"word": "in a pile", "type": "phr", "meaning": "thành chồng, thành đống"},
+      {"word": "It could have been worse.", "type": "phr", "meaning": "Nó đã có thể tệ hơn."},
+      {"word": "just in time", "type": "phr", "meaning": "vừa kịp giờ"},
+      {"word": "literacy", "type": "n", "meaning": "sự biết đọc, biết viết"},
+      {"word": "litter", "type": "n, v", "meaning": "rác; xả rác"},
+      {"word": "make a selection", "type": "phr", "meaning": "lựa chọn"},
+      {"word": "make room for", "type": "phr", "meaning": "nhường chỗ cho"},
+      {"word": "out of paper", "type": "phr", "meaning": "hết giấy"},
+      {"word": "raise one's hand", "type": "phr", "meaning": "giơ tay"},
+      {"word": "report a problem", "type": "phr", "meaning": "báo lỗi"},
+      {"word": "sort", "type": "n, v", "meaning": "loại; sắp xếp"},
+      {"word": "stationery", "type": "n", "meaning": "văn phòng phẩm"},
+      {"word": "take another look", "type": "phr", "meaning": "nhìn lại một lần nữa"},
+      {"word": "take A out", "type": "phr", "meaning": "đưa A ra"},
+      {"word": "typewriter", "type": "n", "meaning": "máy đánh chữ"},
+      {"word": "work in groups", "type": "phr", "meaning": "làm việc theo nhóm"},
+      {"word": "writing pad", "type": "phr", "meaning": "tập giấy viết, sổ tay"},
+      {"word": "anticipation", "type": "n", "meaning": "sự đoán trước, sự mong đợi"},
+      {"word": "automobile", "type": "n", "meaning": "xe ô tô"},
+      {"word": "be asked to do", "type": "phr", "meaning": "được yêu cầu làm gì"},
+      {"word": "be paid for", "type": "phr", "meaning": "được trả tiền cho"},
+      {"word": "be qualified for", "type": "phr", "meaning": "đủ điều kiện cho"},
+      {"word": "casual", "type": "adj", "meaning": "không chính thức, giản dị"},
+      {"word": "draft", "type": "n, v", "meaning": "phác thảo, dự thảo; dự thảo"},
+      {"word": "draw on", "type": "phr", "meaning": "dựa vào"},
+      {"word": "excuse", "type": "n, v", "meaning": "lý do, lời bào chữa; tha thứ"},
+      {"word": "head office", "type": "phr", "meaning": "trụ sở chính"},
+      {"word": "in anticipation of", "type": "phr", "meaning": "phòng khi"},
+      {"word": "in light of", "type": "phr", "meaning": "bởi vì"},
+      {"word": "instrument", "type": "n", "meaning": "dụng cụ, công cụ, nhạc cụ"},
+      {"word": "popularly", "type": "adv", "meaning": "phổ biến, đại chúng"},
+      {"word": "regarding", "type": "prep", "meaning": "về, đối với"},
+      {"word": "routinely", "type": "adv", "meaning": "thông thường, thường lệ"},
+      {"word": "supplementary", "type": "adj", "meaning": "bổ sung, phụ thêm vào"},
+      {"word": "work overtime", "type": "phr", "meaning": "làm việc ngoài giờ"},
+      {"word": "workplace", "type": "n", "meaning": "nơi làm việc"},
+      {"word": "acting", "type": "adj, n", "meaning": "quyền, thay quyền; sự thủ vai"},
+      {"word": "be full of", "type": "phr", "meaning": "chứa đầy"},
+      {"word": "convert A to B", "type": "phr", "meaning": "chuyển đổi A thành B"},
+      {"word": "count on", "type": "phr", "meaning": "tin vào, trông cậy vào"},
+      {"word": "do one's best", "type": "phr", "meaning": "làm hết sức"},
+      {"word": "fill with", "type": "phr", "meaning": "lấp đầy bởi"},
+      {"word": "get along with", "type": "phr", "meaning": "hòa đồng với"},
+      {"word": "go down the steps", "type": "phr", "meaning": "đi xuống cầu thang"},
+      {"word": "key to success", "type": "phr", "meaning": "chìa khóa dẫn tới thành công"},
+      {"word": "lose one's temper", "type": "phr", "meaning": "tức giận, mất bình tĩnh"},
+      {"word": "make a copy", "type": "phr", "meaning": "sao chép"},
+      {"word": "obsess about", "type": "phr", "meaning": "ám ảnh về"},
+      {"word": "overtime hours", "type": "phr", "meaning": "giờ làm thêm"},
+      {"word": "personal effects", "type": "phr", "meaning": "tài sản cá nhân, đồ dùng cá nhân"},
+      {"word": "reunion", "type": "n", "meaning": "cuộc hội họp, sự hợp nhất"},
+      {"word": "sales representative", "type": "phr", "meaning": "đại diện bán hàng"},
+      {"word": "seamless", "type": "adj", "meaning": "không có rắc rối, suôn sẻ"},
+      {"word": "submit A to B", "type": "phr", "meaning": "gửi A cho B"},
+      {"word": "succeed in -ing", "type": "phr", "meaning": "thành công trong việc gì"},
+      {"word": "time-consuming", "type": "adj", "meaning": "tốn thời gian"}
+    ],
+    "level900": [
+      {"word": "bookkeeping", "type": "n", "meaning": "công việc kế toán"},
+      {"word": "have one's hands full", "type": "phr", "meaning": "rất bận"},
+      {"word": "make an outside call", "type": "phr", "meaning": "gọi điện thoại ra ngoài"},
+      {"word": "motivation", "type": "n", "meaning": "động lực"},
+      {"word": "newly listed", "type": "phr", "meaning": "mới vào danh sách"},
+      {"word": "prioritize", "type": "v", "meaning": "dành ưu tiên"},
+      {"word": "sit in alternate seats", "type": "phr", "meaning": "ngồi kế tiếp nhau"},
+      {"word": "written authorization", "type": "phr", "meaning": "văn bản chấp thuận"},
+      {"word": "written consent", "type": "phr", "meaning": "văn bản thỏa thuận"},
+      {"word": "acquaintance", "type": "n", "meaning": "người quen"},
+      {"word": "dimension", "type": "n", "meaning": "kích thước, cỡ"},
+      {"word": "directive", "type": "adj", "meaning": "chỉ dẫn, hướng dẫn"},
+      {"word": "discerning", "type": "adj", "meaning": "thông minh, có học thức"},
+      {"word": "elegantly", "type": "adv", "meaning": "thanh lịch, tao nhã"},
+      {"word": "expectant", "type": "adj", "meaning": "có tính chất mong chờ"},
+      {"word": "invaluable", "type": "adj", "meaning": "vô giá"},
+      {"word": "propel", "type": "v", "meaning": "đẩy đi"},
+      {"word": "realization", "type": "n", "meaning": "sự thực hiện, sự nhận thức rõ"},
+      {"word": "recline", "type": "v", "meaning": "dựa vào, ngả vào"},
+      {"word": "repository", "type": "n", "meaning": "kho, chỗ chứa"},
+      {"word": "respective", "type": "adj", "meaning": "tương ứng, riêng từng người/vật"},
+      {"word": "spontaneously", "type": "adv", "meaning": "tự ý, tự phát"},
+      {"word": "trivial", "type": "adj", "meaning": "tầm thường, không quan trọng"},
+      {"word": "turn in", "type": "phr", "meaning": "trả lại, nộp lại"},
+      {"word": "ambiance", "type": "n", "meaning": "môi trường, không khí (ở một nơi nào đó)"},
+      {"word": "aspiration", "type": "n", "meaning": "nguyện vọng, khát vọng"},
+      {"word": "creditable", "type": "adj", "meaning": "vẻ vang, đáng khen ngợi"},
+      {"word": "eminent", "type": "adj", "meaning": "xuất sắc, xuất chúng"},
+      {"word": "endeavor", "type": "n", "meaning": "sự nỗ lực, sự cố gắng"},
+      {"word": "entrust A with B", "type": "phr", "meaning": "giao phó B cho A"},
+      {"word": "on edge", "type": "phr", "meaning": "căng thẳng, buồn chán"},
+      {"word": "reach one's full potential", "type": "phr", "meaning": "phát huy tối đa tiềm năng của ai đó"}
+    ]
+  },
+  "exercises": []
+}
