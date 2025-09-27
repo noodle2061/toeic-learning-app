@@ -89,7 +89,7 @@ export const calculateNextReview = (wordProgress, rating) => {
  * Tạo bộ thẻ cho phiên học, bao gồm từ cần ôn và từ mới.
  * @param {Array<object>} allWords - Danh sách tất cả từ vựng của bài học.
  * @param {object} progress - Tiến độ hiện tại.
- * @returns {Array<object>} - Danh sách các từ cho phiên học.
+ * @returns {Array<object>} - Danh sách các từ cho phiên học đã được xáo trộn.
  */
 export const createReviewDeck = (allWords, progress) => {
   const now = new Date();
@@ -108,6 +108,15 @@ export const createReviewDeck = (allWords, progress) => {
     }
   }
 
-  // Ưu tiên các từ cần ôn tập
-  return [...reviewWords, ...newWords];
+  // Kết hợp các từ cần ôn và từ mới
+  const deck = [...reviewWords, ...newWords];
+
+  // THAY ĐỔI: Xáo trộn (shuffle) bộ thẻ để hiển thị ngẫu nhiên
+  // Thuật toán Fisher-Yates shuffle
+  for (let i = deck.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [deck[i], deck[j]] = [deck[j], deck[i]];
+  }
+
+  return deck;
 };
