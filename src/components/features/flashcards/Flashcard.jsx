@@ -124,12 +124,9 @@ const styles = {
     },
 };
 
-const Flashcard = ({ cardData, onRate }) => {
-    const [isFlipped, setIsFlipped] = useState(false);
-
-    useEffect(() => {
-        setIsFlipped(false);
-    }, [cardData]);
+const Flashcard = ({ cardData, onRate, isFlipped, setIsFlipped }) => {
+    // THAY ĐỔI: State 'isFlipped' và hàm 'setIsFlipped' giờ được nhận từ props
+    // Bỏ state và useEffect quản lý việc lật thẻ ở đây
 
     if (!cardData) return null;
 
@@ -147,6 +144,7 @@ const Flashcard = ({ cardData, onRate }) => {
     };
 
     const handleRatingClick = (rating) => {
+        // Chỉ cần gọi onRate, logic phức tạp đã được xử lý ở component cha
         onRate(rating);
     };
 
@@ -216,4 +214,3 @@ const Flashcard = ({ cardData, onRate }) => {
 };
 
 export default Flashcard;
-

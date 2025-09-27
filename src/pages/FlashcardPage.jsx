@@ -55,6 +55,8 @@ const FlashcardPage = () => {
     const [currentCardIndex, setCurrentCardIndex] = useState(0);
     const [progress, setProgress] = useState({});
     const [unitTitle, setUnitTitle] = useState('');
+    // THAY ĐỔI: Quản lý trạng thái lật thẻ ở component cha
+    const [isFlipped, setIsFlipped] = useState(false);
 
     useEffect(() => {
         const initializeSession = async () => {
@@ -95,9 +97,13 @@ const FlashcardPage = () => {
         setProgress(updatedProgress);
         saveProgress(unitId, updatedProgress);
         
+        // BƯỚC 1: Lật thẻ lại mặt trước
+        setIsFlipped(false);
+        
+        // BƯỚC 2: Đợi cho animation lật thẻ diễn ra rồi mới chuyển thẻ tiếp theo
         setTimeout(() => {
              setCurrentCardIndex(prevIndex => prevIndex + 1);
-        }, 200);
+        }, 300); // Thời gian chờ (ms), nên nhỏ hơn thời gian animation một chút
 
     }, [currentCardIndex, deck, progress, unitId]);
     
@@ -122,6 +128,9 @@ const FlashcardPage = () => {
                 <Flashcard 
                     cardData={deck[currentCardIndex]}
                     onRate={handleRate}
+                    // THAY ĐỔI: Truyền state và hàm set state vào component con
+                    isFlipped={isFlipped}
+                    setIsFlipped={setIsFlipped}
                 />
             )}
             
@@ -158,4 +167,3 @@ const FlashcardPage = () => {
 };
 
 export default FlashcardPage;
-

@@ -1,10 +1,10 @@
 // Các khoảng thời gian ôn tập (tính bằng phút) cho mỗi cấp độ theo đề xuất mới
 const REVIEW_INTERVALS_MINUTES = {
-  1: 5,       // 5 phút
-  2: 20,      // 20 phút
-  3: 45,      // 45 phút
-  4: 720,     // 12 giờ (12 * 60)
-  5: 4320,    // 3 ngày (3 * 24 * 60)
+  1: 5,        // 5 phút
+  2: 60,       // 1 tiếng
+  3: 720,      // 12 tiếng (12 * 60)
+  4: 4320,     // 3 ngày (3 * 24 * 60)
+  5: 21600,    // 15 ngày (15 * 24 * 60)
 };
 const MAX_LEVEL = 5; // Cấp độ cao nhất, coi như đã thuộc
 const NEW_WORDS_PER_SESSION = 10; // Số từ mới mỗi phiên học
@@ -111,4 +111,3 @@ export const createReviewDeck = (allWords, progress) => {
   // Ưu tiên các từ cần ôn tập
   return [...reviewWords, ...newWords];
 };
-
